@@ -1,0 +1,5 @@
+Change Component Library : Designator=R24 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=R43 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Added Component: Designator=TP42(TP-2)
+Added Pin To Net: NetName=FN1 Pin=TP42-1
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP42 TP4

@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=C64 Old DesignItemId=CL10B104KB8SFNC New DesignItemId=C0603C104K5RACTU
+Change Component DesignItemId : Designator=C78 Old DesignItemId=CL10B104KB8SFNC New DesignItemId=C0603C104K5RACTU
+Change Component DesignItemId : Designator=C81 Old DesignItemId=CL10B104KB8SFNC New DesignItemId=C0603C104K5RACTU
+Change Component Comment : Designator=C64 Old Comment=0.1uF 50V New Comment=100nF
+Change Component Comment : Designator=C78 Old Comment=0.1uF 50V New Comment=100nF
+Change Component Comment : Designator=C81 Old Comment=0.1uF 50V New Comment=100nF
+Change Component Description : Designator=C64 Old Description=CAP CER 0.1UF 50V 10% X7R 0603 New Description=CAP CER 0603 100nF 50V 10% X7R
+Change Component Description : Designator=C78 Old Description=CAP CER 0.1UF 50V 10% X7R 0603 New Description=CAP CER 0603 100nF 50V 10% X7R
+Change Component Description : Designator=C81 Old Description=CAP CER 0.1UF 50V 10% X7R 0603 New Description=CAP CER 0603 100nF 50V 10% X7R
+Change Component Library : Designator=C64 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C78 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C81 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB

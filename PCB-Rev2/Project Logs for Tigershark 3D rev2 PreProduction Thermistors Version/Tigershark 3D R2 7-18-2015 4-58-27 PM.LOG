@@ -1,0 +1,32 @@
+Change Component DesignItemId : Designator=C75_M1 Old DesignItemId=100nF C0402 - GRM155R71C104KA88D New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C75_M2 Old DesignItemId=100nF C0402 - GRM155R71C104KA88D New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C75_M3 Old DesignItemId=100nF C0402 - GRM155R71C104KA88D New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C75_M4 Old DesignItemId=100nF C0402 - GRM155R71C104KA88D New DesignItemId=GRM155R71C104KA88D
+Change Component Comment : Designator=C75_M1 Old Comment=0402 New Comment=100nF
+Change Component Comment : Designator=C75_M2 Old Comment=0402 New Comment=100nF
+Change Component Comment : Designator=C75_M3 Old Comment=0402 New Comment=100nF
+Change Component Comment : Designator=C75_M4 Old Comment=0402 New Comment=100nF
+Change Component Description : Designator=C75_M1 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 0402 100nF 16V 10% X7R
+Change Component Description : Designator=C75_M2 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 0402 100nF 16V 10% X7R
+Change Component Description : Designator=C75_M3 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 0402 100nF 16V 10% X7R
+Change Component Description : Designator=C75_M4 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 0402 100nF 16V 10% X7R
+Change Component Library : Designator=C75_M1 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C75_M2 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C75_M3 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C75_M4 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D20_M1 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D20_M2 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D20_M3 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D20_M4 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D21_M1 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D21_M2 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D21_M3 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D21_M4 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D22_M1 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D22_M2 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D22_M3 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D22_M4 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D23_M1 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D23_M2 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D23_M3 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=D23_M4 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB

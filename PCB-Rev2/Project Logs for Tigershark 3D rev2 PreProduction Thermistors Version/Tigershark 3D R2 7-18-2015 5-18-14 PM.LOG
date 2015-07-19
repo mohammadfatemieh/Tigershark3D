@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=M1_M1 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=M1_M2 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=M1_M3 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=M1_M4 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=M2 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=M3 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=T4 Old Footprint=4POL254 New Footprint=Molex 0705430003
+Change Component Footprint: Designator=P2_TR1 Old Footprint=70543-02 New Footprint=Molex 70543-02
+Change Component Footprint: Designator=P2_TR2 Old Footprint=70543-02 New Footprint=Molex 70543-02
+Change Component Footprint: Designator=P2_TR3 Old Footprint=70543-02 New Footprint=Molex 70543-02
+Change Component Footprint: Designator=P2_TR4 Old Footprint=70543-02 New Footprint=Molex 70543-02
+Change Component Footprint: Designator=R4_M1 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R4_M2 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R4_M3 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R4_M4 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R44_M1 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R44_M2 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R44_M3 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R44_M4 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R48 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=R49 Old Footprint=R0402 New Footprint=R1206
+Change Component Footprint: Designator=D12 Old Footprint=SK310A-TP New Footprint=SMB
+Change Component Footprint: Designator=D15 Old Footprint=SK310A-TP New Footprint=SMB
+Change Component Footprint: Designator=D17 Old Footprint=SK310A-TP New Footprint=SMB
+Change Component Footprint: Designator=D19 Old Footprint=SK310A-TP New Footprint=SMB

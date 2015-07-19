@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=P2_TR2 Old DesignItemId=Molex 70543-02 New DesignItemId=C-GRID-02-70543
+Change Component DesignItemId : Designator=P2_TR3 Old DesignItemId=Molex 70543-02 New DesignItemId=C-GRID-02-70543
+Change Component DesignItemId : Designator=P2_TR4 Old DesignItemId=Molex 70543-02 New DesignItemId=C-GRID-02-70543
+Change Component Comment : Designator=P2_TR1 Old Comment=Molex 70543-02 New Comment=C-GRID-02-70543
+Change Component Comment : Designator=P2_TR2 Old Comment=Molex 70543-02 New Comment=C-GRID-02-70543
+Change Component Comment : Designator=P2_TR3 Old Comment=Molex 70543-02 New Comment=C-GRID-02-70543
+Change Component Comment : Designator=P2_TR4 Old Comment=Molex 70543-02 New Comment=C-GRID-02-70543
+Change Component Description : Designator=P2_TR2 Old Description=Molex 70543-02 New Description=Connector 2pos
+Change Component Description : Designator=P2_TR3 Old Description=Molex 70543-02 New Description=Connector 2pos
+Change Component Description : Designator=P2_TR4 Old Description=Molex 70543-02 New Description=Connector 2pos
+Change Component Library : Designator=P2_TR2 Old Library=ZMBo Schematic Library.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=P2_TR3 Old Library=ZMBo Schematic Library.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=P2_TR4 Old Library=ZMBo Schematic Library.SchLib New Library=3Delight.SCHLIB

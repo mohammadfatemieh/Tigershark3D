@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5VCC Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Change Component DesignItemId : Designator=C11 Old DesignItemId=100nF C0402 - GRM155R71C104KA88D New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=FAN-1 Old DesignItemId=Molex 70543-02 New DesignItemId=C-GRID-02-70543
+Change Component Comment : Designator=C11 Old Comment=0402 New Comment=100nF
+Change Component Comment : Designator=FAN-1 Old Comment=Molex 70543-02 New Comment=C-GRID-02-70543
+Change Component Description : Designator=C11 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 0402 100nF 16V 10% X7R
+Change Component Description : Designator=FAN-1 Old Description=Molex 70543-02 New Description=Connector 2pos
+Change Component Library : Designator=C11 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C18 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C70 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=FAN-1 Old Library=ZMBo Schematic Library.SchLib New Library=3Delight.SCHLIB
