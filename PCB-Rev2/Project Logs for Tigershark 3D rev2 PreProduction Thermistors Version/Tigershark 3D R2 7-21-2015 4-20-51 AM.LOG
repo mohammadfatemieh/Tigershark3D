@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC51_2 Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=REF_Z Pin=R37-1
+Change Component Comment : Designator=R27 Old Comment=2.7K New Comment=10K
+Change Component Comment : Designator=R37 Old Comment=2.7K New Comment=10K
+Added Component: Designator=C84(C0402)
+Added Component: Designator=R53(R0402)
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=REF_Z Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=NetC51_2 Pin=R53-2
+Added Pin To Net: NetName=NetC84_2 Pin=C84-2
+Added Pin To Net: NetName=NetC84_2 Pin=R27-2
+Added Pin To Net: NetName=NetC84_2 Pin=R37-1
+Added Net: Name=NetC84_2
+Added Member To Class: ClassName=U_MZ Member=Component C84 0402
+Added Member To Class: ClassName=U_MZ Member=Component R53 100K

@@ -1,0 +1,2208 @@
+Wire List
+
+<<< Component List >>>
+4.7nF                           C1_ES1         C0402
+4.7nF                           C1_ES2         C0402
+4.7nF                           C1_ES3         C0402
+4.7nF                           C2_ES1         C0402
+4.7nF                           C2_ES2         C0402
+4.7nF                           C2_ES3         C0402
+1nF                             C3_M1          C0603
+1nF                             C3_M2          C0603
+1nF                             C3_M3          C0603
+1nF                             C3_M4          C0603
+47uF                            C4             C0805
+1nF                             C5_M1          C0603
+1nF                             C5_M2          C0603
+1nF                             C5_M3          C0603
+1nF                             C5_M4          C0603
+1nF                             C6_M1          C0603
+1nF                             C6_M2          C0603
+1nF                             C6_M3          C0603
+1nF                             C6_M4          C0603
+470uF                           C7             C12,5-5
+1nF                             C8_M1          C0603
+1nF                             C8_M2          C0603
+1nF                             C8_M3          C0603
+1nF                             C8_M4          C0603
+4.7uF                           C9             C1206
+1uF                             C10            C0805
+100nF                           C11            C0402
+100nF                           C12_M1         C0603
+100nF                           C12_M2         C0603
+100nF                           C12_M3         C0603
+100nF                           C12_M4         C0603
+0603                            C13            C0603
+100nF                           C14_M1         C0603
+100nF                           C14_M2         C0603
+100nF                           C14_M3         C0603
+100nF                           C14_M4         C0603
+EEE-1VA101XP                    C15            EEE-1VA101XP
+EEE-1VA101XP                    C16            EEE-1VA101XP
+0603                            C17            C0603
+0402                            C18            C0402
+4.7nF                           C19            C0402
+0402                            C20            C0402
+10uF                            C21            C0805
+1uF                             C22            C0402
+100nF                           C23            C0402
+0402                            C24            C0402
+100nF                           C25            C0402
+0402                            C26            C0402
+100nF                           C27            C0402
+1uF                             C28            C0402
+0603                            C29            C0603
+100nF                           C30_TR1        C0402
+100nF                           C30_TR2        C0402
+100nF                           C30_TR3        C0402
+100nF                           C30_TR4        C0402
+100nF                           C31            C0603
+0603                            C32            C0603
+100nF                           C33            C0402
+100nF                           C34            C0402
+100nF                           C35            C0402
+0603                            C36            C0603
+0402                            C37_M1         C0402
+0402                            C37_M2         C0402
+0402                            C37_M3         C0402
+0402                            C37_M4         C0402
+100nF                           C38            C0402
+100nF                           C39            C0402
+100nF                           C40            C0603
+100nF                           C41            C0402
+100nF                           C42            C0402
+0402                            C43            C0402
+0402                            C44            C0402
+100nF                           C45            C0402
+100nF                           C46            C0402
+100nF                           C47            C0402
+100nF                           C48            C0402
+0402                            C49            C0402
+0402                            C50            C0402
+0402                            C51            C0402
+1nF                             C52            C0603
+100nF                           C53            C0402
+100nF                           C54            C0402
+10uF 50V                        C55            C1206
+100nF                           C56            C0402
+100nF                           C57            C0402
+100nF                           C58            C0402
+100nF                           C59            C0402
+0603                            C60            C0603
+100nF                           C61            C0402
+1nF                             C62            C0603
+100nF                           C63            C0402
+100nF                           C64            C0603
+100nF                           C65            C0402
+100nF                           C66_M1         C0402
+100nF                           C66_M2         C0402
+100nF                           C66_M3         C0402
+100nF                           C66_M4         C0402
+1nF                             C67            C0603
+0402                            C68_M1         C0402
+0402                            C68_M2         C0402
+0402                            C68_M3         C0402
+0402                            C68_M4         C0402
+100nF                           C69            C0603
+0402                            C70            C0402
+0402                            C71_M1         C0402
+0402                            C71_M2         C0402
+0402                            C71_M3         C0402
+0402                            C71_M4         C0402
+1nF                             C72            C0603
+0402                            C73            C0402
+100nF                           C74            C0402
+0402                            C75_M1         C0402
+0402                            C75_M2         C0402
+0402                            C75_M3         C0402
+0402                            C75_M4         C0402
+10uF                            C76            C0805
+10uF 50V                        C77            C1206
+100nF                           C78            C0603
+1nF                             C79            C0603
+10uF 50V                        C80            C1206
+100nF                           C81            C0603
+1nF                             C82            C0603
+1nF                             C83            C0603
+0402                            C84            C0402
+MM3Z2V7T1G                      D1             SOD323-R
+SK310A-TP                       D2             SMA-SM
+1N4148WT                        D3_TR1         SOD523
+1N4148WT                        D3_TR2         SOD523
+1N4148WT                        D3_TR3         SOD523
+1N4148WT                        D3_TR4         SOD523
+S3A-13-F                        D4             DO-214AB
+1N4148WT                        D5_TR1         SOD523
+1N4148WT                        D5_TR2         SOD523
+1N4148WT                        D5_TR3         SOD523
+1N4148WT                        D5_TR4         SOD523
+S3A-13-F                        D6             DO-214AB
+S3A-13-F                        D7             DO-214AB
+RSB39VTE-17                     D8             SOD323-R
+RSB39VTE-17                     D9             SOD323-R
+5988140107F                     D10            LED2012120
+5988140107F                     D11            LED2012120
+B240A-13-F                      D12            SK310A-TP
+5988140107F                     D13            LED2012120
+5988140107F                     D14            LED2012120
+B240A-13-F                      D15            SK310A-TP
+5988140107F                     D16            LED2012120
+B240A-13-F                      D17            SK310A-TP
+5988140107F                     D18            LED2012120
+B240A-13-F                      D19            SK310A-TP
+SMAJ30A                         D20_M1         SMA-SM
+SMAJ30A                         D20_M2         SMA-SM
+SMAJ30A                         D20_M3         SMA-SM
+SMAJ30A                         D20_M4         SMA-SM
+SMAJ30A                         D21_M1         SMA-SM
+SMAJ30A                         D21_M2         SMA-SM
+SMAJ30A                         D21_M3         SMA-SM
+SMAJ30A                         D21_M4         SMA-SM
+SMAJ30A                         D22_M1         SMA-SM
+SMAJ30A                         D22_M2         SMA-SM
+SMAJ30A                         D22_M3         SMA-SM
+SMAJ30A                         D22_M4         SMA-SM
+SMAJ30A                         D23_M1         SMA-SM
+SMAJ30A                         D23_M2         SMA-SM
+SMAJ30A                         D23_M3         SMA-SM
+SMAJ30A                         D23_M4         SMA-SM
+5988140107F                     D24            LED2012120
+SMAJ30A                         D25            SMA-SM
+SMAJ30A                         D26            SMA-SM
+SMAJ30A                         D27            SMA-SM
+SMAJ30A                         D28            SMA-SM
+5988140107F                     D29            LED2012120
+PESDxL2BT                       DA1            SOT95P230X110-3N
+PESDxL2BT                       DA2            SOT95P230X110-3N
+PESDxL2BT                       DA3            SOT95P230X110-3N
+PESDxL2BT                       DA4            SOT95P230X110-3N
+3557-2                          F1             3557
+3557-2                          F2             3557
+3557-2                          F3             3557
+C-GRID-02-70543                 FAN-1          70543-02
+FIDUCIAL                        FD1            FIDUCIAL-1X2
+FIDUCIAL                        FD2            FIDUCIAL-1X2
+FIDUCIAL                        FD3            FIDUCIAL-1X2
+TP4                             GND_TP         TP-2
+Hole                            H1             Wave_hole_3x7-singleSided
+Hole                            H2             Wave_hole_3x7-singleSided
+Hole                            H3             Wave_hole_3x7-singleSided
+Hole                            H4             Wave_hole_3x7-singleSided
+USB-B                           J1             PN61729
+FTSH-105-XX-X-DV                J2             FTSH-105-XX-X-DV
+SJ                              JP1            SJ
+XAL5050-153MEB                  L1             XAL50xx-153
+LQM21FN100M70L                  L2             C0805
+LQM21FN100M70L                  L3             C0805
+LQM21FN100M70L                  L4             C0805
+5988170107F                     LED1           LED2012120
+OSHW_LOGO_8MILX0150-NT          LOGO1          OSHW_8X150_NOTEXT
+Molex 0705430003                M1_M1          4POL254
+Molex 0705430003                M1_M2          4POL254
+Molex 0705430003                M1_M3          4POL254
+Molex 0705430003                M1_M4          4POL254
+Molex 0705430003                M2             4POL254
+Molex 0705430003                M3             4POL254
+Molex 70543-03                  MAX1_ES1       70543-03
+Molex 70543-03                  MAX1_ES2       70543-03
+Molex 70543-03                  MAX1_ES3       70543-03
+Molex 70543-03                  MIN1_ES1       70543-03
+Molex 70543-03                  MIN1_ES2       70543-03
+Molex 70543-03                  MIN1_ES3       70543-03
+ERASE                           P1             HDR1X2
+C-GRID-02-70543                 P2_TR1         70543-02
+C-GRID-02-70543                 P2_TR2         70543-02
+C-GRID-02-70543                 P2_TR3         70543-02
+C-GRID-02-70543                 P2_TR4         70543-02
+Header 5X2                      P3             HDR2X5
+Header 5X2                      P4             HDR2X5
+Header 5X2                      P5             HDR2X5
+Header 5X2                      P6             HDR2X5
+NCV8402AD                       Q1             NCV8402AD-SOIC8
+PSMN7R0-60YS,115                Q4             SOT669
+PSMN7R0-60YS,115                Q5             SOT669
+PSMN7R0-60YS,115                Q6             SOT669
+PSMN7R0-60YS,115                Q7             SOT669
+10K                             R1             R0603
+2.7K                            R2_ES1         R0402
+2.7K                            R2_ES2         R0402
+2.7K                            R2_ES3         R0402
+2.7K                            R3_ES1         R0402
+2.7K                            R3_ES2         R0402
+2.7K                            R3_ES3         R0402
+NP                              R4_M1          R0402
+NP                              R4_M2          R0402
+NP                              R4_M3          R0402
+NP                              R4_M4          R0402
+39r                             R5             R0402
+100K                            R6             R0402
+10K                             R7             R0603
+100K                            R8_M1          R0402
+100K                            R8_M2          R0402
+100K                            R8_M3          R0402
+100K                            R8_M4          R0402
+10K                             R9_M1          R0402
+10K                             R9_M2          R0402
+10K                             R9_M3          R0402
+10K                             R9_M4          R0402
+R0603TBD                        R10            R0603
+1K                              R11            R0603
+R0603TBD                        R12            R0603
+1.8K                            R13            R0603
+4.7K                            R14_TR1        R0603
+4.7K                            R14_TR2        R0603
+4.7K                            R14_TR3        R0603
+4.7K                            R14_TR4        R0603
+24r                             R15            R0603
+24r                             R16            R0603
+200K                            R17            R0402
+24r                             R18            R0603
+4.7K                            R19_TR1        R0603
+4.7K                            R19_TR2        R0603
+4.7K                            R19_TR3        R0603
+4.7K                            R19_TR4        R0603
+24r                             R20            R0603
+10K                             R21            R0603
+39r                             R22            R0402
+6.8K                            R23            R0402
+1M                              R24            R0402
+1K                              R25            R0603
+1K                              R26            R0603
+10K                             R27            R0402
+10K                             R28            R0402
+10K                             R29            R0402
+1M                              R30_M1         R0402
+1M                              R30_M2         R0402
+1M                              R30_M3         R0402
+1M                              R30_M4         R0402
+10K                             R31_M1         R0402
+10K                             R31_M2         R0402
+10K                             R31_M3         R0402
+10K                             R31_M4         R0402
+2512                            R32_M1         2512R-0.55
+2512                            R32_M2         2512R-0.55
+2512                            R32_M3         2512R-0.55
+2512                            R32_M4         2512R-0.55
+2512                            R33_M1         2512R-0.55
+2512                            R33_M2         2512R-0.55
+2512                            R33_M3         2512R-0.55
+2512                            R33_M4         2512R-0.55
+10K                             R34            R0402
+10K                             R35            R0402
+1M                              R36            R0402
+10K                             R37            R0402
+2512                            R38            2512R-0.55
+2512                            R39            2512R-0.55
+10K                             R40            R0402
+1M                              R41            R0402
+4.7K                            R42            R0603
+4.7K                            R43            R0603
+NP                              R44_M1         R0402
+NP                              R44_M2         R0402
+NP                              R44_M3         R0402
+NP                              R44_M4         R0402
+10r                             R45            R0603
+100K                            R46            R0402
+1.8K                            R47            R0603
+NP                              R48            R0402
+NP                              R49            R0402
+10K                             R50            R0402
+0.6r                            R51            2512R-0.55
+10r                             R52            R0603
+100K                            R53            R0402
+100K                            R55            R0402
+1.8K                            R56            R0603
+10r                             R58            R0603
+100K                            R59            R0402
+1.8K                            R60            R0603
+10r                             R62            R0603
+100K                            R63            R0402
+1.8K                            R64            R0603
+10r                             R66            R0603
+100K                            R67            R0402
+1.8K                            R68            R0603
+10r                             R70            R0603
+100K                            R71            R0402
+1571610-2                       S1             B3F-31XX
+502570-0893                     SD             502570-0893 - Molex SD
+Molex 0395311010                T1             MSTBV10
+MSTBV6                          T3             MSTBV6
+Molex 0705430003                T4             4POL254
+TP4                             TP1_M1         TP-2
+TP4                             TP1_M2         TP-2
+TP4                             TP1_M3         TP-2
+TP4                             TP1_M4         TP-2
+TP4                             TP2            TP-2
+TP4                             TP3            TP-2
+TP4                             TP4            TP-2
+TP4                             TP5            TP-2
+TP4                             TP6            TP-2
+TP4                             TP7            TP-2
+TP4                             TP8            TP-2
+TP4                             TP9_ES1        TP-2
+TP4                             TP9_ES2        TP-2
+TP4                             TP9_ES3        TP-2
+TP4                             TP10_ES1       TP-2
+TP4                             TP10_ES2       TP-2
+TP4                             TP10_ES3       TP-2
+TP4                             TP11           TP-2
+TP4                             TP12           TP-2
+TP4                             TP13           TP-2
+TP4                             TP14           TP-2
+TP4                             TP15           TP-2
+TP4                             TP16           TP-2
+TP4                             TP17           TP-2
+TP4                             TP18           TP-2
+TP4                             TP19           TP-2
+TP4                             TP20           TP-2
+TP4                             TP21           TP-2
+TP4                             TP22           TP-2
+TP4                             TP23           TP-2
+TP4                             TP24_M1        TP-2
+TP4                             TP24_M2        TP-2
+TP4                             TP24_M3        TP-2
+TP4                             TP24_M4        TP-2
+TP4                             TP25_M1        TP-2
+TP4                             TP25_M2        TP-2
+TP4                             TP25_M3        TP-2
+TP4                             TP25_M4        TP-2
+TP4                             TP26_M1        TP-2
+TP4                             TP26_M2        TP-2
+TP4                             TP26_M3        TP-2
+TP4                             TP26_M4        TP-2
+TP4                             TP27_M1        TP-2
+TP4                             TP27_M2        TP-2
+TP4                             TP27_M3        TP-2
+TP4                             TP27_M4        TP-2
+TP4                             TP28           TP-2
+TP4                             TP29           TP-2
+TP4                             TP30           TP-2
+TP4                             TP31           TP-2
+TP4                             TP32_M1        TP-2
+TP4                             TP32_M2        TP-2
+TP4                             TP32_M3        TP-2
+TP4                             TP32_M4        TP-2
+TP4                             TP33_M1        TP-2
+TP4                             TP33_M2        TP-2
+TP4                             TP33_M3        TP-2
+TP4                             TP33_M4        TP-2
+TP4                             TP34           TP-2
+TP4                             TP35_M1        TP-2
+TP4                             TP35_M2        TP-2
+TP4                             TP35_M3        TP-2
+TP4                             TP35_M4        TP-2
+TP4                             TP36_M1        TP-2
+TP4                             TP36_M2        TP-2
+TP4                             TP36_M3        TP-2
+TP4                             TP36_M4        TP-2
+TP4                             TP37_M1        TP-2
+TP4                             TP37_M2        TP-2
+TP4                             TP37_M3        TP-2
+TP4                             TP37_M4        TP-2
+TP4                             TP38           TP-2
+TP4                             TP39_M1        TP-2
+TP4                             TP39_M2        TP-2
+TP4                             TP39_M3        TP-2
+TP4                             TP39_M4        TP-2
+TP4                             TP40_M1        TP-2
+TP4                             TP40_M2        TP-2
+TP4                             TP40_M3        TP-2
+TP4                             TP40_M4        TP-2
+TP4                             TP41           TP-2
+TP4                             TP42           TP-2
+TP4                             TP43           TP-2
+TP4                             TP44           TP-2
+TP4                             TP45           TP-2
+TP4                             TP46           TP-2
+TP4                             TP47           TP-2
+TP4                             TP48           TP-2
+TP4                             TP49           TP-2
+TP4                             TP50           TP-2
+TP4                             TP51           TP-2
+TP4                             TP52_TR1       TP-2
+TP4                             TP52_TR2       TP-2
+TP4                             TP52_TR3       TP-2
+TP4                             TP52_TR4       TP-2
+TP4                             TP53           TP-2
+TP4                             TP54           TP-2
+TP4                             TP55           TP-2
+TP4                             TP56           TP-2
+TP4                             TP57           TP-2
+TP4                             TP58           TP-2
+TP4                             TP59           TP-2
+TP4                             TP60           TP-2
+TP4                             TP61           TP-2
+TP4                             TP62           TP-2
+LM25011MY/NOPB                  U1             VSSOP10
+MIC5353-3.3YMT-TR               U2             TDFN1616-6LD-PL-1
+ATML-ATSAM3X-LQFP-144           U3             LQFP144_N
+DRV8825                         U5             DRV8825PWPR
+ADuM4160                        U6             ADuM4160
+DRV8825                         U7_M1          DRV8825PWPR
+DRV8825                         U7_M2          DRV8825PWPR
+DRV8825                         U7_M3          DRV8825PWPR
+DRV8825                         U7_M4          DRV8825PWPR
+TXB0106 Level Shifter           U8             TSOP65P640X120-16N
+S25FL216K0PMFI041               U9             S25FL216K0PMFI041
+7M-12.000MEEQ-T                 X2             CRYS320250
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] NetP2_TR4_1
+        P2_TR4     1       S              PASSIVE     C-GRID-02-70543
+        R14_TR4    1       1              PASSIVE     4.7K
+        R19_TR4    1       1              PASSIVE     4.7K
+
+[00002] NetP2_TR3_1
+        P2_TR3     1       S              PASSIVE     C-GRID-02-70543
+        R14_TR3    1       1              PASSIVE     4.7K
+        R19_TR3    1       1              PASSIVE     4.7K
+
+[00003] NetP2_TR2_1
+        P2_TR2     1       S              PASSIVE     C-GRID-02-70543
+        R14_TR2    1       1              PASSIVE     4.7K
+        R19_TR2    1       1              PASSIVE     4.7K
+
+[00004] NetP2_TR1_1
+        P2_TR1     1       S              PASSIVE     C-GRID-02-70543
+        R14_TR1    1       1              PASSIVE     4.7K
+        R19_TR1    1       1              PASSIVE     4.7K
+
+[00006] NetR17_1
+        R17        1       1              PASSIVE     200K
+        U1         2       RT             POWER       LM25011MY/NOPB
+
+[00007] NetR10_2
+        R10        2       2              PASSIVE     R0603TBD
+        R12        1       1              PASSIVE     R0603TBD
+        U1         6       FB             INPUT       LM25011MY/NOPB
+
+[00008] NetR7_1
+        R7         1       1              PASSIVE     10K
+        U1         3       PGD            POWER       LM25011MY/NOPB
+
+[00009] NetLED1_A
+        LED1       A       A              PASSIVE     5988170107F
+        R11        1       1              PASSIVE     1K
+
+[00010] NetF3_1
+        F3         1       1              PASSIVE     3557-2
+        T3         5       1              PASSIVE     MSTBV6
+        TP53       1       1              PASSIVE     TP4
+
+[00011] NetF2_1
+        F2         1       1              PASSIVE     3557-2
+        T3         1       1              PASSIVE     MSTBV6
+        TP48       1       1              PASSIVE     TP4
+
+[00012] NetF1_1
+        F1         1       1              PASSIVE     3557-2
+        T3         3       1              PASSIVE     MSTBV6
+        TP50       1       1              PASSIVE     TP4
+
+[00013] NetD2_A
+        D2         A       A              PASSIVE     SK310A-TP
+        R51        2       2              PASSIVE     0.6r
+        U1         8       CS             INPUT       LM25011MY/NOPB
+
+[00014] NetC40_2
+        C40        2       2              PASSIVE     100nF
+        D2         C       C              PASSIVE     SK310A-TP
+        L1         1       1              PASSIVE     XAL5050-153MEB
+        U1         9       SW             OUTPUT      LM25011MY/NOPB
+
+[00015] NetC40_1
+        C40        1       1              PASSIVE     100nF
+        U1         10      BST            POWER       LM25011MY/NOPB
+
+[00016] NetC22_1
+        C22        1       1              PASSIVE     1uF
+        U1         4       SS             POWER       LM25011MY/NOPB
+
+[00017] NetC18_1
+        C18        1       1              PASSIVE     0402
+        U2         6       BYP            POWER       MIC5353-3.3YMT-TR
+
+[00020] NetR39_2
+        R39        2       2              PASSIVE     2512
+        U5         6       ISENA          PASSIVE     DRV8825
+
+[00021] NetR38_2
+        R38        2       2              PASSIVE     2512
+        U5         9       ISENB          PASSIVE     DRV8825
+
+[00022] NetC84_2
+        C84        2       2              PASSIVE     0402
+        R27        2       2              PASSIVE     10K
+        R37        1       1              PASSIVE     10K
+
+[00023] NetC72_2
+        C72        2       2              PASSIVE     1nF
+        D28        A       A              PASSIVE     SMAJ30A
+        M2         2       OUT2A          PASSIVE     Molex 0705430003
+        M3         2       OUT2A          PASSIVE     Molex 0705430003
+        TP23       1       1              PASSIVE     TP4
+        U5         8       BOUT2          PASSIVE     DRV8825
+
+[00024] NetC67_1
+        C67        1       1              PASSIVE     1nF
+        D27        A       A              PASSIVE     SMAJ30A
+        M2         1       OUT2B          PASSIVE     Molex 0705430003
+        M3         1       OUT2B          PASSIVE     Molex 0705430003
+        TP22       1       1              PASSIVE     TP4
+        U5         10      BOUT1          PASSIVE     DRV8825
+
+[00025] NetC62_1
+        C62        1       1              PASSIVE     1nF
+        D26        A       A              PASSIVE     SMAJ30A
+        M2         3       OUT1A          PASSIVE     Molex 0705430003
+        M3         3       OUT1A          PASSIVE     Molex 0705430003
+        TP4        1       1              PASSIVE     TP4
+        U5         7       AOUT2          PASSIVE     DRV8825
+
+[00026] NetC52_1
+        C52        1       1              PASSIVE     1nF
+        D25        A       A              PASSIVE     SMAJ30A
+        M2         4       OUT1B          PASSIVE     Molex 0705430003
+        M3         4       OUT1B          PASSIVE     Molex 0705430003
+        TP5        1       1              PASSIVE     TP4
+        U5         5       AOUT1          PASSIVE     DRV8825
+
+[00027] NetC51_2
+        C51        2       2              PASSIVE     0402
+        R37        2       2              PASSIVE     10K
+        R53        2       2              PASSIVE     100K
+        TP3        1       1              PASSIVE     TP4
+        TP15       1       1              PASSIVE     TP4
+        U5         12      AVREF          PASSIVE     DRV8825
+        U5         13      BVREF          PASSIVE     DRV8825
+
+[00028] NetC50_2
+        C50        2       2              PASSIVE     0402
+        U5         15      V3P3OUT        PASSIVE     DRV8825
+
+[00029] NetC49_2
+        C49        2       2              PASSIVE     0402
+        U5         2       CP2            PASSIVE     DRV8825
+
+[00030] NetC49_1
+        C49        1       1              PASSIVE     0402
+        U5         1       CP1            PASSIVE     DRV8825
+
+[00031] NetC35_1
+        C35        1       1              PASSIVE     100nF
+        R36        1       1              PASSIVE     1M
+        U5         3       VCP            PASSIVE     DRV8825
+
+[00032] DECAYZ
+        R48        1       1              PASSIVE     NP
+        R49        2       2              PASSIVE     NP
+        U5         19      DECAY          PASSIVE     DRV8825
+
+[00033] NetR70_1
+        R70        1       1              PASSIVE     10r
+        U8         10      B6             PASSIVE     TXB0106 Level Shifter
+
+[00034] NetR66_1
+        R66        1       1              PASSIVE     10r
+        U8         11      B5             PASSIVE     TXB0106 Level Shifter
+
+[00035] NetR62_1
+        R62        1       1              PASSIVE     10r
+        U8         12      B4             PASSIVE     TXB0106 Level Shifter
+
+[00036] NetR58_1
+        R58        1       1              PASSIVE     10r
+        U8         13      B3             PASSIVE     TXB0106 Level Shifter
+
+[00037] NetR52_1
+        R52        1       1              PASSIVE     10r
+        U8         14      B2             PASSIVE     TXB0106 Level Shifter
+
+[00038] NetR45_1
+        R45        1       1              PASSIVE     10r
+        U8         16      B1             PASSIVE     TXB0106 Level Shifter
+
+[00039] NetQ7_4
+        Q7         4       G              PASSIVE     PSMN7R0-60YS,115
+        R70        2       2              PASSIVE     10r
+
+[00040] NetQ6_4
+        Q6         4       G              PASSIVE     PSMN7R0-60YS,115
+        R66        2       2              PASSIVE     10r
+
+[00041] NetQ5_4
+        Q5         4       G              PASSIVE     PSMN7R0-60YS,115
+        R62        2       2              PASSIVE     10r
+
+[00042] NetQ4_4
+        Q4         4       G              PASSIVE     PSMN7R0-60YS,115
+        R58        2       2              PASSIVE     10r
+
+[00043] NetQ1_4
+        Q1         4       G              PASSIVE     NCV8402AD
+        R52        2       2              PASSIVE     10r
+
+[00044] NetQ1_2
+        Q1         2       G              PASSIVE     NCV8402AD
+        R45        2       2              PASSIVE     10r
+
+[00045] NetD18_A
+        D18        A       A              PASSIVE     5988140107F
+        R68        1       1              PASSIVE     1.8K
+
+[00046] NetD16_A
+        D16        A       A              PASSIVE     5988140107F
+        R64        1       1              PASSIVE     1.8K
+
+[00047] NetD14_A
+        D14        A       A              PASSIVE     5988140107F
+        R60        1       1              PASSIVE     1.8K
+
+[00048] NetD13_A
+        D13        A       A              PASSIVE     5988140107F
+        R56        1       1              PASSIVE     1.8K
+
+[00049] NetD11_A
+        D11        A       A              PASSIVE     5988140107F
+        R47        1       1              PASSIVE     1.8K
+
+[00050] NetD10_C
+        D10        C       C              PASSIVE     5988140107F
+        FAN-1      2       S              PASSIVE     C-GRID-02-70543
+        Q1         7       D              PASSIVE     NCV8402AD
+        TP41       1       1              PASSIVE     TP4
+
+[00051] NetD10_A
+        D10        A       A              PASSIVE     5988140107F
+        R13        1       1              PASSIVE     1.8K
+
+[00052] HTRA
+        D16        C       C              PASSIVE     5988140107F
+        D17        1       A              PASSIVE     B240A-13-F
+        Q6         MB      D              PASSIVE     PSMN7R0-60YS,115
+        T1         4       4              PASSIVE     Molex 0395311010
+        TP13       1       1              PASSIVE     TP4
+
+[00053] HTR1
+        D14        C       C              PASSIVE     5988140107F
+        D15        1       A              PASSIVE     B240A-13-F
+        Q5         MB      D              PASSIVE     PSMN7R0-60YS,115
+        T1         6       6              PASSIVE     Molex 0395311010
+        TP12       1       1              PASSIVE     TP4
+
+[00054] HTR0
+        D12        1       A              PASSIVE     B240A-13-F
+        D13        C       C              PASSIVE     5988140107F
+        Q4         MB      D              PASSIVE     PSMN7R0-60YS,115
+        T1         8       8              PASSIVE     Molex 0395311010
+        TP11       1       1              PASSIVE     TP4
+
+[00055] HTBD
+        D18        C       C              PASSIVE     5988140107F
+        D19        1       A              PASSIVE     B240A-13-F
+        Q7         MB      D              PASSIVE     PSMN7R0-60YS,115
+        T1         2       2              PASSIVE     Molex 0395311010
+        TP14       1       1              PASSIVE     TP4
+
+[00056] FN1
+        D11        C       C              PASSIVE     5988140107F
+        Q1         5       D              PASSIVE     NCV8402AD
+        T1         10      10             PASSIVE     Molex 0395311010
+        TP42       1       1              PASSIVE     TP4
+
+[00057] +12VCC3
+        C15        1       1              PASSIVE     EEE-1VA101XP
+        C77        1       1              PASSIVE     10uF 50V
+        C78        1       1              PASSIVE     100nF
+        C79        1       1              PASSIVE     1nF
+        D4         C       C              PASSIVE     S3A-13-F
+        D19        2       K              PASSIVE     B240A-13-F
+        F2         2       2              PASSIVE     3557-2
+        R68        2       2              PASSIVE     1.8K
+        T1         1       1              PASSIVE     Molex 0395311010
+        TP49       1       1              PASSIVE     TP4
+
+[00058] +12VCC2
+        C9         1       1              PASSIVE     4.7uF
+        C10        1       1              PASSIVE     1uF
+        C16        1       1              PASSIVE     EEE-1VA101XP
+        C55        1       1              PASSIVE     10uF 50V
+        C64        1       1              PASSIVE     100nF
+        C83        1       1              PASSIVE     1nF
+        D6         C       C              PASSIVE     S3A-13-F
+        D12        2       K              PASSIVE     B240A-13-F
+        D15        2       K              PASSIVE     B240A-13-F
+        D17        2       K              PASSIVE     B240A-13-F
+        F1         2       2              PASSIVE     3557-2
+        FAN-1      1       S              PASSIVE     C-GRID-02-70543
+        R13        2       2              PASSIVE     1.8K
+        R17        2       2              PASSIVE     200K
+        R47        2       2              PASSIVE     1.8K
+        R56        2       2              PASSIVE     1.8K
+        R60        2       2              PASSIVE     1.8K
+        R64        2       2              PASSIVE     1.8K
+        T1         3       3              PASSIVE     Molex 0395311010
+        T1         5       5              PASSIVE     Molex 0395311010
+        T1         7       7              PASSIVE     Molex 0395311010
+        T1         9       9              PASSIVE     Molex 0395311010
+        TP51       1       1              PASSIVE     TP4
+        U1         1       VIN            POWER       LM25011MY/NOPB
+
+[00061] NetR33_M4_2
+        R33_M4     2       2              PASSIVE     2512
+        U7_M4      6       ISENA          PASSIVE     DRV8825
+
+[00062] NetR32_M4_2
+        R32_M4     2       2              PASSIVE     2512
+        U7_M4      9       ISENB          PASSIVE     DRV8825
+
+[00063] NetC75_M4_2
+        C75_M4     2       2              PASSIVE     0402
+        R9_M4      1       1              PASSIVE     10K
+        R31_M4     2       2              PASSIVE     10K
+
+[00064] NetC71_M4_2
+        C71_M4     2       2              PASSIVE     0402
+        U7_M4      15      V3P3OUT        PASSIVE     DRV8825
+
+[00065] NetC68_M4_2
+        C68_M4     2       2              PASSIVE     0402
+        U7_M4      2       CP2            PASSIVE     DRV8825
+
+[00066] NetC68_M4_1
+        C68_M4     1       1              PASSIVE     0402
+        U7_M4      1       CP1            PASSIVE     DRV8825
+
+[00067] NetC66_M4_1
+        C66_M4     1       1              PASSIVE     100nF
+        R30_M4     1       1              PASSIVE     1M
+        U7_M4      3       VCP            PASSIVE     DRV8825
+
+[00068] NetC37_M4_2
+        C37_M4     2       2              PASSIVE     0402
+        R8_M4      2       2              PASSIVE     100K
+        R9_M4      2       2              PASSIVE     10K
+        TP1_M4     1       1              PASSIVE     TP4
+        TP33_M4    1       1              PASSIVE     TP4
+        U7_M4      12      AVREF          PASSIVE     DRV8825
+        U7_M4      13      BVREF          PASSIVE     DRV8825
+
+[00069] NetC8_M4_2
+        C8_M4      2       2              PASSIVE     1nF
+        D23_M4     A       A              PASSIVE     SMAJ30A
+        M1_M4      2       OUT2A          PASSIVE     Molex 0705430003
+        TP27_M4    1       1              PASSIVE     TP4
+        U7_M4      8       BOUT2          PASSIVE     DRV8825
+
+[00070] NetC6_M4_1
+        C6_M4      1       1              PASSIVE     1nF
+        D22_M4     A       A              PASSIVE     SMAJ30A
+        M1_M4      1       OUT2B          PASSIVE     Molex 0705430003
+        TP26_M4    1       1              PASSIVE     TP4
+        U7_M4      10      BOUT1          PASSIVE     DRV8825
+
+[00071] NetC5_M4_1
+        C5_M4      1       1              PASSIVE     1nF
+        D21_M4     A       A              PASSIVE     SMAJ30A
+        M1_M4      3       OUT1A          PASSIVE     Molex 0705430003
+        TP25_M4    1       1              PASSIVE     TP4
+        U7_M4      7       AOUT2          PASSIVE     DRV8825
+
+[00072] NetC3_M4_1
+        C3_M4      1       1              PASSIVE     1nF
+        D20_M4     A       A              PASSIVE     SMAJ30A
+        M1_M4      4       OUT1B          PASSIVE     Molex 0705430003
+        TP24_M4    1       1              PASSIVE     TP4
+        U7_M4      5       AOUT1          PASSIVE     DRV8825
+
+[00073] DECAY_M4
+        R4_M4      1       1              PASSIVE     NP
+        R44_M4     2       2              PASSIVE     NP
+        U7_M4      19      DECAY          PASSIVE     DRV8825
+
+[00076] NetR33_M3_2
+        R33_M3     2       2              PASSIVE     2512
+        U7_M3      6       ISENA          PASSIVE     DRV8825
+
+[00077] NetR32_M3_2
+        R32_M3     2       2              PASSIVE     2512
+        U7_M3      9       ISENB          PASSIVE     DRV8825
+
+[00078] NetC75_M3_2
+        C75_M3     2       2              PASSIVE     0402
+        R9_M3      1       1              PASSIVE     10K
+        R31_M3     2       2              PASSIVE     10K
+
+[00079] NetC71_M3_2
+        C71_M3     2       2              PASSIVE     0402
+        U7_M3      15      V3P3OUT        PASSIVE     DRV8825
+
+[00080] NetC68_M3_2
+        C68_M3     2       2              PASSIVE     0402
+        U7_M3      2       CP2            PASSIVE     DRV8825
+
+[00081] NetC68_M3_1
+        C68_M3     1       1              PASSIVE     0402
+        U7_M3      1       CP1            PASSIVE     DRV8825
+
+[00082] NetC66_M3_1
+        C66_M3     1       1              PASSIVE     100nF
+        R30_M3     1       1              PASSIVE     1M
+        U7_M3      3       VCP            PASSIVE     DRV8825
+
+[00083] NetC37_M3_2
+        C37_M3     2       2              PASSIVE     0402
+        R8_M3      2       2              PASSIVE     100K
+        R9_M3      2       2              PASSIVE     10K
+        TP1_M3     1       1              PASSIVE     TP4
+        TP33_M3    1       1              PASSIVE     TP4
+        U7_M3      12      AVREF          PASSIVE     DRV8825
+        U7_M3      13      BVREF          PASSIVE     DRV8825
+
+[00084] NetC8_M3_2
+        C8_M3      2       2              PASSIVE     1nF
+        D23_M3     A       A              PASSIVE     SMAJ30A
+        M1_M3      2       OUT2A          PASSIVE     Molex 0705430003
+        TP27_M3    1       1              PASSIVE     TP4
+        U7_M3      8       BOUT2          PASSIVE     DRV8825
+
+[00085] NetC6_M3_1
+        C6_M3      1       1              PASSIVE     1nF
+        D22_M3     A       A              PASSIVE     SMAJ30A
+        M1_M3      1       OUT2B          PASSIVE     Molex 0705430003
+        TP26_M3    1       1              PASSIVE     TP4
+        U7_M3      10      BOUT1          PASSIVE     DRV8825
+
+[00086] NetC5_M3_1
+        C5_M3      1       1              PASSIVE     1nF
+        D21_M3     A       A              PASSIVE     SMAJ30A
+        M1_M3      3       OUT1A          PASSIVE     Molex 0705430003
+        TP25_M3    1       1              PASSIVE     TP4
+        U7_M3      7       AOUT2          PASSIVE     DRV8825
+
+[00087] NetC3_M3_1
+        C3_M3      1       1              PASSIVE     1nF
+        D20_M3     A       A              PASSIVE     SMAJ30A
+        M1_M3      4       OUT1B          PASSIVE     Molex 0705430003
+        TP24_M3    1       1              PASSIVE     TP4
+        U7_M3      5       AOUT1          PASSIVE     DRV8825
+
+[00088] DECAY_M3
+        R4_M3      1       1              PASSIVE     NP
+        R44_M3     2       2              PASSIVE     NP
+        U7_M3      19      DECAY          PASSIVE     DRV8825
+
+[00091] NetR33_M2_2
+        R33_M2     2       2              PASSIVE     2512
+        U7_M2      6       ISENA          PASSIVE     DRV8825
+
+[00092] NetR32_M2_2
+        R32_M2     2       2              PASSIVE     2512
+        U7_M2      9       ISENB          PASSIVE     DRV8825
+
+[00093] NetC75_M2_2
+        C75_M2     2       2              PASSIVE     0402
+        R9_M2      1       1              PASSIVE     10K
+        R31_M2     2       2              PASSIVE     10K
+
+[00094] NetC71_M2_2
+        C71_M2     2       2              PASSIVE     0402
+        U7_M2      15      V3P3OUT        PASSIVE     DRV8825
+
+[00095] NetC68_M2_2
+        C68_M2     2       2              PASSIVE     0402
+        U7_M2      2       CP2            PASSIVE     DRV8825
+
+[00096] NetC68_M2_1
+        C68_M2     1       1              PASSIVE     0402
+        U7_M2      1       CP1            PASSIVE     DRV8825
+
+[00097] NetC66_M2_1
+        C66_M2     1       1              PASSIVE     100nF
+        R30_M2     1       1              PASSIVE     1M
+        U7_M2      3       VCP            PASSIVE     DRV8825
+
+[00098] NetC37_M2_2
+        C37_M2     2       2              PASSIVE     0402
+        R8_M2      2       2              PASSIVE     100K
+        R9_M2      2       2              PASSIVE     10K
+        TP1_M2     1       1              PASSIVE     TP4
+        TP33_M2    1       1              PASSIVE     TP4
+        U7_M2      12      AVREF          PASSIVE     DRV8825
+        U7_M2      13      BVREF          PASSIVE     DRV8825
+
+[00099] NetC8_M2_2
+        C8_M2      2       2              PASSIVE     1nF
+        D23_M2     A       A              PASSIVE     SMAJ30A
+        M1_M2      2       OUT2A          PASSIVE     Molex 0705430003
+        TP27_M2    1       1              PASSIVE     TP4
+        U7_M2      8       BOUT2          PASSIVE     DRV8825
+
+[00100] NetC6_M2_1
+        C6_M2      1       1              PASSIVE     1nF
+        D22_M2     A       A              PASSIVE     SMAJ30A
+        M1_M2      1       OUT2B          PASSIVE     Molex 0705430003
+        TP26_M2    1       1              PASSIVE     TP4
+        U7_M2      10      BOUT1          PASSIVE     DRV8825
+
+[00101] NetC5_M2_1
+        C5_M2      1       1              PASSIVE     1nF
+        D21_M2     A       A              PASSIVE     SMAJ30A
+        M1_M2      3       OUT1A          PASSIVE     Molex 0705430003
+        TP25_M2    1       1              PASSIVE     TP4
+        U7_M2      7       AOUT2          PASSIVE     DRV8825
+
+[00102] NetC3_M2_1
+        C3_M2      1       1              PASSIVE     1nF
+        D20_M2     A       A              PASSIVE     SMAJ30A
+        M1_M2      4       OUT1B          PASSIVE     Molex 0705430003
+        TP24_M2    1       1              PASSIVE     TP4
+        U7_M2      5       AOUT1          PASSIVE     DRV8825
+
+[00103] DECAY_M2
+        R4_M2      1       1              PASSIVE     NP
+        R44_M2     2       2              PASSIVE     NP
+        U7_M2      19      DECAY          PASSIVE     DRV8825
+
+[00106] NetR33_M1_2
+        R33_M1     2       2              PASSIVE     2512
+        U7_M1      6       ISENA          PASSIVE     DRV8825
+
+[00107] NetR32_M1_2
+        R32_M1     2       2              PASSIVE     2512
+        U7_M1      9       ISENB          PASSIVE     DRV8825
+
+[00108] NetC75_M1_2
+        C75_M1     2       2              PASSIVE     0402
+        R9_M1      1       1              PASSIVE     10K
+        R31_M1     2       2              PASSIVE     10K
+
+[00109] NetC71_M1_2
+        C71_M1     2       2              PASSIVE     0402
+        U7_M1      15      V3P3OUT        PASSIVE     DRV8825
+
+[00110] NetC68_M1_2
+        C68_M1     2       2              PASSIVE     0402
+        U7_M1      2       CP2            PASSIVE     DRV8825
+
+[00111] NetC68_M1_1
+        C68_M1     1       1              PASSIVE     0402
+        U7_M1      1       CP1            PASSIVE     DRV8825
+
+[00112] NetC66_M1_1
+        C66_M1     1       1              PASSIVE     100nF
+        R30_M1     1       1              PASSIVE     1M
+        U7_M1      3       VCP            PASSIVE     DRV8825
+
+[00113] NetC37_M1_2
+        C37_M1     2       2              PASSIVE     0402
+        R8_M1      2       2              PASSIVE     100K
+        R9_M1      2       2              PASSIVE     10K
+        TP1_M1     1       1              PASSIVE     TP4
+        TP33_M1    1       1              PASSIVE     TP4
+        U7_M1      12      AVREF          PASSIVE     DRV8825
+        U7_M1      13      BVREF          PASSIVE     DRV8825
+
+[00114] NetC8_M1_2
+        C8_M1      2       2              PASSIVE     1nF
+        D23_M1     A       A              PASSIVE     SMAJ30A
+        M1_M1      2       OUT2A          PASSIVE     Molex 0705430003
+        TP27_M1    1       1              PASSIVE     TP4
+        U7_M1      8       BOUT2          PASSIVE     DRV8825
+
+[00115] NetC6_M1_1
+        C6_M1      1       1              PASSIVE     1nF
+        D22_M1     A       A              PASSIVE     SMAJ30A
+        M1_M1      1       OUT2B          PASSIVE     Molex 0705430003
+        TP26_M1    1       1              PASSIVE     TP4
+        U7_M1      10      BOUT1          PASSIVE     DRV8825
+
+[00116] NetC5_M1_1
+        C5_M1      1       1              PASSIVE     1nF
+        D21_M1     A       A              PASSIVE     SMAJ30A
+        M1_M1      3       OUT1A          PASSIVE     Molex 0705430003
+        TP25_M1    1       1              PASSIVE     TP4
+        U7_M1      7       AOUT2          PASSIVE     DRV8825
+
+[00117] NetC3_M1_1
+        C3_M1      1       1              PASSIVE     1nF
+        D20_M1     A       A              PASSIVE     SMAJ30A
+        M1_M1      4       OUT1B          PASSIVE     Molex 0705430003
+        TP24_M1    1       1              PASSIVE     TP4
+        U7_M1      5       AOUT1          PASSIVE     DRV8825
+
+[00118] DECAY_M1
+        R4_M1      1       1              PASSIVE     NP
+        R44_M1     2       2              PASSIVE     NP
+        U7_M1      19      DECAY          PASSIVE     DRV8825
+
+[00119] +12VCC1
+        C7         1       +              PASSIVE     470uF
+        C12_M1     1       1              PASSIVE     100nF
+        C12_M2     1       1              PASSIVE     100nF
+        C12_M3     1       1              PASSIVE     100nF
+        C12_M4     1       1              PASSIVE     100nF
+        C14_M1     1       1              PASSIVE     100nF
+        C14_M2     1       1              PASSIVE     100nF
+        C14_M3     1       1              PASSIVE     100nF
+        C14_M4     1       1              PASSIVE     100nF
+        C31        1       1              PASSIVE     100nF
+        C35        2       2              PASSIVE     100nF
+        C66_M1     2       2              PASSIVE     100nF
+        C66_M2     2       2              PASSIVE     100nF
+        C66_M3     2       2              PASSIVE     100nF
+        C66_M4     2       2              PASSIVE     100nF
+        C69        1       1              PASSIVE     100nF
+        C80        1       1              PASSIVE     10uF 50V
+        C81        1       1              PASSIVE     100nF
+        C82        1       1              PASSIVE     1nF
+        D7         C       C              PASSIVE     S3A-13-F
+        F3         2       2              PASSIVE     3557-2
+        R30_M1     2       2              PASSIVE     1M
+        R30_M2     2       2              PASSIVE     1M
+        R30_M3     2       2              PASSIVE     1M
+        R30_M4     2       2              PASSIVE     1M
+        R36        2       2              PASSIVE     1M
+        T4         3       OUT1A          PASSIVE     Molex 0705430003
+        TP54       1       1              PASSIVE     TP4
+        U5         4       VMA            PASSIVE     DRV8825
+        U5         11      VMB            PASSIVE     DRV8825
+        U7_M1      4       VMA            PASSIVE     DRV8825
+        U7_M1      11      VMB            PASSIVE     DRV8825
+        U7_M2      4       VMA            PASSIVE     DRV8825
+        U7_M2      11      VMB            PASSIVE     DRV8825
+        U7_M3      4       VMA            PASSIVE     DRV8825
+        U7_M3      11      VMB            PASSIVE     DRV8825
+        U7_M4      4       VMA            PASSIVE     DRV8825
+        U7_M4      11      VMB            PASSIVE     DRV8825
+
+[00130] XOUT32
+        U3         49      XOUT32         PASSIVE     ATML-ATSAM3X-LQFP-144
+
+[00131] XIN32
+        U3         48      XIN32          I/O         ATML-ATSAM3X-LQFP-144
+
+[00132] WP#
+        TP29       1       1              PASSIVE     TP4
+        U3         101     PC19/NANDOE/PWMI/O         ATML-ATSAM3X-LQFP-144
+        U9         3       WP#            PASSIVE     S25FL216K0PMFI041
+
+[00133] VDDUTMI
+        C60        2       2              PASSIVE     0603
+        C61        1       1              PASSIVE     100nF
+        L4         2       2              PASSIVE     LQM21FN100M70L
+        U3         41      VDDUTMI        POWER       ATML-ATSAM3X-LQFP-144
+
+[00134] VDDPLL
+        C32        2       2              PASSIVE     0603
+        C33        1       1              PASSIVE     100nF
+        L2         2       2              PASSIVE     LQM21FN100M70L
+        U3         34      VDDPLL         POWER       ATML-ATSAM3X-LQFP-144
+
+[00135] VDDOUT
+        C17        2       2              PASSIVE     0603
+        C23        1       1              PASSIVE     100nF
+        C38        1       1              PASSIVE     100nF
+        C39        1       1              PASSIVE     100nF
+        C41        1       1              PASSIVE     100nF
+        C42        1       1              PASSIVE     100nF
+        L2         1       1              PASSIVE     LQM21FN100M70L
+        U3         10      VDDCORE        POWER       ATML-ATSAM3X-LQFP-144
+        U3         45      VDDCORE        POWER       ATML-ATSAM3X-LQFP-144
+        U3         56      VDDOUT         POWER       ATML-ATSAM3X-LQFP-144
+        U3         61      VDDCORE        POWER       ATML-ATSAM3X-LQFP-144
+        U3         104     VDDCORE        POWER       ATML-ATSAM3X-LQFP-144
+        U3         124     VDDCORE        POWER       ATML-ATSAM3X-LQFP-144
+
+[00136] VDDANA
+        C13        2       2              PASSIVE     0603
+        C27        1       1              PASSIVE     100nF
+        C65        1       1              PASSIVE     100nF
+        L3         2       2              PASSIVE     LQM21FN100M70L
+        U3         73      VDDANA         POWER       ATML-ATSAM3X-LQFP-144
+        U3         75      ADVREF         INPUT       ATML-ATSAM3X-LQFP-144
+
+[00137] VDD1
+        C59        1       1              PASSIVE     100nF
+        U6         3       VDD1           PASSIVE     ADuM4160
+        U6         4       PDEN           PASSIVE     ADuM4160
+        U6         5       SPU            PASSIVE     ADuM4160
+
+[00138] VBUS_2
+        C58        1       1              PASSIVE     100nF
+        D9         A       A              POWER       RSB39VTE-17
+        J1         1       VBUS           PASSIVE     USB-B
+        U6         1       VBUS1          PASSIVE     ADuM4160
+
+[00139] VBUS
+        C57        1       1              PASSIVE     100nF
+        U3         39      VBUS           I/O         ATML-ATSAM3X-LQFP-144
+        U6         16      VBUS2          PASSIVE     ADuM4160
+
+[00140] USB_TX
+        R26        1       1              PASSIVE     1K
+        U3         16      PD3/A13/MCDA7  I/O         ATML-ATSAM3X-LQFP-144
+
+[00141] USB_RX
+        R25        1       1              PASSIVE     1K
+        U3         15      PD2/A12/MCDA6  I/O         ATML-ATSAM3X-LQFP-144
+
+[00142] UMCU_P
+        R5         2       2              PASSIVE     39r
+        R15        1       1              PASSIVE     24r
+        U3         37      DHSDP          I/O         ATML-ATSAM3X-LQFP-144
+
+[00143] UMCU_N
+        R16        1       1              PASSIVE     24r
+        R22        2       2              PASSIVE     39r
+        U3         38      DHSDM          I/O         ATML-ATSAM3X-LQFP-144
+
+[00144] UI_P
+        R15        2       2              PASSIVE     24r
+        U6         10      UD+ 2          PASSIVE     ADuM4160
+
+[00145] UI_N
+        R16        2       2              PASSIVE     24r
+        U6         11      UD- 2          PASSIVE     ADuM4160
+
+[00146] UD_P
+        R20        1       1              PASSIVE     24r
+        U6         7       UD+ 1          PASSIVE     ADuM4160
+
+[00147] UD_N
+        R18        1       1              PASSIVE     24r
+        U6         6       UD- 1          PASSIVE     ADuM4160
+
+[00148] TXD1
+        U3         17      PD4/A14/TXD3   I/O         ATML-ATSAM3X-LQFP-144
+
+[00149] TMS/SWDIO
+        J2         2       2              PASSIVE     FTSH-105-XX-X-DV
+        TP59       1       1              PASSIVE     TP4
+        U3         31      PB31/TMS/SWDIO I/O         ATML-ATSAM3X-LQFP-144
+
+[00150] THERM_AN4
+        C30_TR4    1       1              PASSIVE     100nF
+        D3_TR4     A       A              PASSIVE     1N4148WT
+        D5_TR4     C       C              PASSIVE     1N4148WT
+        R14_TR4    2       2              PASSIVE     4.7K
+        TP52_TR4   1       1              PASSIVE     TP4
+        U3         91      PB20/TXD2/SPI0_I/O         ATML-ATSAM3X-LQFP-144
+
+[00151] THERM_AN3
+        C30_TR3    1       1              PASSIVE     100nF
+        D3_TR3     A       A              PASSIVE     1N4148WT
+        D5_TR3     C       C              PASSIVE     1N4148WT
+        R14_TR3    2       2              PASSIVE     4.7K
+        TP52_TR3   1       1              PASSIVE     TP4
+        U3         90      PB19/RK/PWML3/AI/O         ATML-ATSAM3X-LQFP-144
+
+[00152] THERM_AN2
+        C30_TR2    1       1              PASSIVE     100nF
+        D3_TR2     A       A              PASSIVE     1N4148WT
+        D5_TR2     C       C              PASSIVE     1N4148WT
+        R14_TR2    2       2              PASSIVE     4.7K
+        TP52_TR2   1       1              PASSIVE     TP4
+        U3         89      PB18/RD/PWML2/AI/O         ATML-ATSAM3X-LQFP-144
+
+[00153] THERM_AN1
+        C30_TR1    1       1              PASSIVE     100nF
+        D3_TR1     A       A              PASSIVE     1N4148WT
+        D5_TR1     C       C              PASSIVE     1N4148WT
+        R14_TR1    2       2              PASSIVE     4.7K
+        TP52_TR1   1       1              PASSIVE     TP4
+        U3         88      PB17/RF/PWML1/AI/O         ATML-ATSAM3X-LQFP-144
+
+[00154] TDO/SWO
+        J2         6       6              PASSIVE     FTSH-105-XX-X-DV
+        TP61       1       1              PASSIVE     TP4
+        U3         30      PB30/TDO/TRACESI/O         ATML-ATSAM3X-LQFP-144
+
+[00155] TDI
+        J2         8       8              PASSIVE     FTSH-105-XX-X-DV
+        TP62       1       1              PASSIVE     TP4
+        U3         29      PB29/TDI       I/O         ATML-ATSAM3X-LQFP-144
+
+[00156] TCK/SWDCLK
+        J2         4       4              PASSIVE     FTSH-105-XX-X-DV
+        TP60       1       1              PASSIVE     TP4
+        U3         28      PB28/TCK/SWCLK I/O         ATML-ATSAM3X-LQFP-144
+
+[00157] TC_CS2
+        U3         112     PA29/SPI0_NPCS1I/O         ATML-ATSAM3X-LQFP-144
+
+[00158] STEP_Z
+        TP21       1       1              PASSIVE     TP4
+        U3         97      PC15/D13/ETX2  I/O         ATML-ATSAM3X-LQFP-144
+        U5         22      STEP           PASSIVE     DRV8825
+
+[00159] STEP_EXP2
+        P4         7       7              PASSIVE     Header 5X2
+        U3         13      PD0/A10/MCDA4  I/O         ATML-ATSAM3X-LQFP-144
+
+[00160] STEP_EXP1
+        P4         8       8              PASSIVE     Header 5X2
+        U3         68      PB27/NCS3/TIOB0I/O         ATML-ATSAM3X-LQFP-144
+
+[00161] STEP4
+        TP40_M4    1       1              PASSIVE     TP4
+        U3         121     PB6/ERX1       I/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      22      STEP           PASSIVE     DRV8825
+
+[00162] STEP3
+        TP40_M3    1       1              PASSIVE     TP4
+        U3         115     PB2/ETX0       I/O         ATML-ATSAM3X-LQFP-144
+        U7_M3      22      STEP           PASSIVE     DRV8825
+
+[00163] STEP2
+        TP40_M2    1       1              PASSIVE     TP4
+        U3         141     PB22/RTS2/PCK0 I/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      22      STEP           PASSIVE     DRV8825
+
+[00164] STEP1
+        TP40_M1    1       1              PASSIVE     TP4
+        U3         85      PA2/TIOA1/NANDRI/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      22      STEP           PASSIVE     DRV8825
+
+[00165] STATUS_B
+        U3         143     PB24/SCK2/NCS2 I/O         ATML-ATSAM3X-LQFP-144
+
+[00166] STATUS_A
+        U3         142     PB23/CTS2/SPI0_I/O         ATML-ATSAM3X-LQFP-144
+
+[00167] SPIFLASH_CS
+        TP28       1       1              PASSIVE     TP4
+        U3         111     PA28/SPI0_NPCS0I/O         ATML-ATSAM3X-LQFP-144
+        U9         1       CS             PASSIVE     S25FL216K0PMFI041
+
+[00168] SHDN
+        U3         50      SHDN           OUTPUT      ATML-ATSAM3X-LQFP-144
+
+[00169] SDCD
+        R50        1       1              PASSIVE     10K
+        SD         12      CD             PASSIVE     502570-0893
+
+[00170] RXD1
+        U3         18      PD5/A15/RXD3   I/O         ATML-ATSAM3X-LQFP-144
+
+[00171] RESET
+        C63        1       1              PASSIVE     100nF
+        J2         10      10             PASSIVE     FTSH-105-XX-X-DV
+        P3         8       8              PASSIVE     Header 5X2
+        R21        1       1              PASSIVE     10K
+        S1         1       P              PASSIVE     1571610-2
+        TP58       1       1              PASSIVE     TP4
+        U3         47      NRSTB          INPUT       ATML-ATSAM3X-LQFP-144
+
+[00172] REF_Z
+        R27        1       1              PASSIVE     10K
+        U3         144     PB25/RTS0/TIOA0I/O         ATML-ATSAM3X-LQFP-144
+
+[00173] REF_EXP1
+        P5         4       4              PASSIVE     Header 5X2
+
+[00174] REF4
+        R31_M4     1       1              PASSIVE     10K
+        U3         137     PC26/A5/TIOB6  I/O         ATML-ATSAM3X-LQFP-144
+
+[00175] REF3
+        R31_M3     1       1              PASSIVE     10K
+        U3         136     PC25/A4/TIOA6  I/O         ATML-ATSAM3X-LQFP-144
+
+[00176] REF2
+        R31_M2     1       1              PASSIVE     10K
+        U3         102     PC29/A8/TIOB7  I/O         ATML-ATSAM3X-LQFP-144
+
+[00177] REF1
+        R31_M1     1       1              PASSIVE     10K
+        U3         139     PC28/A7/TIOA7  I/O         ATML-ATSAM3X-LQFP-144
+
+[00178] R_P
+        DA4        2       2              PASSIVE     PESDxL2BT
+        J1         3       DP             PASSIVE     USB-B
+        R20        2       2              PASSIVE     24r
+        TP57       1       1              PASSIVE     TP4
+
+[00179] R_N
+        DA4        1       1              PASSIVE     PESDxL2BT
+        J1         2       DM             PASSIVE     USB-B
+        R18        2       2              PASSIVE     24r
+        TP56       1       1              PASSIVE     TP4
+
+[00180] PD8_A21
+        P5         2       2              PASSIVE     Header 5X2
+        U3         21      PD8/A21/NANDALEI/O         ATML-ATSAM3X-LQFP-144
+
+[00181] PD7_A17
+        U3         20      PD7/A17/BA1/TIOI/O         ATML-ATSAM3X-LQFP-144
+
+[00182] PC27
+        P3         4       4              PASSIVE     Header 5X2
+        U3         138     PC27/A6/TCLK6  I/O         ATML-ATSAM3X-LQFP-144
+
+[00183] PB11
+        P3         7       7              PASSIVE     Header 5X2
+        U3         129     PB11/UOTGID/A19I/O         ATML-ATSAM3X-LQFP-144
+
+[00184] PB10
+        P3         5       5              PASSIVE     Header 5X2
+        U3         128     PB10/UOTGVBOF/AI/O         ATML-ATSAM3X-LQFP-144
+
+[00185] PB8
+        P3         3       3              PASSIVE     Header 5X2
+        U3         127     PB9/EMDIO      I/O         ATML-ATSAM3X-LQFP-144
+
+[00186] PA27_SCLK
+        P3         2       2              PASSIVE     Header 5X2
+        P6         2       2              PASSIVE     Header 5X2
+        TP6        1       1              PASSIVE     TP4
+        U3         110     PA27/SPI0_SPCK/I/O         ATML-ATSAM3X-LQFP-144
+        U9         6       SCK            PASSIVE     S25FL216K0PMFI041
+
+[00187] PA26_MOSI
+        P3         1       1              PASSIVE     Header 5X2
+        P6         1       1              PASSIVE     Header 5X2
+        TP8        1       1              PASSIVE     TP4
+        U3         109     PA26/SPI0_MOSI/I/O         ATML-ATSAM3X-LQFP-144
+        U9         2       SO             PASSIVE     S25FL216K0PMFI041
+
+[00188] PA25_MISO
+        P3         6       6              PASSIVE     Header 5X2
+        P6         4       4              PASSIVE     Header 5X2
+        TP7        1       1              PASSIVE     TP4
+        U3         108     PA25/SPI0_MISO/I/O         ATML-ATSAM3X-LQFP-144
+        U9         5       SI/IO0         PASSIVE     S25FL216K0PMFI041
+
+[00189] PA18_SCL
+        P6         5       5              PASSIVE     Header 5X2
+        R42        2       2              PASSIVE     4.7K
+        U3         70      PA18/TWCK0/A20/I/O         ATML-ATSAM3X-LQFP-144
+
+[00190] PA17_SDA
+        P6         6       6              PASSIVE     Header 5X2
+        R43        2       2              PASSIVE     4.7K
+        U3         9       PA17/TWD0/SPCK0I/O         ATML-ATSAM3X-LQFP-144
+
+[00191] PA11_TXD0
+        P6         7       7              PASSIVE     Header 5X2
+        U3         4       PA11/TXD0/ADTRGI/O         ATML-ATSAM3X-LQFP-144
+
+[00192] PA10_RXD0
+        P6         8       8              PASSIVE     Header 5X2
+        U3         3       PA10/RXD0/DATRGI/O         ATML-ATSAM3X-LQFP-144
+
+[00193] PA8_URXD
+        P5         5       5              PASSIVE     Header 5X2
+        U3         27      PA8/URXD/PWMH0/I/O         ATML-ATSAM3X-LQFP-144
+
+[00194] PA7_TCLK2
+        P5         3       3              PASSIVE     Header 5X2
+        U3         26      PA7/TCLK2/NCS1/I/O         ATML-ATSAM3X-LQFP-144
+
+[00195] PA5_PWM
+        P5         1       1              PASSIVE     Header 5X2
+        U3         25      PA5/TIOA2/PWMFII/O         ATML-ATSAM3X-LQFP-144
+
+[00196] PA1_CANRX0
+        P5         7       7              PASSIVE     Header 5X2
+        U3         24      PA1/CANRX0/PCK0I/O         ATML-ATSAM3X-LQFP-144
+
+[00197] OVREF
+        D1         C       C              PASSIVE     MM3Z2V7T1G
+        D3_TR1     C       C              PASSIVE     1N4148WT
+        D3_TR2     C       C              PASSIVE     1N4148WT
+        D3_TR3     C       C              PASSIVE     1N4148WT
+        D3_TR4     C       C              PASSIVE     1N4148WT
+        R1         1       1              PASSIVE     10K
+        TP2        1       1              PASSIVE     TP4
+
+[00198] NRST
+        U3         69      NRST           I/O         ATML-ATSAM3X-LQFP-144
+
+[00199] NetC19_1
+        C19        1       1              PASSIVE     4.7nF
+        R41        2       2              PASSIVE     1M
+        SD         9       GND            PASSIVE     502570-0893
+        SD         10      GND            PASSIVE     502570-0893
+        SD         11      GND            PASSIVE     502570-0893
+        SD         13      GND            PASSIVE     502570-0893
+
+[00200] NetC24_2
+        C24        2       2              PASSIVE     0402
+        D8         A       A              POWER       RSB39VTE-17
+        J1         5       SHLD           PASSIVE     USB-B
+        J1         6       SHLD           PASSIVE     USB-B
+        R24        2       2              PASSIVE     1M
+
+[00201] NetC43_2
+        C43        2       2              PASSIVE     0402
+        U3         36      XIN            PASSIVE     ATML-ATSAM3X-LQFP-144
+        X2         4       GND            PASSIVE     7M-12.000MEEQ-T
+
+[00202] NetC44_2
+        C44        2       2              PASSIVE     0402
+        U3         35      XOUT           PASSIVE     ATML-ATSAM3X-LQFP-144
+        X2         2       GND            PASSIVE     7M-12.000MEEQ-T
+
+[00203] NetC73_1
+        C73        1       1              PASSIVE     0402
+        R23        2       2              PASSIVE     6.8K
+        U3         40      VBG            PASSIVE     ATML-ATSAM3X-LQFP-144
+
+[00204] NetD24_A
+        D24        A       A              PASSIVE     5988140107F
+        R25        2       2              PASSIVE     1K
+
+[00205] NetD29_A
+        D29        A       A              PASSIVE     5988140107F
+        R26        2       2              PASSIVE     1K
+
+[00210] NetR5_1
+        R5         1       1              PASSIVE     39r
+        U3         42      DFSDP          I/O         ATML-ATSAM3X-LQFP-144
+
+[00211] NetR6_1
+        R6         1       1              PASSIVE     100K
+        U3         53      FWUP           INPUT       ATML-ATSAM3X-LQFP-144
+
+[00212] NetR22_1
+        R22        1       1              PASSIVE     39r
+        U3         43      DFSDM          I/O         ATML-ATSAM3X-LQFP-144
+
+[00218] MODE2_EXP2
+        P5         6       6              PASSIVE     Header 5X2
+        U3         14      PD1/A11/MCDA5  I/O         ATML-ATSAM3X-LQFP-144
+
+[00219] MODE2_EXP1
+        P5         8       8              PASSIVE     Header 5X2
+        U3         23      PA0/CANTX0/PWMLI/O         ATML-ATSAM3X-LQFP-144
+
+[00220] MOD2E_Z
+        TP17       1       1              PASSIVE     TP4
+        U3         94      PC12/D10/ERX3  I/O         ATML-ATSAM3X-LQFP-144
+        U5         26      MODE2          PASSIVE     DRV8825
+
+[00221] MOD2E4
+        TP35_M4    1       1              PASSIVE     TP4
+        U3         118     PB3/ETX1       I/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      26      MODE2          PASSIVE     DRV8825
+
+[00222] MOD2E3
+        TP35_M3    1       1              PASSIVE     TP4
+        U3         131     PC20/NANDWE/PWMI/O         ATML-ATSAM3X-LQFP-144
+        U7_M3      26      MODE2          PASSIVE     DRV8825
+
+[00223] MOD2E2
+        TP35_M2    1       1              PASSIVE     TP4
+        U3         134     PC23/A2/PWML6  I/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      26      MODE2          PASSIVE     DRV8825
+
+[00224] MOD2E1
+        TP35_M1    1       1              PASSIVE     TP4
+        U3         82      PA6/TIOB2/NCS0/I/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      26      MODE2          PASSIVE     DRV8825
+
+[00225] MOD1E_Z
+        TP18       1       1              PASSIVE     TP4
+        U3         95      PC13/D11/ECOL  I/O         ATML-ATSAM3X-LQFP-144
+        U5         25      MODE1          PASSIVE     DRV8825
+
+[00226] MOD1E4
+        TP36_M4    1       1              PASSIVE     TP4
+        U3         119     PB4/ECRSDV/ERXDI/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      25      MODE1          PASSIVE     DRV8825
+
+[00227] MOD1E3
+        TP36_M3    1       1              PASSIVE     TP4
+        U3         113     PB0/ETXCK/EREFCI/O         ATML-ATSAM3X-LQFP-144
+        U7_M3      25      MODE1          PASSIVE     DRV8825
+
+[00228] MOD1E2
+        TP36_M2    1       1              PASSIVE     TP4
+        U3         135     PC24/A3/PWML7  I/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      25      MODE1          PASSIVE     DRV8825
+
+[00229] MOD1E1
+        TP36_M1    1       1              PASSIVE     TP4
+        U3         83      PA4/TCLK1/NWAITI/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      25      MODE1          PASSIVE     DRV8825
+
+[00230] MOD0E_Z
+        TP19       1       1              PASSIVE     TP4
+        U3         96      PC14/D12/ERXCK I/O         ATML-ATSAM3X-LQFP-144
+        U5         24      MODE0          PASSIVE     DRV8825
+
+[00231] MOD0E4
+        TP37_M4    1       1              PASSIVE     TP4
+        U3         120     PB5/ERX0       I/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      24      MODE0          PASSIVE     DRV8825
+
+[00232] MOD0E3
+        TP37_M3    1       1              PASSIVE     TP4
+        U3         114     PB1/ETXEN      I/O         ATML-ATSAM3X-LQFP-144
+        U7_M3      24      MODE0          PASSIVE     DRV8825
+
+[00233] MOD0E2
+        TP37_M2    1       1              PASSIVE     TP4
+        U3         140     PB14/CANTX1/PWMI/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      24      MODE0          PASSIVE     DRV8825
+
+[00234] MOD0E1
+        TP37_M1    1       1              PASSIVE     TP4
+        U3         84      PA3/TIOB1/PWMFII/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      24      MODE0          PASSIVE     DRV8825
+
+[00235] MIN_ES3
+        C1_ES3     2       2              PASSIVE     4.7nF
+        DA3        1       1              PASSIVE     PESDxL2BT
+        MIN1_ES3   1       S              PASSIVE     Molex 70543-03
+        R2_ES3     1       1              PASSIVE     2.7K
+        TP9_ES3    1       1              PASSIVE     TP4
+        U3         100     PC18/NWR0/NWE/PI/O         ATML-ATSAM3X-LQFP-144
+
+[00236] MIN_ES2
+        C1_ES2     2       2              PASSIVE     4.7nF
+        DA2        1       1              PASSIVE     PESDxL2BT
+        MIN1_ES2   1       S              PASSIVE     Molex 70543-03
+        R2_ES2     1       1              PASSIVE     2.7K
+        TP9_ES2    1       1              PASSIVE     TP4
+        U3         19      PD6/A16/BA0/PWMI/O         ATML-ATSAM3X-LQFP-144
+
+[00237] MIN_ES1
+        C1_ES1     2       2              PASSIVE     4.7nF
+        DA1        1       1              PASSIVE     PESDxL2BT
+        MIN1_ES1   1       S              PASSIVE     Molex 70543-03
+        R2_ES1     1       1              PASSIVE     2.7K
+        TP9_ES1    1       1              PASSIVE     TP4
+        U3         77      PB16/TCLK5/PWMLI/O         ATML-ATSAM3X-LQFP-144
+
+[00238] MCDZ3
+        R28        1       1              PASSIVE     10K
+        SD         2       CD/DAT3        PASSIVE     502570-0893
+        U3         79      PA24/MCDA3/PCK1I/O         ATML-ATSAM3X-LQFP-144
+
+[00239] MCDZ2
+        R29        1       1              PASSIVE     10K
+        SD         1       DAT2           PASSIVE     502570-0893
+        U3         80      PA23/MCDA2/TCLKI/O         ATML-ATSAM3X-LQFP-144
+
+[00240] MCDZ1
+        R40        2       2              PASSIVE     10K
+        SD         8       DAT1           PASSIVE     502570-0893
+        U3         81      PA22/MCDA1/TCLKI/O         ATML-ATSAM3X-LQFP-144
+
+[00241] MCDZ0
+        R35        2       2              PASSIVE     10K
+        SD         7       DAT0           PASSIVE     502570-0893
+        U3         107     PA21/MCDA0/PWMLI/O         ATML-ATSAM3X-LQFP-144
+
+[00242] MCCK
+        SD         5       CLK            PASSIVE     502570-0893
+        U3         71      PA19/MCCK/PWMH1I/O         ATML-ATSAM3X-LQFP-144
+
+[00243] MCCDZ
+        R34        2       2              PASSIVE     10K
+        SD         3       CMD            PASSIVE     502570-0893
+        U3         72      PA20/MCCDA/PWMLI/O         ATML-ATSAM3X-LQFP-144
+
+[00244] MAX_ES3
+        C2_ES3     2       2              PASSIVE     4.7nF
+        DA3        2       2              PASSIVE     PESDxL2BT
+        MAX1_ES3   1       S              PASSIVE     Molex 70543-03
+        R3_ES3     1       1              PASSIVE     2.7K
+        TP10_ES3   1       1              PASSIVE     TP4
+        U3         78      PA16/SPCK1/TD/AI/O         ATML-ATSAM3X-LQFP-144
+
+[00245] MAX_ES2
+        C2_ES2     2       2              PASSIVE     4.7nF
+        DA2        2       2              PASSIVE     PESDxL2BT
+        MAX1_ES2   1       S              PASSIVE     Molex 70543-03
+        R3_ES2     1       1              PASSIVE     2.7K
+        TP10_ES2   1       1              PASSIVE     TP4
+        U3         22      PD9/A22/NANDCLEI/O         ATML-ATSAM3X-LQFP-144
+
+[00246] MAX_ES1
+        C2_ES1     2       2              PASSIVE     4.7nF
+        DA1        2       2              PASSIVE     PESDxL2BT
+        MAX1_ES1   1       S              PASSIVE     Molex 70543-03
+        R3_ES1     1       1              PASSIVE     2.7K
+        TP10_ES1   1       1              PASSIVE     TP4
+        U3         76      PB15/CANRX1/PWMI/O         ATML-ATSAM3X-LQFP-144
+
+[00247] INPUT_GND
+        C24        1       1              PASSIVE     0402
+        C58        2       2              PASSIVE     100nF
+        C59        2       2              PASSIVE     100nF
+        DA4        3       3              PASSIVE     PESDxL2BT
+        J1         4       GND            PASSIVE     USB-B
+        R24        1       1              PASSIVE     1M
+        U6         2       GND1           PASSIVE     ADuM4160
+        U6         8       GND1           PASSIVE     ADuM4160
+
+[00248] HOLD#
+        TP30       1       1              PASSIVE     TP4
+        U3         103     PC30/A9/TCLK7  I/O         ATML-ATSAM3X-LQFP-144
+        U9         7       HOLD#          PASSIVE     S25FL216K0PMFI041
+
+[00249] GPIO_P_5
+        U3         7       PA14/RTS1/TK   I/O         ATML-ATSAM3X-LQFP-144
+
+[00250] GPIO_P_4
+        U3         2       PA9/UTXD/PWMH3 I/O         ATML-ATSAM3X-LQFP-144
+
+[00251] GPIO_P_3
+        U3         5       PA12/RXD1/PWML1I/O         ATML-ATSAM3X-LQFP-144
+
+[00252] GPIO_P_2
+        U3         8       PA15/CTS1/TF/WKI/O         ATML-ATSAM3X-LQFP-144
+
+[00253] GPIO_P_1
+        U3         6       PA13/TXD1/PWMH2I/O         ATML-ATSAM3X-LQFP-144
+
+[00254] GPIO_P_0
+        U3         1       PB26/CTS0/TCLK0I/O         ATML-ATSAM3X-LQFP-144
+
+[00255] GND
+        C1_ES1     1       1              PASSIVE     4.7nF
+        C1_ES2     1       1              PASSIVE     4.7nF
+        C1_ES3     1       1              PASSIVE     4.7nF
+        C2_ES1     1       1              PASSIVE     4.7nF
+        C2_ES2     1       1              PASSIVE     4.7nF
+        C2_ES3     1       1              PASSIVE     4.7nF
+        C3_M1      2       2              PASSIVE     1nF
+        C3_M2      2       2              PASSIVE     1nF
+        C3_M3      2       2              PASSIVE     1nF
+        C3_M4      2       2              PASSIVE     1nF
+        C4         2       2              PASSIVE     47uF
+        C5_M1      2       2              PASSIVE     1nF
+        C5_M2      2       2              PASSIVE     1nF
+        C5_M3      2       2              PASSIVE     1nF
+        C5_M4      2       2              PASSIVE     1nF
+        C6_M1      2       2              PASSIVE     1nF
+        C6_M2      2       2              PASSIVE     1nF
+        C6_M3      2       2              PASSIVE     1nF
+        C6_M4      2       2              PASSIVE     1nF
+        C7         2       -              PASSIVE     470uF
+        C8_M1      1       1              PASSIVE     1nF
+        C8_M2      1       1              PASSIVE     1nF
+        C8_M3      1       1              PASSIVE     1nF
+        C8_M4      1       1              PASSIVE     1nF
+        C9         2       2              PASSIVE     4.7uF
+        C10        2       2              PASSIVE     1uF
+        C11        1       1              PASSIVE     100nF
+        C12_M1     2       2              PASSIVE     100nF
+        C12_M2     2       2              PASSIVE     100nF
+        C12_M3     2       2              PASSIVE     100nF
+        C12_M4     2       2              PASSIVE     100nF
+        C13        1       1              PASSIVE     0603
+        C14_M1     2       2              PASSIVE     100nF
+        C14_M2     2       2              PASSIVE     100nF
+        C14_M3     2       2              PASSIVE     100nF
+        C14_M4     2       2              PASSIVE     100nF
+        C15        2       2              PASSIVE     EEE-1VA101XP
+        C16        2       2              PASSIVE     EEE-1VA101XP
+        C17        1       1              PASSIVE     0603
+        C18        2       2              PASSIVE     0402
+        C19        2       2              PASSIVE     4.7nF
+        C20        1       1              PASSIVE     0402
+        C21        2       2              PASSIVE     10uF
+        C22        2       2              PASSIVE     1uF
+        C23        2       2              PASSIVE     100nF
+        C25        2       2              PASSIVE     100nF
+        C26        1       1              PASSIVE     0402
+        C27        2       2              PASSIVE     100nF
+        C28        2       2              PASSIVE     1uF
+        C29        1       1              PASSIVE     0603
+        C30_TR1    2       2              PASSIVE     100nF
+        C30_TR2    2       2              PASSIVE     100nF
+        C30_TR3    2       2              PASSIVE     100nF
+        C30_TR4    2       2              PASSIVE     100nF
+        C31        2       2              PASSIVE     100nF
+        C32        1       1              PASSIVE     0603
+        C33        2       2              PASSIVE     100nF
+        C34        2       2              PASSIVE     100nF
+        C36        1       1              PASSIVE     0603
+        C37_M1     1       1              PASSIVE     0402
+        C37_M2     1       1              PASSIVE     0402
+        C37_M3     1       1              PASSIVE     0402
+        C37_M4     1       1              PASSIVE     0402
+        C38        2       2              PASSIVE     100nF
+        C39        2       2              PASSIVE     100nF
+        C41        2       2              PASSIVE     100nF
+        C42        2       2              PASSIVE     100nF
+        C43        1       1              PASSIVE     0402
+        C44        1       1              PASSIVE     0402
+        C45        2       2              PASSIVE     100nF
+        C46        2       2              PASSIVE     100nF
+        C47        2       2              PASSIVE     100nF
+        C48        2       2              PASSIVE     100nF
+        C50        1       1              PASSIVE     0402
+        C51        1       1              PASSIVE     0402
+        C52        2       2              PASSIVE     1nF
+        C53        2       2              PASSIVE     100nF
+        C54        2       2              PASSIVE     100nF
+        C55        2       2              PASSIVE     10uF 50V
+        C56        2       2              PASSIVE     100nF
+        C57        2       2              PASSIVE     100nF
+        C60        1       1              PASSIVE     0603
+        C61        2       2              PASSIVE     100nF
+        C62        2       2              PASSIVE     1nF
+        C63        2       2              PASSIVE     100nF
+        C64        2       2              PASSIVE     100nF
+        C65        2       2              PASSIVE     100nF
+        C67        2       2              PASSIVE     1nF
+        C69        2       2              PASSIVE     100nF
+        C70        2       2              PASSIVE     0402
+        C71_M1     1       1              PASSIVE     0402
+        C71_M2     1       1              PASSIVE     0402
+        C71_M3     1       1              PASSIVE     0402
+        C71_M4     1       1              PASSIVE     0402
+        C72        1       1              PASSIVE     1nF
+        C73        2       2              PASSIVE     0402
+        C74        2       2              PASSIVE     100nF
+        C75_M1     1       1              PASSIVE     0402
+        C75_M2     1       1              PASSIVE     0402
+        C75_M3     1       1              PASSIVE     0402
+        C75_M4     1       1              PASSIVE     0402
+        C76        2       2              PASSIVE     10uF
+        C77        2       2              PASSIVE     10uF 50V
+        C78        2       2              PASSIVE     100nF
+        C79        2       2              PASSIVE     1nF
+        C80        2       2              PASSIVE     10uF 50V
+        C81        2       2              PASSIVE     100nF
+        C82        2       2              PASSIVE     1nF
+        C83        2       2              PASSIVE     1nF
+        C84        1       1              PASSIVE     0402
+        D1         A       A              PASSIVE     MM3Z2V7T1G
+        D4         A       A              PASSIVE     S3A-13-F
+        D5_TR1     A       A              PASSIVE     1N4148WT
+        D5_TR2     A       A              PASSIVE     1N4148WT
+        D5_TR3     A       A              PASSIVE     1N4148WT
+        D5_TR4     A       A              PASSIVE     1N4148WT
+        D6         A       A              PASSIVE     S3A-13-F
+        D7         A       A              PASSIVE     S3A-13-F
+        D20_M1     C       C              PASSIVE     SMAJ30A
+        D20_M2     C       C              PASSIVE     SMAJ30A
+        D20_M3     C       C              PASSIVE     SMAJ30A
+        D20_M4     C       C              PASSIVE     SMAJ30A
+        D21_M1     C       C              PASSIVE     SMAJ30A
+        D21_M2     C       C              PASSIVE     SMAJ30A
+        D21_M3     C       C              PASSIVE     SMAJ30A
+        D21_M4     C       C              PASSIVE     SMAJ30A
+        D22_M1     C       C              PASSIVE     SMAJ30A
+        D22_M2     C       C              PASSIVE     SMAJ30A
+        D22_M3     C       C              PASSIVE     SMAJ30A
+        D22_M4     C       C              PASSIVE     SMAJ30A
+        D23_M1     C       C              PASSIVE     SMAJ30A
+        D23_M2     C       C              PASSIVE     SMAJ30A
+        D23_M3     C       C              PASSIVE     SMAJ30A
+        D23_M4     C       C              PASSIVE     SMAJ30A
+        D24        C       C              PASSIVE     5988140107F
+        D25        C       C              PASSIVE     SMAJ30A
+        D26        C       C              PASSIVE     SMAJ30A
+        D27        C       C              PASSIVE     SMAJ30A
+        D28        C       C              PASSIVE     SMAJ30A
+        D29        C       C              PASSIVE     5988140107F
+        DA1        3       3              PASSIVE     PESDxL2BT
+        DA2        3       3              PASSIVE     PESDxL2BT
+        DA3        3       3              PASSIVE     PESDxL2BT
+        GND_TP     1       1              PASSIVE     TP4
+        J2         3       3              PASSIVE     FTSH-105-XX-X-DV
+        J2         5       5              PASSIVE     FTSH-105-XX-X-DV
+        J2         9       9              PASSIVE     FTSH-105-XX-X-DV
+        JP1        2       2              PASSIVE     SJ
+        LED1       C       C              PASSIVE     5988170107F
+        MAX1_ES1   2       S              PASSIVE     Molex 70543-03
+        MAX1_ES2   2       S              PASSIVE     Molex 70543-03
+        MAX1_ES3   2       S              PASSIVE     Molex 70543-03
+        MIN1_ES1   2       S              PASSIVE     Molex 70543-03
+        MIN1_ES2   2       S              PASSIVE     Molex 70543-03
+        MIN1_ES3   2       S              PASSIVE     Molex 70543-03
+        P2_TR1     2       S              PASSIVE     C-GRID-02-70543
+        P2_TR2     2       S              PASSIVE     C-GRID-02-70543
+        P2_TR3     2       S              PASSIVE     C-GRID-02-70543
+        P2_TR4     2       S              PASSIVE     C-GRID-02-70543
+        P3         9       9              PASSIVE     Header 5X2
+        P4         9       9              PASSIVE     Header 5X2
+        P5         9       9              PASSIVE     Header 5X2
+        P6         9       9              PASSIVE     Header 5X2
+        Q1         1       S              PASSIVE     NCV8402AD
+        Q1         3       S              PASSIVE     NCV8402AD
+        Q4         1       S              PASSIVE     PSMN7R0-60YS,115
+        Q4         2       S              PASSIVE     PSMN7R0-60YS,115
+        Q4         3       S              PASSIVE     PSMN7R0-60YS,115
+        Q5         1       S              PASSIVE     PSMN7R0-60YS,115
+        Q5         2       S              PASSIVE     PSMN7R0-60YS,115
+        Q5         3       S              PASSIVE     PSMN7R0-60YS,115
+        Q6         1       S              PASSIVE     PSMN7R0-60YS,115
+        Q6         2       S              PASSIVE     PSMN7R0-60YS,115
+        Q6         3       S              PASSIVE     PSMN7R0-60YS,115
+        Q7         1       S              PASSIVE     PSMN7R0-60YS,115
+        Q7         2       S              PASSIVE     PSMN7R0-60YS,115
+        Q7         3       S              PASSIVE     PSMN7R0-60YS,115
+        R8_M1      1       1              PASSIVE     100K
+        R8_M2      1       1              PASSIVE     100K
+        R8_M3      1       1              PASSIVE     100K
+        R8_M4      1       1              PASSIVE     100K
+        R12        2       2              PASSIVE     R0603TBD
+        R23        1       1              PASSIVE     6.8K
+        R32_M1     1       1              PASSIVE     2512
+        R32_M2     1       1              PASSIVE     2512
+        R32_M3     1       1              PASSIVE     2512
+        R32_M4     1       1              PASSIVE     2512
+        R33_M1     1       1              PASSIVE     2512
+        R33_M2     1       1              PASSIVE     2512
+        R33_M3     1       1              PASSIVE     2512
+        R33_M4     1       1              PASSIVE     2512
+        R38        1       1              PASSIVE     2512
+        R39        1       1              PASSIVE     2512
+        R41        1       1              PASSIVE     1M
+        R44_M1     1       1              PASSIVE     NP
+        R44_M2     1       1              PASSIVE     NP
+        R44_M3     1       1              PASSIVE     NP
+        R44_M4     1       1              PASSIVE     NP
+        R46        1       1              PASSIVE     100K
+        R49        1       1              PASSIVE     NP
+        R51        1       1              PASSIVE     0.6r
+        R53        1       1              PASSIVE     100K
+        R55        1       1              PASSIVE     100K
+        R59        1       1              PASSIVE     100K
+        R63        1       1              PASSIVE     100K
+        R67        1       1              PASSIVE     100K
+        R71        1       1              PASSIVE     100K
+        S1         2       S              PASSIVE     1571610-2
+        SD         6       VSS            PASSIVE     502570-0893
+        SD         14      CD/VSS         POWER       502570-0893
+        T3         2       1              PASSIVE     MSTBV6
+        T3         4       1              PASSIVE     MSTBV6
+        T3         6       1              PASSIVE     MSTBV6
+        T4         4       OUT1B          PASSIVE     Molex 0705430003
+        U1         5       SGND           POWER       LM25011MY/NOPB
+        U1         7       CSG            INPUT       LM25011MY/NOPB
+        U1         11      PAD            POWER       LM25011MY/NOPB
+        U2         2       GND            POWER       MIC5353-3.3YMT-TR
+        U2         7       PAD            POWER       MIC5353-3.3YMT-TR
+        U3         12      GND            POWER       ATML-ATSAM3X-LQFP-144
+        U3         33      GNDPLL         POWER       ATML-ATSAM3X-LQFP-144
+        U3         44      GNDUTMI        POWER       ATML-ATSAM3X-LQFP-144
+        U3         46      JTAGSEL        INPUT       ATML-ATSAM3X-LQFP-144
+        U3         51      TST            INPUT       ATML-ATSAM3X-LQFP-144
+        U3         54      GNDBU          POWER       ATML-ATSAM3X-LQFP-144
+        U3         58      GND            POWER       ATML-ATSAM3X-LQFP-144
+        U3         74      GNDANA         POWER       ATML-ATSAM3X-LQFP-144
+        U3         106     GND            POWER       ATML-ATSAM3X-LQFP-144
+        U3         126     GND            POWER       ATML-ATSAM3X-LQFP-144
+        U5         14      GND            PASSIVE     DRV8825
+        U5         28      GND            PASSIVE     DRV8825
+        U5         29      GND            PASSIVE     DRV8825
+        U6         9       GND2           PASSIVE     ADuM4160
+        U6         15      GND2           PASSIVE     ADuM4160
+        U7_M1      14      GND            PASSIVE     DRV8825
+        U7_M1      28      GND            PASSIVE     DRV8825
+        U7_M1      29      GND            PASSIVE     DRV8825
+        U7_M2      14      GND            PASSIVE     DRV8825
+        U7_M2      28      GND            PASSIVE     DRV8825
+        U7_M2      29      GND            PASSIVE     DRV8825
+        U7_M3      14      GND            PASSIVE     DRV8825
+        U7_M3      28      GND            PASSIVE     DRV8825
+        U7_M3      29      GND            PASSIVE     DRV8825
+        U7_M4      14      GND            PASSIVE     DRV8825
+        U7_M4      28      GND            PASSIVE     DRV8825
+        U7_M4      29      GND            PASSIVE     DRV8825
+        U8         9       GND            PASSIVE     TXB0106 Level Shifter
+        U9         4       GND            PASSIVE     S25FL216K0PMFI041
+        X2         1       C1             PASSIVE     7M-12.000MEEQ-T
+        X2         3       C2             PASSIVE     7M-12.000MEEQ-T
+
+[00256] FGND
+        D8         C       C              POWER       RSB39VTE-17
+        D9         C       C              POWER       RSB39VTE-17
+        H1         1       1              POWER       Hole
+        H2         1       1              POWER       Hole
+        H3         1       1              POWER       Hole
+        H4         1       1              POWER       Hole
+        JP1        1       1              PASSIVE     SJ
+        S1         3       3              POWER       1571610-2
+        S1         4       4              POWER       1571610-2
+
+[00257] FET_PWM5
+        R67        2       2              PASSIVE     100K
+        TP47       1       1              PASSIVE     TP4
+        U3         133     PC22/A1/PWML5  I/O         ATML-ATSAM3X-LQFP-144
+        U8         6       A5             PASSIVE     TXB0106 Level Shifter
+
+[00258] FET_PWM4
+        R63        2       2              PASSIVE     100K
+        TP46       1       1              PASSIVE     TP4
+        U3         66      PC8/D6/PWML3   I/O         ATML-ATSAM3X-LQFP-144
+        U8         5       A4             PASSIVE     TXB0106 Level Shifter
+
+[00259] FET_PWM3
+        R59        2       2              PASSIVE     100K
+        TP45       1       1              PASSIVE     TP4
+        U3         64      PC6/D4/PWML2   I/O         ATML-ATSAM3X-LQFP-144
+        U8         4       A3             PASSIVE     TXB0106 Level Shifter
+
+[00260] FET_PWM2
+        R55        2       2              PASSIVE     100K
+        TP44       1       1              PASSIVE     TP4
+        U3         116     PC4/D2/PWML1   I/O         ATML-ATSAM3X-LQFP-144
+        U8         3       A2             PASSIVE     TXB0106 Level Shifter
+
+[00261] FET_PWM1
+        R46        2       2              PASSIVE     100K
+        TP43       1       1              PASSIVE     TP4
+        U3         59      PC2/D0/PWML0   I/O         ATML-ATSAM3X-LQFP-144
+        U8         1       A1             PASSIVE     TXB0106 Level Shifter
+
+[00262] ERASE
+        P1         2       2              PASSIVE     ERASE
+        TP55       1       1              PASSIVE     TP4
+        U3         130     PC0/ERASE      I/O         ATML-ATSAM3X-LQFP-144
+
+[00263] EN_Z
+        TP16       1       1              PASSIVE     TP4
+        U3         98      PC16/D14/ETX3  I/O         ATML-ATSAM3X-LQFP-144
+        U5         21      nENBL          PASSIVE     DRV8825
+
+[00264] EN_EXP2
+        P4         5       5              PASSIVE     Header 5X2
+        U3         55      PC1            I/O         ATML-ATSAM3X-LQFP-144
+
+[00265] EN_EXP1
+        P4         4       4              PASSIVE     Header 5X2
+
+[00266] EN4
+        TP32_M4    1       1              PASSIVE     TP4
+        U3         122     PB7/ERXER      I/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      21      nENBL          PASSIVE     DRV8825
+
+[00267] EN3
+        TP32_M3    1       1              PASSIVE     TP4
+        U7_M3      21      nENBL          PASSIVE     DRV8825
+
+[00268] EN2
+        TP32_M2    1       1              PASSIVE     TP4
+        U3         92      PB21/RXD2/SPI0_I/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      21      nENBL          PASSIVE     DRV8825
+
+[00269] EN1
+        TP32_M1    1       1              PASSIVE     TP4
+        U3         86      PB12/TWD1/PWMH0I/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      21      nENBL          PASSIVE     DRV8825
+
+[00270] DIR_Z
+        TP20       1       1              PASSIVE     TP4
+        U3         99      PC17/D15/ETXER I/O         ATML-ATSAM3X-LQFP-144
+        U5         20      DIR            PASSIVE     DRV8825
+
+[00271] DIR_EXP2
+        P4         3       3              PASSIVE     Header 5X2
+
+[00272] DIR_EXP1
+        P4         6       6              PASSIVE     Header 5X2
+
+[00273] DIR4
+        TP39_M4    1       1              PASSIVE     TP4
+        U3         123     PB8/EMDC       I/O         ATML-ATSAM3X-LQFP-144
+        U7_M4      20      DIR            PASSIVE     DRV8825
+
+[00274] DIR3
+        TP39_M3    1       1              PASSIVE     TP4
+        U3         117     PC10/D8/ECRS   I/O         ATML-ATSAM3X-LQFP-144
+        U7_M3      20      DIR            PASSIVE     DRV8825
+
+[00275] DIR2
+        TP39_M2    1       1              PASSIVE     TP4
+        U3         93      PC11/D9/ERX2   I/O         ATML-ATSAM3X-LQFP-144
+        U7_M2      20      DIR            PASSIVE     DRV8825
+
+[00276] DIR1
+        TP39_M1    1       1              PASSIVE     TP4
+        U3         87      PB13/TWCK1/PWMHI/O         ATML-ATSAM3X-LQFP-144
+        U7_M1      20      DIR            PASSIVE     DRV8825
+
+[00277] BED_PWM
+        R71        2       2              PASSIVE     100K
+        TP38       1       1              PASSIVE     TP4
+        U3         132     PC21/A0/NBS0/PWI/O         ATML-ATSAM3X-LQFP-144
+        U8         7       A6             PASSIVE     TXB0106 Level Shifter
+
+[00278] 3.3VCC
+        C4         1       1              PASSIVE     47uF
+        C25        1       1              PASSIVE     100nF
+        C26        2       2              PASSIVE     0402
+        C34        1       1              PASSIVE     100nF
+        C36        2       2              PASSIVE     0603
+        C45        1       1              PASSIVE     100nF
+        C46        1       1              PASSIVE     100nF
+        C47        1       1              PASSIVE     100nF
+        C48        1       1              PASSIVE     100nF
+        C53        1       1              PASSIVE     100nF
+        C54        1       1              PASSIVE     100nF
+        C56        1       1              PASSIVE     100nF
+        C74        1       1              PASSIVE     100nF
+        C76        1       1              PASSIVE     10uF
+        J2         1       1              PASSIVE     FTSH-105-XX-X-DV
+        L3         1       1              PASSIVE     LQM21FN100M70L
+        L4         1       1              PASSIVE     LQM21FN100M70L
+        MAX1_ES1   3       S              PASSIVE     Molex 70543-03
+        MAX1_ES2   3       S              PASSIVE     Molex 70543-03
+        MAX1_ES3   3       S              PASSIVE     Molex 70543-03
+        MIN1_ES1   3       S              PASSIVE     Molex 70543-03
+        MIN1_ES2   3       S              PASSIVE     Molex 70543-03
+        MIN1_ES3   3       S              PASSIVE     Molex 70543-03
+        P1         1       1              PASSIVE     ERASE
+        P3         10      10             PASSIVE     Header 5X2
+        P5         10      10             PASSIVE     Header 5X2
+        P6         10      10             PASSIVE     Header 5X2
+        R2_ES1     2       2              PASSIVE     2.7K
+        R2_ES2     2       2              PASSIVE     2.7K
+        R2_ES3     2       2              PASSIVE     2.7K
+        R3_ES1     2       2              PASSIVE     2.7K
+        R3_ES2     2       2              PASSIVE     2.7K
+        R3_ES3     2       2              PASSIVE     2.7K
+        R4_M1      2       2              PASSIVE     NP
+        R4_M2      2       2              PASSIVE     NP
+        R4_M3      2       2              PASSIVE     NP
+        R4_M4      2       2              PASSIVE     NP
+        R6         2       2              PASSIVE     100K
+        R11        2       2              PASSIVE     1K
+        R19_TR1    2       2              PASSIVE     4.7K
+        R19_TR2    2       2              PASSIVE     4.7K
+        R19_TR3    2       2              PASSIVE     4.7K
+        R19_TR4    2       2              PASSIVE     4.7K
+        R21        2       2              PASSIVE     10K
+        R28        2       2              PASSIVE     10K
+        R29        2       2              PASSIVE     10K
+        R34        1       1              PASSIVE     10K
+        R35        1       1              PASSIVE     10K
+        R40        1       1              PASSIVE     10K
+        R42        1       1              PASSIVE     4.7K
+        R43        1       1              PASSIVE     4.7K
+        R48        2       2              PASSIVE     NP
+        R50        2       2              PASSIVE     10K
+        SD         4       VDD            PASSIVE     502570-0893
+        T4         1       OUT2B          PASSIVE     Molex 0705430003
+        TP34       1       1              PASSIVE     TP4
+        U2         4       VOUT           POWER       MIC5353-3.3YMT-TR
+        U3         11      VDDIO          POWER       ATML-ATSAM3X-LQFP-144
+        U3         52      VDDBU          POWER       ATML-ATSAM3X-LQFP-144
+        U3         57      VDDIN          POWER       ATML-ATSAM3X-LQFP-144
+        U3         62      VDDIO          POWER       ATML-ATSAM3X-LQFP-144
+        U3         105     VDDIO          POWER       ATML-ATSAM3X-LQFP-144
+        U3         125     VDDIO          POWER       ATML-ATSAM3X-LQFP-144
+        U5         16      nReset         PASSIVE     DRV8825
+        U5         17      nSleep         PASSIVE     DRV8825
+        U6         12      PIN            PASSIVE     ADuM4160
+        U6         13      SPD            PASSIVE     ADuM4160
+        U6         14      VDD2           PASSIVE     ADuM4160
+        U7_M1      16      nReset         PASSIVE     DRV8825
+        U7_M1      17      nSleep         PASSIVE     DRV8825
+        U7_M2      16      nReset         PASSIVE     DRV8825
+        U7_M2      17      nSleep         PASSIVE     DRV8825
+        U7_M3      16      nReset         PASSIVE     DRV8825
+        U7_M3      17      nSleep         PASSIVE     DRV8825
+        U7_M4      16      nReset         PASSIVE     DRV8825
+        U7_M4      17      nSleep         PASSIVE     DRV8825
+        U8         2       VCCA           PASSIVE     TXB0106 Level Shifter
+        U8         8       OE             PASSIVE     TXB0106 Level Shifter
+        U9         8       VCC            PASSIVE     S25FL216K0PMFI041
+
+[00279] +5VCC
+        C11        2       2              PASSIVE     100nF
+        C20        2       2              PASSIVE     0402
+        C21        1       1              PASSIVE     10uF
+        C28        1       1              PASSIVE     1uF
+        C29        2       2              PASSIVE     0603
+        C70        1       1              PASSIVE     0402
+        L1         2       2              PASSIVE     XAL5050-153MEB
+        P4         10      10             PASSIVE     Header 5X2
+        R1         2       2              PASSIVE     10K
+        R7         2       2              PASSIVE     10K
+        R10        1       1              PASSIVE     R0603TBD
+        T4         2       OUT2A          PASSIVE     Molex 0705430003
+        TP31       1       1              PASSIVE     TP4
+        U2         1       EN             POWER       MIC5353-3.3YMT-TR
+        U2         3       VIN            POWER       MIC5353-3.3YMT-TR
+        U8         15      VCCB           PASSIVE     TXB0106 Level Shifter
+
+[00280] THERM_AN_BUS4
+
+[00281] THERM_AN_BUS3
+
+[00282] THERM_AN_BUS2
+
+[00283] THERM_AN_BUS1
+
+[00284] STEP_BUS4
+
+[00285] STEP_BUS3
+
+[00286] STEP_BUS2
+
+[00287] STEP_BUS1
+
+[00288] REF_BUS4
+
+[00289] REF_BUS3
+
+[00290] REF_BUS2
+
+[00291] REF_BUS1
+
+[00292] MOD2E_BUS4
+
+[00293] MOD2E_BUS3
+
+[00294] MOD2E_BUS2
+
+[00295] MOD2E_BUS1
+
+[00296] MOD1E_BUS4
+
+[00297] MOD1E_BUS3
+
+[00298] MOD1E_BUS2
+
+[00299] MOD1E_BUS1
+
+[00300] MOD0E_BUS4
+
+[00301] MOD0E_BUS3
+
+[00302] MOD0E_BUS2
+
+[00303] MOD0E_BUS1
+
+[00304] MIN_ES_BUS3
+
+[00305] MIN_ES_BUS2
+
+[00306] MIN_ES_BUS1
+
+[00307] MAX_ES_BUS3
+
+[00308] MAX_ES_BUS2
+
+[00309] MAX_ES_BUS1
+
+[00310] EN_BUS4
+
+[00311] EN_BUS3
+
+[00312] EN_BUS2
+
+[00313] EN_BUS1
+
+[00314] DIR_BUS4
+
+[00315] DIR_BUS3
+
+[00316] DIR_BUS2
+
+[00317] DIR_BUS1
+

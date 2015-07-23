@@ -1,0 +1,30 @@
+Change Component DesignItemId : Designator=R28 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R29 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R34 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R35 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R40 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R9_M1 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R9_M2 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R9_M3 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R9_M4 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R27 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R31_M1 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R31_M2 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R31_M3 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R31_M4 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component DesignItemId : Designator=R37 Old DesignItemId=RC0402JR-0710KL New DesignItemId=RC0402FR-0710KP
+Change Component Footprint: Designator=R28 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R29 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R34 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R35 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R40 Old Footprint=R0603 New Footprint=R0402
+Change Component Description : Designator=R9_M1 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R9_M2 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R9_M3 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R9_M4 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R27 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R31_M1 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R31_M2 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R31_M3 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R31_M4 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402
+Change Component Description : Designator=R37 Old Description=RES SMD 10K OHM 5% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/16W 0402

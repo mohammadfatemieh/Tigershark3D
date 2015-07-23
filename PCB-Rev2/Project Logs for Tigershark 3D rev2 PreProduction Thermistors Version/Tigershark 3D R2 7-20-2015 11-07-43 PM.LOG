@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=EXP_CS2 New Net Name=PC27
+Change Net Name : Old Net Name=I2C_SCL New Net Name=PA18_SCL
+Change Net Name : Old Net Name=I2C_SDA New Net Name=PA17_SDA
+Change Net Name : Old Net Name=MISO New Net Name=PA25_MISO
+Change Net Name : Old Net Name=MOSI New Net Name=PA26_MOSI
+Change Net Name : Old Net Name=RRD1 New Net Name=PB8
+Change Net Name : Old Net Name=RRD2 New Net Name=PB10
+Change Net Name : Old Net Name=RRD3 New Net Name=PB11
+Change Net Name : Old Net Name=SCLK New Net Name=PA27_SCLK
