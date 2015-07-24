@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=C88-1
+Removed Pin From Net: NetName=+5VCC Pin=C88-2
+Removed Pin From Net: NetName=HTR0 Pin=D12-1
+Removed Pin From Net: NetName=+12VCC2 Pin=D12-2
+Removed Pin From Net: NetName=HTR1 Pin=D15-1
+Removed Pin From Net: NetName=+12VCC2 Pin=D15-2
+Removed Pin From Net: NetName=HTRA Pin=D17-1
+Removed Pin From Net: NetName=+12VCC2 Pin=D17-2
+Removed Pin From Net: NetName=HTBD Pin=D19-1
+Removed Pin From Net: NetName=+12VCC3 Pin=D19-2
+Change Component DesignItemId : Designator=D12 Old DesignItemId=D Schottky New DesignItemId=SK310A
+Change Component DesignItemId : Designator=D15 Old DesignItemId=D Schottky New DesignItemId=SK310A
+Change Component DesignItemId : Designator=D17 Old DesignItemId=D Schottky New DesignItemId=SK310A
+Change Component DesignItemId : Designator=D19 Old DesignItemId=D Schottky New DesignItemId=SK310A
+Change Component Footprint: Designator=D12 Old Footprint=SK310A-TP New Footprint=SMA-SM
+Change Component Footprint: Designator=D15 Old Footprint=SK310A-TP New Footprint=SMA-SM
+Change Component Footprint: Designator=D17 Old Footprint=SK310A-TP New Footprint=SMA-SM
+Change Component Footprint: Designator=D19 Old Footprint=SK310A-TP New Footprint=SMA-SM
+Change Component Comment : Designator=C88 Old Comment=0402 New Comment=100nF
+Change Component Designator: OldDesignator=D12 NewDesignator=D33
+Change Component Description : Designator=C88 Old Description=CAP CER 0.1UF (100nF) 16V 10% X7R 0402 New Description=CAP CER 0402 100nF 16V 10% X7R
+Added Component: Designator=D12(SMA-SM)
+Added Component: Designator=D30(SOD323-R)
+Added Component: Designator=D31(SMA-SM)
+Added Component: Designator=D32(SOD323-R)
+Added Component: Designator=D34(SOD323-R)
+Added Component: Designator=D35(SOD323-R)
+Added Component: Designator=D36(SOD323-R)
+Added Component: Designator=D37(SOD323-R)
+Added Pin To Net: NetName=+5VCC Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=NetD10_C Pin=D12-A
+Added Pin To Net: NetName=+12VCC2 Pin=D12-C
+Added Pin To Net: NetName=HTR1 Pin=D15-A
+Added Pin To Net: NetName=+12VCC2 Pin=D15-C
+Added Pin To Net: NetName=HTRA Pin=D17-A
+Added Pin To Net: NetName=+12VCC2 Pin=D17-C
+Added Pin To Net: NetName=HTBD Pin=D19-A
+Added Pin To Net: NetName=+12VCC3 Pin=D19-C
+Added Pin To Net: NetName=GND Pin=D30-A
+Added Pin To Net: NetName=NetD10_C Pin=D30-C
+Added Pin To Net: NetName=FN1 Pin=D31-A
+Added Pin To Net: NetName=+12VCC2 Pin=D31-C
+Added Pin To Net: NetName=GND Pin=D32-A
+Added Pin To Net: NetName=FN1 Pin=D32-C
+Added Pin To Net: NetName=HTR0 Pin=D33-A
+Added Pin To Net: NetName=+12VCC2 Pin=D33-C
+Added Pin To Net: NetName=GND Pin=D34-A
+Added Pin To Net: NetName=HTR0 Pin=D34-C
+Added Pin To Net: NetName=GND Pin=D35-A
+Added Pin To Net: NetName=HTR1 Pin=D35-C
+Added Pin To Net: NetName=GND Pin=D36-A
+Added Pin To Net: NetName=HTRA Pin=D36-C
+Added Pin To Net: NetName=GND Pin=D37-A
+Added Pin To Net: NetName=HTBD Pin=D37-C
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D30 RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D31 B240A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D32 RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D33 B240A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D34 RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D35 RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D36 RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D37 RSB39VTE-17

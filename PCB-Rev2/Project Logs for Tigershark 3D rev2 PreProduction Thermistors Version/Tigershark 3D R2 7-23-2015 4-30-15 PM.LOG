@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=3.3VCC Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=FET_PWM1 Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R55-1
+Removed Pin From Net: NetName=FET_PWM2 Pin=R55-2
+Removed Pin From Net: NetName=NetQ4_4 Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=FET_PWM3 Pin=R59-2
+Removed Pin From Net: NetName=NetQ5_4 Pin=R62-2
+Removed Pin From Net: NetName=GND Pin=R63-1
+Removed Pin From Net: NetName=FET_PWM4 Pin=R63-2
+Removed Pin From Net: NetName=NetQ6_4 Pin=R66-2
+Removed Pin From Net: NetName=GND Pin=R67-1
+Removed Pin From Net: NetName=FET_PWM5 Pin=R67-2
+Removed Pin From Net: NetName=NetQ7_4 Pin=R70-2
+Removed Pin From Net: NetName=BED_PWM Pin=R71-2
+Removed Pin From Net: NetName=BED_PWM Pin=TP38-1
+Removed Pin From Net: NetName=FET_PWM1 Pin=TP43-1
+Removed Pin From Net: NetName=FET_PWM2 Pin=TP44-1
+Removed Pin From Net: NetName=FET_PWM3 Pin=TP45-1
+Removed Pin From Net: NetName=FET_PWM4 Pin=TP46-1
+Removed Pin From Net: NetName=FET_PWM5 Pin=TP47-1
+Removed Pin From Net: NetName=REF_EXP1 Pin=U3-20
+Removed Pin From Net: NetName=MOD0E1 Pin=U3-84
+Removed Pin From Net: NetName=FET_PWM1 Pin=U8-1
+Removed Pin From Net: NetName=3.3VCC Pin=U8-2
+Removed Pin From Net: NetName=FET_PWM2 Pin=U8-3
+Removed Pin From Net: NetName=FET_PWM3 Pin=U8-4
+Removed Pin From Net: NetName=FET_PWM4 Pin=U8-5
+Removed Pin From Net: NetName=FET_PWM5 Pin=U8-6
+Removed Pin From Net: NetName=BED_PWM Pin=U8-7
+Removed Pin From Net: NetName=3.3VCC Pin=U8-8
+Removed Pin From Net: NetName=GND Pin=U8-9
+Removed Pin From Net: NetName=NetR70_1 Pin=U8-10
+Removed Pin From Net: NetName=NetR52_1 Pin=U8-14
+Removed Pin From Net: NetName=+5VCC Pin=U8-15
+Removed Pin From Net: NetName=NetR45_1 Pin=U8-16
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP38
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP43
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP44
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP45
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP46
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP47
+Removed Member From Class: ClassName=SD Member=MCCDZ
+Removed Member From Class: ClassName=SD Member=MCDZ0
+Removed Member From Class: ClassName=SD Member=MCDZ1
+Removed Member From Class: ClassName=SD Member=MCDZ2
+Removed Member From Class: ClassName=SD Member=MCDZ3
+Change Component DesignItemId : Designator=R58 Old DesignItemId=CRCW060310R0FKEA New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R62 Old DesignItemId=CRCW060310R0FKEA New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R66 Old DesignItemId=CRCW060310R0FKEA New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R55 Old DesignItemId=RC1005F104CS New DesignItemId=CRCW060310R0FKEA
+Change Component DesignItemId : Designator=R59 Old DesignItemId=RC1005F104CS New DesignItemId=CRCW060310R0FKEA
+Change Component DesignItemId : Designator=R63 Old DesignItemId=RC1005F104CS New DesignItemId=CRCW060310R0FKEA
+Change Component DesignItemId : Designator=R67 Old DesignItemId=RC1005F104CS New DesignItemId=CRCW060310R0FKEA
+Change Component DesignItemId : Designator=U8 Old DesignItemId=TXB0106 New DesignItemId=ZXGD3009E6
+Change Component Footprint: Designator=R46 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R55 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R59 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R63 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R67 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R58 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R62 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R66 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=U8 Old Footprint=TSOP65P640X120-16N New Footprint=SOT26P285X140-6L
+Change Component Comment : Designator=R58 Old Comment=10r New Comment=100K
+Change Component Comment : Designator=R62 Old Comment=10r New Comment=100K
+Change Component Comment : Designator=R66 Old Comment=10r New Comment=100K
+Change Component Comment : Designator=R46 Old Comment=100K New Comment=10r
+Change Component Comment : Designator=R55 Old Comment=100K New Comment=10r
+Change Component Comment : Designator=R59 Old Comment=100K New Comment=10r
+Change Component Comment : Designator=R63 Old Comment=100K New Comment=10r
+Change Component Comment : Designator=R67 Old Comment=100K New Comment=10r
+Change Component Comment : Designator=U8 Old Comment=TXB0106 Level Shifter New Comment=ZXGD3009E6
+Added Component: Designator=C85(C0402)
+Added Component: Designator=C86(C0402)
+Added Component: Designator=C87(C0402)
+Added Component: Designator=C88(C0402)
+Added Component: Designator=R54(R0402)
+Added Component: Designator=R57(R0603)
+Added Component: Designator=R61(R0603)
+Added Component: Designator=R65(R0603)
+Added Component: Designator=R69(R0603)
+Added Component: Designator=R72(R0402)
+Added Component: Designator=U4(SOT26P285X140-6L)
+Added Component: Designator=U10(SOT26P285X140-6L)
+Added Component: Designator=U11(SOT26P285X140-6L)
+Added Component: Designator=U12(SOT26P285X140-6L)
+Added Component: Designator=U13(SOT26P285X140-6L)
+Added Pin To Net: NetName=+5VCC Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=+5VCC Pin=C85-2
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=+5VCC Pin=C86-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=+5VCC Pin=C87-2
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=+5VCC Pin=C88-2
+Added Pin To Net: NetName=NetQ1_4 Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R54-1
+Added Pin To Net: NetName=FET_PWM2 Pin=R54-2
+Added Pin To Net: NetName=NetQ4_4 Pin=R55-2
+Added Pin To Net: NetName=NetQ4_4 Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=FET_PWM3 Pin=R58-2
+Added Pin To Net: NetName=NetQ5_4 Pin=R59-2
+Added Pin To Net: NetName=NetQ5_4 Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=FET_PWM4 Pin=R62-2
+Added Pin To Net: NetName=NetQ6_4 Pin=R63-2
+Added Pin To Net: NetName=NetQ6_4 Pin=R65-2
+Added Pin To Net: NetName=GND Pin=R66-1
+Added Pin To Net: NetName=FET_PWM5 Pin=R66-2
+Added Pin To Net: NetName=NetQ7_4 Pin=R67-2
+Added Pin To Net: NetName=NetQ7_4 Pin=R69-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R70-2
+Added Pin To Net: NetName=FET_PWM1 Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=BED_PWM Pin=R72-2
+Added Pin To Net: NetName=+5VCC Pin=U4-1
+Added Pin To Net: NetName=FET_PWM1 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetR45_1 Pin=U4-4
+Added Pin To Net: NetName=NetR70_1 Pin=U4-6
+Added Pin To Net: NetName=+5VCC Pin=U8-1
+Added Pin To Net: NetName=FET_PWM2 Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=NetR52_1 Pin=U8-4
+Added Pin To Net: NetName=+5VCC Pin=U10-1
+Added Pin To Net: NetName=FET_PWM3 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=+5VCC Pin=U11-1
+Added Pin To Net: NetName=FET_PWM4 Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=+5VCC Pin=U12-1
+Added Pin To Net: NetName=FET_PWM5 Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=+5VCC Pin=U13-1
+Added Pin To Net: NetName=BED_PWM Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Change Net Name : Old Net Name=MCCDZ New Net Name=MCCDA
+Change Net Name : Old Net Name=MCDZ0 New Net Name=MCDA0
+Change Net Name : Old Net Name=MCDZ1 New Net Name=MCDA1
+Change Net Name : Old Net Name=MCDZ2 New Net Name=MCDA2
+Change Net Name : Old Net Name=MCDZ3 New Net Name=MCDA3
+Change Net Name : Old Net Name=MODE0_EXP1 New Net Name=PA8_URXD
+Change Net Name : Old Net Name=MODE0_EXP2 New Net Name=PA7_TCLK2
+Change Net Name : Old Net Name=MODE1_EXP1 New Net Name=PA5_PWM
+Change Net Name : Old Net Name=MODE1_EXP2 New Net Name=PA1_CANRX0
+Change Net Name : Old Net Name=MODE2_EXP1 New Net Name=PA0_CANTX0
+Change Net Name : Old Net Name=REF_EXP2 New Net Name=PD8_A21
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=U8-6
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U10-6
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=U10-4
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Pin To Net: NetName=NetR59_1 Pin=U11-6
+Added Net: Name=NetR59_1
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=U11-4
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=NetR63_1 Pin=U12-6
+Added Net: Name=NetR63_1
+Added Pin To Net: NetName=NetR65_1 Pin=R65-1
+Added Pin To Net: NetName=NetR65_1 Pin=U12-4
+Added Net: Name=NetR65_1
+Added Pin To Net: NetName=NetR67_1 Pin=R67-1
+Added Pin To Net: NetName=NetR67_1 Pin=U13-6
+Added Net: Name=NetR67_1
+Added Pin To Net: NetName=NetR69_1 Pin=R69-1
+Added Pin To Net: NetName=NetR69_1 Pin=U13-4
+Added Net: Name=NetR69_1
+Added Pin To Net: NetName=PD7_A17 Pin=U3-20
+Added Net: Name=PD7_A17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C85 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C86 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C87 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C88 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R54 100K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R57 10r
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R61 10r
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R65 10r
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R69 10r
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R72 100K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U4 ZXGD3009E6
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U10 ZXGD3009E6
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U11 ZXGD3009E6
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U12 ZXGD3009E6
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U13 ZXGD3009E6
+Added Member To Class: ClassName=SD Member=Wire MCCDA
+Added Member To Class: ClassName=SD Member=Wire MCDA0
+Added Member To Class: ClassName=SD Member=Wire MCDA1
+Added Member To Class: ClassName=SD Member=Wire MCDA2
+Added Member To Class: ClassName=SD Member=Wire MCDA3
