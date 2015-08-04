@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=THERM_AN4 Pin=U3-88
+Removed Pin From Net: NetName=THERM_AN3 Pin=U3-89
+Removed Pin From Net: NetName=THERM_AN2 Pin=U3-90
+Removed Pin From Net: NetName=THERM_AN1 Pin=U3-91
+Added Pin To Net: NetName=THERM_AN3 Pin=U3-88
+Added Pin To Net: NetName=THERM_AN4 Pin=U3-89
+Added Pin To Net: NetName=THERM_AN1 Pin=U3-90
+Added Pin To Net: NetName=THERM_AN2 Pin=U3-91

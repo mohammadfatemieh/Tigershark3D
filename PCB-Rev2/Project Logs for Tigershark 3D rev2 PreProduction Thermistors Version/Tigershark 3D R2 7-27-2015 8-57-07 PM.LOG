@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=EN4 Pin=U3-15
+Removed Pin From Net: NetName=DIR4 Pin=U3-16
+Added Pin To Net: NetName=DIR4 Pin=U3-15
+Added Pin To Net: NetName=EN4 Pin=U3-16
+Added Member To Class: ClassName=M1 Member=Component R8_M1 (R8) 100K

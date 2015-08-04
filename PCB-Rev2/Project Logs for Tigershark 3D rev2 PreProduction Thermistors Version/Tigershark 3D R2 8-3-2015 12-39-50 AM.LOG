@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PA9_UTXD Pin=P3-5
+Removed Pin From Net: NetName=PA8_URXD Pin=P3-7
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Added Component: Designator=T2(4POL254)
+Added Pin To Net: NetName=PA9_UTXD Pin=T2-1
+Added Pin To Net: NetName=PA8_URXD Pin=T2-2
+Added Pin To Net: NetName=+5VCC Pin=T2-3
+Added Pin To Net: NetName=GND Pin=T2-4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component T2 Molex 0705430003

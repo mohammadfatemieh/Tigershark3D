@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=P5-9
+Removed Pin From Net: NetName=3.3VCC Pin=P5-10
+Removed Pin From Net: NetName=DIR1 Pin=U3-87
+Removed Pin From Net: NetName=REF1 Pin=U3-139
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 5X2 New DesignItemId=Header 6X2
+Change Component Footprint: Designator=P5 Old Footprint=HDR2X5 New Footprint=HDR2X6
+Change Component Comment : Designator=P5 Old Comment=Header 5X2 New Comment=Header 6X2
+Added Pin To Net: NetName=NRST Pin=P5-10
+Added Pin To Net: NetName=GND Pin=P5-11
+Added Pin To Net: NetName=3.3VCC Pin=P5-12
+Added Pin To Net: NetName=REF1 Pin=U3-82
+Added Pin To Net: NetName=DIR1 Pin=U3-83

@@ -1,0 +1,9 @@
+Added Component: Designator=H5(Standoff2.5mmTopConn)
+Added Component: Designator=H6(Standoff2.5mmTopConn)
+Added Component: Designator=H7(Standoff2.5mmTopConn)
+Added Pin To Net: NetName=FGND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Member To Class: ClassName=Designator Member=Component H5 Standoff
+Added Member To Class: ClassName=Designator Member=Component H6 Standoff
+Added Member To Class: ClassName=Designator Member=Component H7 Standoff

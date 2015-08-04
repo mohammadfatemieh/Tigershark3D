@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=STEP_Z Pin=U3-117
+Removed Pin From Net: NetName=EN_Z Pin=U3-128
+Removed Pin From Net: NetName=DIR_Z Pin=U3-129
+Added Pin To Net: NetName=STEP_Z Pin=U3-116
+Added Pin To Net: NetName=EN_Z Pin=U3-117
+Added Pin To Net: NetName=DIR_Z Pin=U3-128

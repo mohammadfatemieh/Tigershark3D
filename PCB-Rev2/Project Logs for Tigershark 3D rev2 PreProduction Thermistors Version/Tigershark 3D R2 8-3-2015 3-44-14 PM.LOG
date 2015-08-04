@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PB25_TIOA0 Pin=P3-3
+Removed Pin From Net: NetName=PB27_TIOB0 Pin=P3-7
+Added Pin To Net: NetName=PB27_TIOB0 Pin=P3-3
+Added Pin To Net: NetName=PB25_TIOA0 Pin=P3-7

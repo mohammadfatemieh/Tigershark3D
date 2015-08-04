@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+12VCC1 Pin=C15_M1-1
+Added Pin To Net: NetName=GND Pin=C15_M1-2
+Added Pin To Net: NetName=+12VCC1 Pin=C15_M2-1
+Added Pin To Net: NetName=GND Pin=C15_M2-2
+Added Pin To Net: NetName=+12VCC1 Pin=C15_M3-1
+Added Pin To Net: NetName=GND Pin=C15_M3-2
+Added Pin To Net: NetName=+12VCC1 Pin=C15_M4-1
+Added Pin To Net: NetName=GND Pin=C15_M4-2
+Added Pin To Net: NetName=+12VCC1 Pin=C90-1
+Added Pin To Net: NetName=GND Pin=C90-2

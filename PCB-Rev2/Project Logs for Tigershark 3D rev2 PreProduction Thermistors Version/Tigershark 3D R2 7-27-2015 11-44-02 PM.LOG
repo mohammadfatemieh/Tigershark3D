@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FET_PWM3 Pin=U3-134
+Removed Pin From Net: NetName=FET_PWM4 Pin=U3-135
+Added Pin To Net: NetName=FET_PWM4 Pin=U3-134
+Added Pin To Net: NetName=FET_PWM3 Pin=U3-135

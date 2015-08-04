@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PA1_CANRX0 Pin=R76-1
+Removed Pin From Net: NetName=PA0_CANTX0 Pin=R76-2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R76

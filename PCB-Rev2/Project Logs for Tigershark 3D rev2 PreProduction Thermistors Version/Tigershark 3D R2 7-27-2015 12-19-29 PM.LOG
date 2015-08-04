@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NRST Pin=P5-7
+Removed Pin From Net: NetName=PB1_ETXEN Pin=P5-9
+Removed Pin From Net: NetName=PB3_ETX1 Pin=P5-11
+Removed Pin From Net: NetName=PB5_ERX0 Pin=P5-13
+Removed Pin From Net: NetName=PB7_ERXER Pin=P5-15
+Removed Pin From Net: NetName=PB9_EMDIO Pin=P5-17
+Added Pin To Net: NetName=PB1_ETXEN Pin=P5-7
+Added Pin To Net: NetName=PB3_ETX1 Pin=P5-9
+Added Pin To Net: NetName=PB5_ERX0 Pin=P5-11
+Added Pin To Net: NetName=PB7_ERXER Pin=P5-13
+Added Pin To Net: NetName=PB9_EMDIO Pin=P5-15
+Added Pin To Net: NetName=NRST Pin=P5-18

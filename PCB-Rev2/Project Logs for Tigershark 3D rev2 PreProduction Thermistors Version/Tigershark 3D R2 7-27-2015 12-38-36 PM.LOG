@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PB7_ERXER Pin=P5-13
+Removed Pin From Net: NetName=PB9_EMDIO Pin=P5-15
+Removed Pin From Net: NetName=PB8_EMDC Pin=P5-16
+Removed Pin From Net: NetName=NRST Pin=P5-18
+Removed Pin From Net: NetName=MAX_ES3 Pin=U3-78
+Added Pin To Net: NetName=PB15 Pin=P5-13
+Added Pin To Net: NetName=PB16 Pin=P5-16
+Added Pin To Net: NetName=PB7_ERXER Pin=P5-17
+Added Pin To Net: NetName=PB8_EMDC Pin=P5-18
+Added Pin To Net: NetName=PB9_EMDIO Pin=P5-19
+Added Pin To Net: NetName=NRST Pin=P5-20
+Change Net Name : Old Net Name=PB15 New Net Name=PB15_DAC0
+Change Net Name : Old Net Name=PB16 New Net Name=PB16_DAC1
+Added Pin To Net: NetName=PA16_SCK1 Pin=U3-78
+Added Net: Name=PA16_SCK1

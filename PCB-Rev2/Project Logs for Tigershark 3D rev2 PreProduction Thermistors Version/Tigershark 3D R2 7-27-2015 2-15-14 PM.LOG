@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=PB25 Pin=U3-1
+Removed Pin From Net: NetName=USB_RX Pin=U3-15
+Removed Pin From Net: NetName=USB_TX Pin=U3-16
+Removed Pin From Net: NetName=MIN_ES2 Pin=U3-19
+Removed Pin From Net: NetName=MAX_ES2 Pin=U3-22
+Added Pin To Net: NetName=DIR3 Pin=U3-1
+Added Pin To Net: NetName=MOD2E4 Pin=U3-3
+Added Pin To Net: NetName=MOD1E4 Pin=U3-4
+Added Pin To Net: NetName=MOD0E4 Pin=U3-13
+Added Pin To Net: NetName=STEP4 Pin=U3-14
+Added Pin To Net: NetName=EN4 Pin=U3-15
+Added Pin To Net: NetName=DIR4 Pin=U3-16
+Added Pin To Net: NetName=MAX_ES3 Pin=U3-17
+Added Pin To Net: NetName=MIN_ES3 Pin=U3-18
+Added Pin To Net: NetName=MAX_ES2 Pin=U3-19
+Added Pin To Net: NetName=REF4 Pin=U3-20
+Added Pin To Net: NetName=MIN_ES2 Pin=U3-22
+Added Pin To Net: NetName=MAX_ES1 Pin=U3-26
+Added Pin To Net: NetName=MIN_ES1 Pin=U3-32
+Change Net Name : Old Net Name=GPIO_P_1 New Net Name=PA13_TXD1
+Change Net Name : Old Net Name=GPIO_P_2 New Net Name=PA15_CTS1
+Change Net Name : Old Net Name=GPIO_P_3 New Net Name=PA12_RXD1
+Change Net Name : Old Net Name=GPIO_P_4 New Net Name=PA9_UTXD
+Change Net Name : Old Net Name=GPIO_P_5 New Net Name=PA14_RTS1

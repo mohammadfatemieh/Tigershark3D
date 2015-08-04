@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PB14 Pin=P3-3
+Removed Pin From Net: NetName=PB5_ERX0 Pin=P5-11
+Removed Pin From Net: NetName=PB15_DAC0 Pin=P5-13
+Removed Pin From Net: NetName=PB6_ERX1 Pin=P5-14
+Removed Pin From Net: NetName=USB_TX Pin=T6-2
+Removed Pin From Net: NetName=USB_RX Pin=T6-3
+Removed Pin From Net: NetName=USB_RX Pin=T6-4
+Removed Pin From Net: NetName=BED_PWM Pin=T8-1
+Removed Pin From Net: NetName=FET_PWM5 Pin=T8-2
+Removed Pin From Net: NetName=FET_PWM5 Pin=T8-3
+Removed Pin From Net: NetName=FET_PWM2 Pin=T8-4
+Added Pin To Net: NetName=PA5_PWM Pin=P3-3
+Added Pin To Net: NetName=PA9_UTXD Pin=P3-5
+Added Pin To Net: NetName=PA8_URXD Pin=P3-7
+Added Pin To Net: NetName=PB15_DAC0 Pin=P5-11
+Added Pin To Net: NetName=PB6_ERX1 Pin=P5-13
+Added Pin To Net: NetName=PB5_ERX0 Pin=P5-14

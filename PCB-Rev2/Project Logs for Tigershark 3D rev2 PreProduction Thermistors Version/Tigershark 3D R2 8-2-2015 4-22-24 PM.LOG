@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=FGND Pin=H5-
+Change Component Footprint: Designator=H5 Old Footprint= New Footprint=Standoff2.5mmTopConn

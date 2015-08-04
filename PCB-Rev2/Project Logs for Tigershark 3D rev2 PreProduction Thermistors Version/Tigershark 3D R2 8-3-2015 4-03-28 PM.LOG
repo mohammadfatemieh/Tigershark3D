@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=STEP1 Pin=U3-66
+Removed Pin From Net: NetName=EN1 Pin=U3-67
+Added Pin To Net: NetName=EN1 Pin=U3-66
+Added Pin To Net: NetName=STEP1 Pin=U3-67

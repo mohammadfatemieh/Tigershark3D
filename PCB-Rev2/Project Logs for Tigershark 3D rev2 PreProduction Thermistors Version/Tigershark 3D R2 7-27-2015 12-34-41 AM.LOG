@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PB8 Pin=U3-127
+Removed Member From Class: ClassName=TR3 Member=P2_TR4
+Added Pin To Net: NetName=PB9_EMDIO Pin=P5-14
+Added Pin To Net: NetName=PB9_EMDIO Pin=U3-127
+Added Net: Name=PB9_EMDIO
+Added Member To Class: ClassName=TR3 Member=Component P2_TR3 (P2A) C-GRID-02-70543

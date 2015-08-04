@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DIR_EXP1 Pin=U3-64
+Removed Pin From Net: NetName=EN_EXP1 Pin=U3-66
+Removed Pin From Net: NetName=STEP_EXP1 Pin=U3-68
+Removed Pin From Net: NetName=MOD2E1 Pin=U3-82
+Removed Pin From Net: NetName=MOD1E1 Pin=U3-83
+Removed Pin From Net: NetName=STEP1 Pin=U3-85
+Removed Pin From Net: NetName=EN1 Pin=U3-86
+Added Pin To Net: NetName=MOD2E1 Pin=U3-63
+Added Pin To Net: NetName=MOD1E1 Pin=U3-64
+Added Pin To Net: NetName=MOD0E1 Pin=U3-65
+Added Pin To Net: NetName=STEP1 Pin=U3-66
+Added Pin To Net: NetName=EN1 Pin=U3-67
+Change Net Name : Old Net Name=GPIO_P_0 New Net Name=PB25
+Added Pin To Net: NetName=PA3 Pin=U3-84
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=U3-83
+Added Net: Name=PA4
+Added Pin To Net: NetName=PB27 Pin=U3-68
+Added Net: Name=PB27

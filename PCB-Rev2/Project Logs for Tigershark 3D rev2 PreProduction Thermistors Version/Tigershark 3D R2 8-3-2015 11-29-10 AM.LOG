@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PA5_PWM Pin=P3-3
+Added Pin To Net: NetName=PB25_TIOA0 Pin=P3-3
+Added Pin To Net: NetName=PA3 Pin=P3-5
+Added Pin To Net: NetName=PB27 Pin=P3-7
+Change Net Name : Old Net Name=PA3 New Net Name=PA3_TIOB1
+Change Net Name : Old Net Name=PB27 New Net Name=PB27_TIOB0

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MAX_ES1 Pin=U3-17
+Removed Pin From Net: NetName=MAX_ES2 Pin=U3-32
+Added Pin To Net: NetName=MAX_ES2 Pin=U3-17
+Added Pin To Net: NetName=MAX_ES1 Pin=U3-32

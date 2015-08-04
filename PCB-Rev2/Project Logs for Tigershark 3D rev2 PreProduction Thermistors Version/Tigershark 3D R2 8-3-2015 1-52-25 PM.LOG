@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PB16_DAC1 Pin=P5-11
+Removed Pin From Net: NetName=PB8_EMDC Pin=P5-13
+Removed Pin From Net: NetName=PB9_EMDIO Pin=P5-16
+Added Pin To Net: NetName=PB8_EMDC Pin=P5-11
+Added Pin To Net: NetName=PB9_EMDIO Pin=P5-13
+Added Pin To Net: NetName=PB16_DAC1 Pin=P5-16
