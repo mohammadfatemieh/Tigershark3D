@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_RX Pin=U3-55
+Removed Pin From Net: NetName=USB_TX Pin=U3-60
+Change Component DesignItemId : Designator=D24 Old DesignItemId=5988140107F New DesignItemId=5988110107F
+Change Component Comment : Designator=D24 Old Comment=5988140107F New Comment=5988110107F
+Change Component Description : Designator=D24 Old Description=LED 0805 Yellow New Description=LED 0805 Red
+Added Pin To Net: NetName=USB_TX Pin=U3-55
+Added Pin To Net: NetName=USB_RX Pin=U3-60
+Change Net Name : Old Net Name=USB_RX New Net Name=LED_R
+Change Net Name : Old Net Name=USB_TX New Net Name=LED_Y

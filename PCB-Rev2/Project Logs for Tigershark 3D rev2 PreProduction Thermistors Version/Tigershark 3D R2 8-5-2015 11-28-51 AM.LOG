@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=GND Pin=C1_ES1-1
+Removed Pin From Net: NetName=MIN_ES1 Pin=C1_ES1-2
+Removed Pin From Net: NetName=GND Pin=C1_ES2-1
+Removed Pin From Net: NetName=MIN_ES2 Pin=C1_ES2-2
+Removed Pin From Net: NetName=GND Pin=C1_ES3-1
+Removed Pin From Net: NetName=MIN_ES3 Pin=C1_ES3-2
+Removed Pin From Net: NetName=GND Pin=C2_ES1-1
+Removed Pin From Net: NetName=MAX_ES1 Pin=C2_ES1-2
+Removed Pin From Net: NetName=GND Pin=C2_ES2-1
+Removed Pin From Net: NetName=MAX_ES2 Pin=C2_ES2-2
+Removed Pin From Net: NetName=GND Pin=C2_ES3-1
+Removed Pin From Net: NetName=MAX_ES3 Pin=C2_ES3-2
+Removed Pin From Net: NetName=MIN_ES1 Pin=D38_ES1-A
+Removed Pin From Net: NetName=MIN_ES2 Pin=D38_ES2-A
+Removed Pin From Net: NetName=MIN_ES3 Pin=D38_ES3-A
+Removed Pin From Net: NetName=MAX_ES1 Pin=D39_ES1-A
+Removed Pin From Net: NetName=MAX_ES2 Pin=D39_ES2-A
+Removed Pin From Net: NetName=MAX_ES3 Pin=D39_ES3-A
+Removed Pin From Net: NetName=MAX_ES1 Pin=MAX1_ES1-1
+Removed Pin From Net: NetName=MAX_ES2 Pin=MAX1_ES2-1
+Removed Pin From Net: NetName=MAX_ES3 Pin=MAX1_ES3-1
+Removed Pin From Net: NetName=MIN_ES1 Pin=MIN1_ES1-1
+Removed Pin From Net: NetName=MIN_ES2 Pin=MIN1_ES2-1
+Removed Pin From Net: NetName=MIN_ES3 Pin=MIN1_ES3-1
+Change Component DesignItemId : Designator=C1_ES1 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=C1_ES2 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=C1_ES3 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=C2_ES1 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=C2_ES2 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=C2_ES3 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=GRM155R71H103JA88D
+Change Component DesignItemId : Designator=R2_ES1 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R2_ES2 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R2_ES3 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R3_ES1 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R3_ES2 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component DesignItemId : Designator=R3_ES3 Old DesignItemId=ERJ-2GEJ272X New DesignItemId=RC1005F104CS
+Change Component Comment : Designator=R2_ES1 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=R2_ES2 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=R2_ES3 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=R3_ES1 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=R3_ES2 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=R3_ES3 Old Comment=2.7K New Comment=100K
+Change Component Comment : Designator=C1_ES1 Old Comment=4.7nF New Comment=0402
+Change Component Comment : Designator=C1_ES2 Old Comment=4.7nF New Comment=0402
+Change Component Comment : Designator=C1_ES3 Old Comment=4.7nF New Comment=0402
+Change Component Comment : Designator=C2_ES1 Old Comment=4.7nF New Comment=0402
+Change Component Comment : Designator=C2_ES2 Old Comment=4.7nF New Comment=0402
+Change Component Comment : Designator=C2_ES3 Old Comment=4.7nF New Comment=0402
+Change Component Description : Designator=C1_ES1 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=C1_ES2 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=C1_ES3 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=C2_ES1 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=C2_ES2 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=C2_ES3 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=CAP CER 10nF 50V X7R 0402
+Change Component Description : Designator=R2_ES1 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Description : Designator=R2_ES2 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Description : Designator=R2_ES3 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Description : Designator=R3_ES1 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Description : Designator=R3_ES2 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Description : Designator=R3_ES3 Old Description=RES SMD 2.7K OHM 5% 1/10W 0402 New Description=RES SMD 100K OHM 1% 1/16W 0402
+Change Component Library : Designator=C1_ES1 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Change Component Library : Designator=C1_ES2 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Change Component Library : Designator=C1_ES3 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Change Component Library : Designator=C2_ES1 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Change Component Library : Designator=C2_ES2 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Change Component Library : Designator=C2_ES3 Old Library=3Delight.SCHLIB New Library=Tigershark3D.SchLib
+Added Component: Designator=R76_ES1(R0402)
+Added Component: Designator=R76_ES2(R0402)
+Added Component: Designator=R76_ES3(R0402)
+Added Component: Designator=R77_ES1(R0402)
+Added Component: Designator=R77_ES2(R0402)
+Added Component: Designator=R77_ES3(R0402)
+Added Pin To Net: NetName=MIN_ES1 Pin=C1_ES1-1
+Added Pin To Net: NetName=GND Pin=C1_ES1-2
+Added Pin To Net: NetName=MIN_ES2 Pin=C1_ES2-1
+Added Pin To Net: NetName=GND Pin=C1_ES2-2
+Added Pin To Net: NetName=MIN_ES3 Pin=C1_ES3-1
+Added Pin To Net: NetName=GND Pin=C1_ES3-2
+Added Pin To Net: NetName=MAX_ES1 Pin=C2_ES1-1
+Added Pin To Net: NetName=GND Pin=C2_ES1-2
+Added Pin To Net: NetName=MAX_ES2 Pin=C2_ES2-1
+Added Pin To Net: NetName=GND Pin=C2_ES2-2
+Added Pin To Net: NetName=MAX_ES3 Pin=C2_ES3-1
+Added Pin To Net: NetName=GND Pin=C2_ES3-2
+Added Pin To Net: NetName=MIN_ES1 Pin=R76_ES1-1
+Added Pin To Net: NetName=MIN_ES2 Pin=R76_ES2-1
+Added Pin To Net: NetName=MIN_ES3 Pin=R76_ES3-1
+Added Pin To Net: NetName=MAX_ES1 Pin=R77_ES1-1
+Added Pin To Net: NetName=MAX_ES2 Pin=R77_ES2-1
+Added Pin To Net: NetName=MAX_ES3 Pin=R77_ES3-1
+Added Pin To Net: NetName=NetD38_ES1_A Pin=D38_ES1-A
+Added Pin To Net: NetName=NetD38_ES1_A Pin=MIN1_ES1-1
+Added Pin To Net: NetName=NetD38_ES1_A Pin=R76_ES1-2
+Added Net: Name=NetD38_ES1_A
+Added Pin To Net: NetName=NetD38_ES2_A Pin=D38_ES2-A
+Added Pin To Net: NetName=NetD38_ES2_A Pin=MIN1_ES2-1
+Added Pin To Net: NetName=NetD38_ES2_A Pin=R76_ES2-2
+Added Net: Name=NetD38_ES2_A
+Added Pin To Net: NetName=NetD38_ES3_A Pin=D38_ES3-A
+Added Pin To Net: NetName=NetD38_ES3_A Pin=MIN1_ES3-1
+Added Pin To Net: NetName=NetD38_ES3_A Pin=R76_ES3-2
+Added Net: Name=NetD38_ES3_A
+Added Pin To Net: NetName=NetD39_ES1_A Pin=D39_ES1-A
+Added Pin To Net: NetName=NetD39_ES1_A Pin=MAX1_ES1-1
+Added Pin To Net: NetName=NetD39_ES1_A Pin=R77_ES1-2
+Added Net: Name=NetD39_ES1_A
+Added Pin To Net: NetName=NetD39_ES2_A Pin=D39_ES2-A
+Added Pin To Net: NetName=NetD39_ES2_A Pin=MAX1_ES2-1
+Added Pin To Net: NetName=NetD39_ES2_A Pin=R77_ES2-2
+Added Net: Name=NetD39_ES2_A
+Added Pin To Net: NetName=NetD39_ES3_A Pin=D39_ES3-A
+Added Pin To Net: NetName=NetD39_ES3_A Pin=MAX1_ES3-1
+Added Pin To Net: NetName=NetD39_ES3_A Pin=R77_ES3-2
+Added Net: Name=NetD39_ES3_A
+Added Member To Class: ClassName=ES1 Member=Component R76_ES1 (R76) 1k
+Added Member To Class: ClassName=ES2 Member=Component R76_ES2 (R76) 1k
+Added Member To Class: ClassName=ES3 Member=Component R76_ES3 (R76) 1k
+Added Member To Class: ClassName=ES1 Member=Component R77_ES1 (R77) 1k
+Added Member To Class: ClassName=ES2 Member=Component R77_ES2 (R77) 1k
+Added Member To Class: ClassName=ES3 Member=Component R77_ES3 (R77) 1k

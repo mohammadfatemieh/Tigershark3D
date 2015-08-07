@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=SJ New DesignItemId=NetTie
+Change Component Footprint: Designator=JP1 Old Footprint=SJ New Footprint=Net Tie
+Change Component Comment : Designator=JP1 Old Comment=SJ New Comment=NetTie
+Change Component Kind : Designator=JP1 Old Kind=Standard New Kind=Net Tie

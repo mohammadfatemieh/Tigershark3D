@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=R5 Old DesignItemId=ERJ-2RKF39R0X New DesignItemId=CRCW040224R0FKED
+Change Component DesignItemId : Designator=R22 Old DesignItemId=ERJ-2RKF39R0X New DesignItemId=CRCW040224R0FKED
+Change Component DesignItemId : Designator=R15 Old DesignItemId=RC1608F240CS New DesignItemId=CRCW040224R0FKED
+Change Component DesignItemId : Designator=R16 Old DesignItemId=RC1608F240CS New DesignItemId=CRCW040224R0FKED
+Change Component DesignItemId : Designator=R18 Old DesignItemId=RC1608F240CS New DesignItemId=CRCW040224R0FKED
+Change Component DesignItemId : Designator=R20 Old DesignItemId=RC1608F240CS New DesignItemId=CRCW040224R0FKED
+Change Component Footprint: Designator=R15 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R16 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R18 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R20 Old Footprint=R0603 New Footprint=R0402
+Change Component Comment : Designator=R5 Old Comment=39r New Comment=24r
+Change Component Comment : Designator=R22 Old Comment=39r New Comment=24r
+Change Component Description : Designator=R17 Old Description=RES 0402 22r 63mW 1% New Description=RES 0402 200k 63mW 1%
+Change Component Description : Designator=R5 Old Description=RES SMD 39 OHM 1% 1/10W 0402 New Description=Res Thick Film 0402 24 Ohm 1% 0.063W
+Change Component Description : Designator=R22 Old Description=RES SMD 39 OHM 1% 1/10W 0402 New Description=Res Thick Film 0402 24 Ohm 1% 0.063W
+Change Component Library : Designator=R5 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=R22 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB

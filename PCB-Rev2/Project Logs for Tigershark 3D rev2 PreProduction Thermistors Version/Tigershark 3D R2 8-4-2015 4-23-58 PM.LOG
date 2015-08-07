@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=FGND Pin=R41-2
+Change Component DesignItemId : Designator=C19 Old DesignItemId=CC0402KRX7R8BB472 New DesignItemId=C0402TBD
+Change Component DesignItemId : Designator=R41 Old DesignItemId=ERJ2GEJ105X New DesignItemId=R0402TBD
+Change Component Comment : Designator=R41 Old Comment=1M New Comment=R0402TBD
+Change Component Comment : Designator=C19 Old Comment=4.7nF New Comment=C0402TBD
+Change Component Description : Designator=C19 Old Description=CAP CER 0402 4.7nF 25V 10% X7R New Description=Capacitor Non Polarized
+Change Component Description : Designator=R41 Old Description=RES 0402 1M 100mW 5% New Description=Resistor
+Added Pin To Net: NetName=FGND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2

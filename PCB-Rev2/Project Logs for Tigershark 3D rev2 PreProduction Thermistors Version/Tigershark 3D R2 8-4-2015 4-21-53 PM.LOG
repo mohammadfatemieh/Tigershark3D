@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC19_1 Pin=C19-1
+Removed Pin From Net: NetName=NetC19_1 Pin=R41-2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C19
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R41
+Added Pin To Net: NetName=FGND Pin=C19-1
+Added Pin To Net: NetName=FGND Pin=R41-2
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetSD_9
+Added Member To Class: ClassName=Designator Member=Component C19 4.7nF
+Added Member To Class: ClassName=Designator Member=Component R41 1M

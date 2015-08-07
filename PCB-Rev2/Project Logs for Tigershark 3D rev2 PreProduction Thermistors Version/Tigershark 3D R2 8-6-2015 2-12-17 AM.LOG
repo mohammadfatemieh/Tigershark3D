@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SPIFLASH_CS Pin=R87-1
+Removed Pin From Net: NetName=PA29_CS Pin=R88-1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R87
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R88
+Added Pin To Net: NetName=SPIFLASH_CS Pin=U3-111
+Added Pin To Net: NetName=PA29_CS Pin=U3-112
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R16 24r

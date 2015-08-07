@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MIN_ES1 Pin=DA1-1
+Removed Pin From Net: NetName=MAX_ES1 Pin=DA1-2
+Removed Pin From Net: NetName=GND Pin=DA1-3
+Removed Pin From Net: NetName=MIN_ES2 Pin=DA2-1
+Removed Pin From Net: NetName=MAX_ES2 Pin=DA2-2
+Removed Pin From Net: NetName=GND Pin=DA2-3
+Removed Pin From Net: NetName=MIN_ES3 Pin=DA3-1
+Removed Pin From Net: NetName=MAX_ES3 Pin=DA3-2
+Removed Pin From Net: NetName=GND Pin=DA3-3
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=DA1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=DA2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=DA3
+Added Component: Designator=D38_ES1(SOD323-R)
+Added Component: Designator=D38_ES2(SOD323-R)
+Added Component: Designator=D38_ES3(SOD323-R)
+Added Component: Designator=D39_ES1(SOD323-R)
+Added Component: Designator=D39_ES2(SOD323-R)
+Added Component: Designator=D39_ES3(SOD323-R)
+Added Pin To Net: NetName=MIN_ES1 Pin=D38_ES1-A
+Added Pin To Net: NetName=GND Pin=D38_ES1-C
+Added Pin To Net: NetName=MIN_ES2 Pin=D38_ES2-A
+Added Pin To Net: NetName=GND Pin=D38_ES2-C
+Added Pin To Net: NetName=MIN_ES3 Pin=D38_ES3-A
+Added Pin To Net: NetName=GND Pin=D38_ES3-C
+Added Pin To Net: NetName=MAX_ES1 Pin=D39_ES1-A
+Added Pin To Net: NetName=GND Pin=D39_ES1-C
+Added Pin To Net: NetName=MAX_ES2 Pin=D39_ES2-A
+Added Pin To Net: NetName=GND Pin=D39_ES2-C
+Added Pin To Net: NetName=MAX_ES3 Pin=D39_ES3-A
+Added Pin To Net: NetName=GND Pin=D39_ES3-C
+Added Member To Class: ClassName=ES1 Member=Component D38_ES1 (D38) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES2 Member=Component D38_ES2 (D38) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES3 Member=Component D38_ES3 (D38) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES1 Member=Component D39_ES1 (D39) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES2 Member=Component D39_ES2 (D39) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES3 Member=Component D39_ES3 (D39) ESD9B3.3ST5G

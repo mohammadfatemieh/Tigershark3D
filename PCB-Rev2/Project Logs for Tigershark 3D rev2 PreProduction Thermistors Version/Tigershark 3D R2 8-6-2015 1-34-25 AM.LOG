@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=PA25_MISO Pin=U3-108
+Removed Pin From Net: NetName=PA26_MOSI Pin=U3-109
+Removed Pin From Net: NetName=PA27_SCLK Pin=U3-110
+Removed Pin From Net: NetName=SPIFLASH_CS Pin=U3-111
+Removed Pin From Net: NetName=PA29_CS Pin=U3-112
+Change Component Designator: OldDesignator=R16 NewDesignator=R89
+Added Component: Designator=R16(R0402)
+Added Component: Designator=R85(R0402)
+Added Component: Designator=R86(R0402)
+Added Component: Designator=R87(R0402)
+Added Component: Designator=R88(R0402)
+Added Pin To Net: NetName=PA25_MISO Pin=R16-1
+Added Pin To Net: NetName=PA26_MOSI Pin=R85-1
+Added Pin To Net: NetName=PA27_SCLK Pin=R86-1
+Added Pin To Net: NetName=SPIFLASH_CS Pin=R87-1
+Added Pin To Net: NetName=PA29_CS Pin=R88-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U3-108
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR85_2 Pin=R85-2
+Added Pin To Net: NetName=NetR85_2 Pin=U3-109
+Added Net: Name=NetR85_2
+Added Pin To Net: NetName=NetR86_2 Pin=R86-2
+Added Pin To Net: NetName=NetR86_2 Pin=U3-110
+Added Net: Name=NetR86_2
+Added Pin To Net: NetName=NetR87_2 Pin=R87-2
+Added Pin To Net: NetName=NetR87_2 Pin=U3-111
+Added Net: Name=NetR87_2
+Added Pin To Net: NetName=NetR88_2 Pin=R88-2
+Added Pin To Net: NetName=NetR88_2 Pin=U3-112
+Added Net: Name=NetR88_2
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R85 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R86 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R87 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R88 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R89 24r

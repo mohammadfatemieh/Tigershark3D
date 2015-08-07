@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R79 NewDesignator=R80
+Added Component: Designator=R79(R0402)
+Added Component: Designator=R81(R0402)
+Added Component: Designator=R82(R0402)
+Added Pin To Net: NetName=GND Pin=R79-1
+Added Pin To Net: NetName=FGND Pin=R79-2
+Added Pin To Net: NetName=GND Pin=R81-1
+Added Pin To Net: NetName=FGND Pin=R81-2
+Added Pin To Net: NetName=GND Pin=R82-1
+Added Pin To Net: NetName=FGND Pin=R82-2
+Added Member To Class: ClassName=Designator Member=Component R80 R0402TBD
+Added Member To Class: ClassName=Designator Member=Component R81 R0402TBD
+Added Member To Class: ClassName=Designator Member=Component R82 R0402TBD

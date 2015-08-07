@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=INPUT_GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=D38_ES1-C
+Removed Pin From Net: NetName=GND Pin=D38_ES2-C
+Removed Pin From Net: NetName=GND Pin=D38_ES3-C
+Removed Pin From Net: NetName=GND Pin=D39_ES1-C
+Removed Pin From Net: NetName=GND Pin=D39_ES2-C
+Removed Pin From Net: NetName=GND Pin=D39_ES3-C
+Removed Pin From Net: NetName=INPUT_GND Pin=R24-1
+Removed Pin From Net: NetName=NetC24_2 Pin=R24-2
+Change Component DesignItemId : Designator=R24 Old DesignItemId=ERJ2GEJ105X New DesignItemId=R0402TBD
+Change Component DesignItemId : Designator=C24 Old DesignItemId=GRM155R60J474KE19D New DesignItemId=C0402TBD
+Change Component Comment : Designator=R24 Old Comment=1M New Comment=R0402TBD
+Change Component Comment : Designator=C24 Old Comment=0402 New Comment=C0402TBD
+Change Component Description : Designator=C24 Old Description=0.47uF 6.3v C0402 - GRM155R60J474KE19D New Description=Capacitor Non Polarized
+Change Component Description : Designator=R24 Old Description=RES 0402 1M 100mW 5% New Description=Resistor
+Change Component Library : Designator=C24 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Added Component: Designator=C?(C0402)
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=FGND Pin=C24-1
+Added Pin To Net: NetName=FGND Pin=C?-1
+Added Pin To Net: NetName=INPUT_GND Pin=C?-2
+Added Pin To Net: NetName=FGND Pin=D38_ES1-C
+Added Pin To Net: NetName=FGND Pin=D38_ES2-C
+Added Pin To Net: NetName=FGND Pin=D38_ES3-C
+Added Pin To Net: NetName=FGND Pin=D39_ES1-C
+Added Pin To Net: NetName=FGND Pin=D39_ES2-C
+Added Pin To Net: NetName=FGND Pin=D39_ES3-C
+Added Pin To Net: NetName=NetC24_2 Pin=R24-1
+Added Pin To Net: NetName=FGND Pin=R24-2
+Added Pin To Net: NetName=INPUT_GND Pin=R?-1
+Added Pin To Net: NetName=FGND Pin=R?-2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=USBSHIELD
+Added Member To Class: ClassName=Designator Member=Component C? C0402TBD
+Added Member To Class: ClassName=Designator Member=Component R? R0402TBD
