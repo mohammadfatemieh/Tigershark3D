@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PA14_RTS1 Pin=R88-2
+Removed Pin From Net: NetName=PA14_RTS1 Pin=U3-7
+Removed Pin From Net: NetName=PA15_CTS1 Pin=U3-8
+Added Pin To Net: NetName=PA15_CTS1 Pin=R88-2
+Added Pin To Net: NetName=PA15_CTS1 Pin=U3-7
+Added Pin To Net: NetName=PA14_RTS1 Pin=U3-8

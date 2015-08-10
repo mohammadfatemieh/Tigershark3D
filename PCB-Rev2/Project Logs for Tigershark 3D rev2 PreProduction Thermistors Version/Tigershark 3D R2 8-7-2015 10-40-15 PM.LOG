@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PA1_CANRX0 Pin=P4-5
+Removed Pin From Net: NetName=PA0_CANTX0 Pin=P4-7
+Added Component: Designator=R87(R0402)
+Added Pin To Net: NetName=PA0_CANTX0 Pin=P4-5
+Added Pin To Net: NetName=PA1_CANRX0 Pin=P4-7
+Added Pin To Net: NetName=PA1_CANRX0 Pin=R87-1
+Added Pin To Net: NetName=PA5_PWM Pin=R87-2
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R87 R0402TBD

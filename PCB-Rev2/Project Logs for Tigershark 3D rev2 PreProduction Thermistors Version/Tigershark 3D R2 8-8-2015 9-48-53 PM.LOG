@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=REF1 Pin=U3-82
+Removed Pin From Net: NetName=REF2 Pin=U3-85
+Added Pin To Net: NetName=REF1 Pin=U3-21
+Added Pin To Net: NetName=REF2 Pin=U3-82
+Added Pin To Net: NetName=PA2_TIOA1 Pin=R88-1
+Added Pin To Net: NetName=PA2_TIOA1 Pin=U3-85
+Added Net: Name=PA2_TIOA1

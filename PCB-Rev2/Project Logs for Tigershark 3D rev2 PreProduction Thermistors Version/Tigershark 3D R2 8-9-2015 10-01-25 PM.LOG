@@ -1,0 +1,8 @@
+Added Component: Designator=R91(R0603)
+Added Component: Designator=R92(R0603)
+Added Pin To Net: NetName=GND Pin=R91-1
+Added Pin To Net: NetName=USB_GND Pin=R91-2
+Added Pin To Net: NetName=GND Pin=R92-1
+Added Pin To Net: NetName=USB_GND Pin=R92-2
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R91 R0603TBD
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R92 R0603TBD

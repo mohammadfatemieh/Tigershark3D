@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R91-1
+Removed Pin From Net: NetName=USB_GND Pin=R91-2
+Removed Pin From Net: NetName=GND Pin=R92-1
+Removed Pin From Net: NetName=USB_GND Pin=R92-2
+Change Component DesignItemId : Designator=R91 Old DesignItemId=R0603TBD New DesignItemId=C0603TBD
+Change Component DesignItemId : Designator=R92 Old DesignItemId=R0603TBD New DesignItemId=C0603TBD
+Change Component Footprint: Designator=R91 Old Footprint=R0603 New Footprint=C0603
+Change Component Footprint: Designator=R92 Old Footprint=R0603 New Footprint=C0603
+Change Component Comment : Designator=R91 Old Comment=R0603TBD New Comment=C0603TBD
+Change Component Comment : Designator=R92 Old Comment=R0603TBD New Comment=C0603TBD
+Change Component Designator: OldDesignator=R91 NewDesignator=C94
+Change Component Designator: OldDesignator=R92 NewDesignator=C95
+Added Pin To Net: NetName=USB_GND Pin=C94-1
+Added Pin To Net: NetName=GND Pin=C94-2
+Added Pin To Net: NetName=USB_GND Pin=C95-1
+Added Pin To Net: NetName=GND Pin=C95-2

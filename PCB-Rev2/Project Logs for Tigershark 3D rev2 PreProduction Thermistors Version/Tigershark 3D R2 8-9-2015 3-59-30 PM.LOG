@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=3.3VCC Pin=C74-1
+Removed Pin From Net: NetName=GND Pin=C74-2
+Removed Pin From Net: NetName=R_N Pin=DA4-1
+Removed Pin From Net: NetName=R_P Pin=DA4-2
+Removed Pin From Net: NetName=INPUT_GND Pin=DA4-3
+Removed Pin From Net: NetName=R_N Pin=J1-2
+Removed Pin From Net: NetName=R_P Pin=J1-3
+Removed Pin From Net: NetName=INPUT_GND Pin=J1-4
+Removed Pin From Net: NetName=R_N Pin=TP56-1
+Removed Pin From Net: NetName=R_P Pin=TP57-1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C74
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=DA4
+Change Component Designator: OldDesignator=D? NewDesignator=D40
+Added Component: Designator=R90(R0402)
+Added Pin To Net: NetName=VBUS_2 Pin=D40-5
+Added Pin To Net: NetName=R_N Pin=L5-1
+Added Pin To Net: NetName=R_P Pin=L5-4
+Added Pin To Net: NetName=3.3VCC Pin=R90-2
+Change Net Name : Old Net Name=R_N New Net Name=NetL5_1
+Change Net Name : Old Net Name=R_P New Net Name=NetL5_4
+Added Pin To Net: NetName=NetC57_1 Pin=C57-1
+Added Pin To Net: NetName=NetC57_1 Pin=U6-16
+Added Net: Name=NetC57_1
+Added Pin To Net: NetName=NetD40_1 Pin=D40-1
+Added Pin To Net: NetName=NetD40_1 Pin=J1-3
+Added Pin To Net: NetName=NetD40_1 Pin=TP57-1
+Added Net: Name=NetD40_1
+Added Pin To Net: NetName=NetD40_2 Pin=D40-2
+Added Pin To Net: NetName=NetD40_2 Pin=J1-4
+Added Net: Name=NetD40_2
+Added Pin To Net: NetName=NetD40_3 Pin=D40-3
+Added Pin To Net: NetName=NetD40_3 Pin=J1-2
+Added Pin To Net: NetName=NetD40_3 Pin=TP56-1
+Added Net: Name=NetD40_3
+Added Pin To Net: NetName=NetD40_4 Pin=D40-4
+Added Pin To Net: NetName=NetD40_4 Pin=L5-2
+Added Net: Name=NetD40_4
+Added Pin To Net: NetName=NetD40_6 Pin=D40-6
+Added Pin To Net: NetName=NetD40_6 Pin=L5-3
+Added Net: Name=NetD40_6
+Added Pin To Net: NetName=NetR90_1 Pin=R90-1
+Added Pin To Net: NetName=NetR90_1 Pin=U3-39
+Added Net: Name=NetR90_1
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R90 R0402TBD

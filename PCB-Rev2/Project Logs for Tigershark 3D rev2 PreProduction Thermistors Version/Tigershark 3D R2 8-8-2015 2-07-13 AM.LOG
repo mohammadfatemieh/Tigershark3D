@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ERJ-3EKF1001V New DesignItemId=RK73H1ETTP1001F
+Change Component DesignItemId : Designator=R25 Old DesignItemId=ERJ-3EKF1001V New DesignItemId=RK73H1ETTP1001F
+Change Component DesignItemId : Designator=R26 Old DesignItemId=ERJ-3EKF1001V New DesignItemId=RK73H1ETTP1001F
+Change Component DesignItemId : Designator=R87 Old DesignItemId=R0402TBD New DesignItemId=RK73H1ETTP1001F
+Change Component DesignItemId : Designator=R88 Old DesignItemId=R0603TBD New DesignItemId=RK73H1ETTP1001F
+Change Component Footprint: Designator=R11 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R25 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R26 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R88 Old Footprint=R0603 New Footprint=R0402
+Change Component Comment : Designator=R87 Old Comment=R0402TBD New Comment=1k
+Change Component Comment : Designator=R88 Old Comment=R0603TBD New Comment=1k
+Change Component Description : Designator=R87 Old Description=Resistor New Description=RES 0402 1k 63mW 1%

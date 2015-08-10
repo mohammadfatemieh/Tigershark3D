@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA12_RXD1 Pin=P4-2
+Removed Pin From Net: NetName=PA13_TXD1 Pin=P4-4
+Added Pin To Net: NetName=PA13_TXD1 Pin=P4-2
+Added Pin To Net: NetName=PA12_RXD1 Pin=P4-4

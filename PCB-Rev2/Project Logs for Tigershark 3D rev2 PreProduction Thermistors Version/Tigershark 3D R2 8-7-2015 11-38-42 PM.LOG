@@ -1,0 +1,6 @@
+Added Component: Designator=R88(R0603)
+Added Pin To Net: NetName=PA14_RTS1 Pin=R88-2
+Added Pin To Net: NetName=PD7_TIOB8 Pin=R88-1
+Added Pin To Net: NetName=PD7_TIOB8 Pin=U3-21
+Added Net: Name=PD7_TIOB8
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R88 R0603TBD

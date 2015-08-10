@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=FGND Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Member From Class: ClassName=Designator Member=JP1
+Change Component DesignItemId : Designator=R78 Old DesignItemId=R0402TBD New DesignItemId=CRCW040224R0FKED
+Change Component Comment : Designator=R78 Old Comment=R0402TBD New Comment=24r
+Change Component Description : Designator=R78 Old Description=Resistor New Description=Res Thick Film 0402 24 Ohm 1% 0.063W
+Added Component: Designator=D9(SOD323-R)
+Added Pin To Net: NetName=FGND Pin=D9-A
+Added Pin To Net: NetName=GND Pin=D9-C
+Added Member To Class: ClassName=Designator Member=Component D9 RSB39VTE-17

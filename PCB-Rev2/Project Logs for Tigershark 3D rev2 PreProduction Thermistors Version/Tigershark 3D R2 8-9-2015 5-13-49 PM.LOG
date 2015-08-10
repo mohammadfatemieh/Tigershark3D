@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=FGND Pin=C24-1
+Removed Pin From Net: NetName=USBSHIELD Pin=D8-A
+Removed Pin From Net: NetName=FGND Pin=D40-2
+Removed Pin From Net: NetName=FGND Pin=R24-2
+Change Component DesignItemId : Designator=C24 Old DesignItemId=C0402TBD New DesignItemId=CC0402KRX7R8BB472
+Change Component DesignItemId : Designator=R24 Old DesignItemId=R0402TBD New DesignItemId=ERJ2GEJ105X
+Change Component Comment : Designator=C24 Old Comment=C0402TBD New Comment=4.7nF
+Change Component Comment : Designator=R24 Old Comment=R0402TBD New Comment=1M
+Change Component Description : Designator=C24 Old Description=Capacitor Non Polarized New Description=CAP CER 0402 4.7nF 25V 10% X7R
+Change Component Description : Designator=R24 Old Description=Resistor New Description=RES 0402 1M 100mW 5%
+Added Pin To Net: NetName=USB_GND Pin=C24-1
+Added Pin To Net: NetName=USB_GND Pin=D8-A
+Added Pin To Net: NetName=USB_GND Pin=D40-2
+Added Pin To Net: NetName=USB_GND Pin=R24-2

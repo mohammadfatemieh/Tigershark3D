@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=USB_GND Pin=D8-A
+Removed Pin From Net: NetName=VUSB Pin=D9-A
+Removed Pin From Net: NetName=USB_GND Pin=D40-2
+Removed Pin From Net: NetName=VUSB Pin=D40-5
+Removed Pin From Net: NetName=VUSB Pin=J1-1
+Removed Pin From Net: NetName=USB_GND Pin=J1-4
+Added Component: Designator=C92(C0402)
+Added Component: Designator=C93(C0402)
+Added Component: Designator=L6(C0603)
+Added Component: Designator=L7(C0603)
+Added Pin To Net: NetName=USB_GND Pin=C92-1
+Added Pin To Net: NetName=VUSB Pin=C93-1
+Added Pin To Net: NetName=USB_GND Pin=C93-2
+Added Pin To Net: NetName=VUSB Pin=L6-1
+Added Pin To Net: NetName=USB_GND Pin=L7-1
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=NetC92_2 Pin=D40-5
+Added Pin To Net: NetName=NetC92_2 Pin=J1-1
+Added Pin To Net: NetName=NetC92_2 Pin=L6-2
+Added Net: Name=NetC92_2
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=D40-2
+Added Pin To Net: NetName=NetD8_A Pin=J1-4
+Added Pin To Net: NetName=NetD8_A Pin=L7-2
+Added Net: Name=NetD8_A
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C92 10nF
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C93 1uF
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component L6 MPZ1608S221A
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component L7 MPZ1608S221A
