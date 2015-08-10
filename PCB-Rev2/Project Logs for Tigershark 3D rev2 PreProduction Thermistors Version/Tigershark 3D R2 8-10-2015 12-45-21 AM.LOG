@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=NetC44_2 Pin=X2-2
+Removed Pin From Net: NetName=GND Pin=X2-3
+Removed Pin From Net: NetName=NetC43_2 Pin=X2-4
+Change Component DesignItemId : Designator=X2 Old DesignItemId=7M-12.000MEEQ-T New DesignItemId=405C35B12M00000
+Change Component Footprint: Designator=X2 Old Footprint=CRYS320250 New Footprint=CRYS320500
+Change Component Comment : Designator=X2 Old Comment=7M-12.000MEEQ-T New Comment=405C35B12M00000
+Added Pin To Net: NetName=NetC44_2 Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetC43_2 Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4

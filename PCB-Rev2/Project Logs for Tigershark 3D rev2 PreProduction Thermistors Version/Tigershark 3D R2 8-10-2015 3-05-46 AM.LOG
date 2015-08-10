@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=NetC44_2 Pin=C44-2
+Change Component DesignItemId : Designator=C43 Old DesignItemId=CL05C100JB5NNNC New DesignItemId=CL10C030BB8NNND
+Change Component DesignItemId : Designator=C44 Old DesignItemId=CL05C100JB5NNNC New DesignItemId=CL10C030BB8NNND
+Change Component Comment : Designator=C43 Old Comment=0402 New Comment=3pF
+Change Component Comment : Designator=C44 Old Comment=0402 New Comment=3pF
+Change Component Description : Designator=C43 Old Description=CAP CER 10PF 50V 5% NP0 0402 New Description=CAP CER 3PF 50V NP0 0603
+Change Component Description : Designator=C44 Old Description=CAP CER 10PF 50V 5% NP0 0402 New Description=CAP CER 3PF 50V NP0 0603
+Change Component Library : Designator=C43 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Change Component Library : Designator=C44 Old Library=Tigershark3D.SchLib New Library=3Delight.SCHLIB
+Added Pin To Net: NetName=NetC43_2 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC43_1
+Change Net Name : Old Net Name=NetC44_2 New Net Name=NetC44_1

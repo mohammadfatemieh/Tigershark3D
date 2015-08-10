@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=ERJ-3EKF1002V New DesignItemId=RC0603JR-07430RL
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=430r
+Change Component Comment : Designator=J2 Old Comment=FTSH-105-XX-X-DV New Comment=20021121-00010C4LF
+Change Component Description : Designator=J2 Old Description= New Description=20021121-00010C4LF
+Change Component Description : Designator=R1 Old Description=RES 0603 10K 100mW 1% New Description=RES 0603 0.1 W 430 Ohms 5% ±100 ppm/°C SMT
