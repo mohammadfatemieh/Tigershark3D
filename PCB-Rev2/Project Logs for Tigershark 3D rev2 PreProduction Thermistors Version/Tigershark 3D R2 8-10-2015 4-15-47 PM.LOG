@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C30 NewDesignator=C101
+Change Component Designator: OldDesignator=C101_TR1 NewDesignator=C30_TR1
+Change Component Designator: OldDesignator=C101_TR2 NewDesignator=C30_TR2
+Change Component Designator: OldDesignator=C101_TR3 NewDesignator=C30_TR3
+Change Component Designator: OldDesignator=C101_TR4 NewDesignator=C30_TR4
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC101_2
