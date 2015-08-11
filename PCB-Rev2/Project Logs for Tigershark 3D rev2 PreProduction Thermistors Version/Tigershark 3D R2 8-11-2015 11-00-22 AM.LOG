@@ -1,0 +1,9 @@
+Added Component: Designator=TP29(TP-2)
+Added Component: Designator=TP38(TP-2)
+Added Component: Designator=TP43(TP-2)
+Added Pin To Net: NetName=NetC92_2 Pin=TP29-1
+Added Pin To Net: NetName=NetC24_2 Pin=TP38-1
+Added Pin To Net: NetName=FGND Pin=TP43-1
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP29 TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP38 TP4
+Added Member To Class: ClassName=Designator Member=Component TP43 TP4
