@@ -1,0 +1,819 @@
+Removed Member From Class: ClassName=M4 Member=C1
+Removed Member From Class: ClassName=USB Member=C11
+Removed Member From Class: ClassName=M3 Member=C17
+Removed Member From Class: ClassName=M4 Member=C17
+Removed Member From Class: ClassName=M3 Member=C19
+Removed Member From Class: ClassName=Designator Member=C22
+Removed Member From Class: ClassName=M1 Member=C22
+Removed Member From Class: ClassName=M2 Member=C22
+Removed Member From Class: ClassName=M3 Member=C22
+Removed Member From Class: ClassName=M4 Member=C22
+Removed Member From Class: ClassName=M4 Member=C25
+Removed Member From Class: ClassName=M3 Member=C32
+Removed Member From Class: ClassName=Designator Member=C33
+Removed Member From Class: ClassName=M3 Member=C33
+Removed Member From Class: ClassName=Designator Member=C35
+Removed Member From Class: ClassName=M4 Member=C40
+Removed Member From Class: ClassName=TR4 Member=C40
+Removed Member From Class: ClassName=USB Member=C40
+Removed Member From Class: ClassName=M4 Member=C42
+Removed Member From Class: ClassName=Designator Member=C48
+Removed Member From Class: ClassName=M1 Member=C48
+Removed Member From Class: ClassName=Designator Member=C49
+Removed Member From Class: ClassName=ES2 Member=C49
+Removed Member From Class: ClassName=M1 Member=C49
+Removed Member From Class: ClassName=M3 Member=C49
+Removed Member From Class: ClassName=M1 Member=C52
+Removed Member From Class: ClassName=U_MZ Member=C52
+Removed Member From Class: ClassName=Designator Member=C54
+Removed Member From Class: ClassName=M4 Member=C54
+Removed Member From Class: ClassName=U_MZ Member=C54
+Removed Member From Class: ClassName=M1 Member=C63
+Removed Member From Class: ClassName=USB Member=C63
+Removed Member From Class: ClassName=U_MZ Member=C67
+Removed Member From Class: ClassName=M2 Member=C68
+Removed Member From Class: ClassName=TR1 Member=C68
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C68
+Removed Member From Class: ClassName=U_MZ Member=C68
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C73
+Removed Member From Class: ClassName=Designator Member=C73
+Removed Member From Class: ClassName=ES3 Member=C73
+Removed Member From Class: ClassName=M1 Member=C73
+Removed Member From Class: ClassName=U_MZ Member=C73
+Removed Member From Class: ClassName=U_MZ Member=C76
+Removed Member From Class: ClassName=Designator Member=C81
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C81
+Removed Member From Class: ClassName=M1 Member=C88
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C89
+Removed Member From Class: ClassName=Designator Member=C89
+Removed Member From Class: ClassName=M2 Member=C89
+Removed Member From Class: ClassName=Designator Member=C90
+Removed Member From Class: ClassName=ES2 Member=C90
+Removed Member From Class: ClassName=M1 Member=C90
+Removed Member From Class: ClassName=M3 Member=C90
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C90
+Removed Member From Class: ClassName=U_MZ Member=C90
+Removed Member From Class: ClassName=USB Member=C90
+Removed Member From Class: ClassName=U_MZ Member=C94
+Removed Member From Class: ClassName=Designator Member=C97
+Removed Member From Class: ClassName=USB Member=C97
+Removed Member From Class: ClassName=ES3 Member=C102
+Removed Member From Class: ClassName=M2 Member=C102
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C102
+Removed Member From Class: ClassName=U_MZ Member=C102
+Removed Member From Class: ClassName=USB Member=C102
+Removed Member From Class: ClassName=Designator Member=C106
+Removed Member From Class: ClassName=USB Member=C106
+Removed Member From Class: ClassName=Designator Member=C108
+Removed Member From Class: ClassName=TR2 Member=C108
+Removed Member From Class: ClassName=TR3 Member=C108
+Removed Member From Class: ClassName=USB Member=C108
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C111
+Removed Member From Class: ClassName=Designator Member=C111
+Removed Member From Class: ClassName=M2 Member=C111
+Removed Member From Class: ClassName=M3 Member=C111
+Removed Member From Class: ClassName=M4 Member=C111
+Removed Member From Class: ClassName=USB Member=C111
+Removed Member From Class: ClassName=Designator Member=C113
+Removed Member From Class: ClassName=ES1 Member=C113
+Removed Member From Class: ClassName=M4 Member=C113
+Removed Member From Class: ClassName=Designator Member=C116
+Removed Member From Class: ClassName=ES1 Member=C116
+Removed Member From Class: ClassName=USB Member=C116
+Removed Member From Class: ClassName=Designator Member=C117
+Removed Member From Class: ClassName=M2 Member=C117
+Removed Member From Class: ClassName=Designator Member=C118
+Removed Member From Class: ClassName=M2 Member=C119
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C119
+Removed Member From Class: ClassName=Designator Member=C120
+Removed Member From Class: ClassName=Designator Member=C121
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C125
+Removed Member From Class: ClassName=Designator Member=C127
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C127
+Removed Member From Class: ClassName=Designator Member=C128
+Removed Member From Class: ClassName=USB Member=C128
+Removed Member From Class: ClassName=Designator Member=C129
+Removed Member From Class: ClassName=Designator Member=C130
+Removed Member From Class: ClassName=Designator Member=C133
+Removed Member From Class: ClassName=M4 Member=C133
+Removed Member From Class: ClassName=USB Member=C133
+Removed Member From Class: ClassName=Designator Member=C134
+Removed Member From Class: ClassName=USB Member=C134
+Removed Member From Class: ClassName=M3 Member=C135
+Removed Member From Class: ClassName=Designator Member=C137
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=C137
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=D4
+Removed Member From Class: ClassName=Designator Member=D4
+Removed Member From Class: ClassName=ES1 Member=D4
+Removed Member From Class: ClassName=ES2 Member=D4
+Removed Member From Class: ClassName=ES3 Member=D4
+Removed Member From Class: ClassName=M1 Member=D4
+Removed Member From Class: ClassName=M2 Member=D4
+Removed Member From Class: ClassName=TR1 Member=D4
+Removed Member From Class: ClassName=USB Member=D4
+Removed Member From Class: ClassName=U_MZ Member=D7
+Removed Member From Class: ClassName=Designator Member=D10
+Removed Member From Class: ClassName=M4 Member=D10
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D17
+Removed Member From Class: ClassName=Designator Member=D21
+Removed Member From Class: ClassName=ES1 Member=D21
+Removed Member From Class: ClassName=M1 Member=D21
+Removed Member From Class: ClassName=U_MZ Member=D21
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D23
+Removed Member From Class: ClassName=Designator Member=D24
+Removed Member From Class: ClassName=M1 Member=D24
+Removed Member From Class: ClassName=Designator Member=D35
+Removed Member From Class: ClassName=M3 Member=D35
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D35
+Removed Member From Class: ClassName=M2 Member=D37
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D37
+Removed Member From Class: ClassName=M3 Member=D38
+Removed Member From Class: ClassName=M4 Member=D38
+Removed Member From Class: ClassName=TR4 Member=D38
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D38
+Removed Member From Class: ClassName=USB Member=D38
+Removed Member From Class: ClassName=Designator Member=D40
+Removed Member From Class: ClassName=M4 Member=D40
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D40
+Removed Member From Class: ClassName=U_MZ Member=D40
+Removed Member From Class: ClassName=TR3 Member=D46
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D46
+Removed Member From Class: ClassName=ES2 Member=D47
+Removed Member From Class: ClassName=ES3 Member=D47
+Removed Member From Class: ClassName=M1 Member=D47
+Removed Member From Class: ClassName=TR2 Member=D47
+Removed Member From Class: ClassName=TR3 Member=D47
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D47
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D48
+Removed Member From Class: ClassName=Designator Member=D49
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D49
+Removed Member From Class: ClassName=M2 Member=D50
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D50
+Removed Member From Class: ClassName=M4 Member=D56
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=D56
+Removed Member From Class: ClassName=ES3 Member=J6
+Removed Member From Class: ClassName=TR4 Member=J6
+Removed Member From Class: ClassName=USB Member=J6
+Removed Member From Class: ClassName=TR2 Member=J9
+Removed Member From Class: ClassName=ES2 Member=J14
+Removed Member From Class: ClassName=M1 Member=J14
+Removed Member From Class: ClassName=U_MZ Member=J14
+Removed Member From Class: ClassName=ES2 Member=J16
+Removed Member From Class: ClassName=ES3 Member=J16
+Removed Member From Class: ClassName=M3 Member=J20
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=J21
+Removed Member From Class: ClassName=Designator Member=J23
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=J23
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=J25
+Removed Member From Class: ClassName=M4 Member=J25
+Removed Member From Class: ClassName=TR1 Member=J25
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=J25
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=J27
+Removed Member From Class: ClassName=USB Member=L1
+Removed Member From Class: ClassName=Designator Member=L2
+Removed Member From Class: ClassName=Designator Member=L3
+Removed Member From Class: ClassName=USB Member=L6
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R4
+Removed Member From Class: ClassName=U_MZ Member=R4
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R5
+Removed Member From Class: ClassName=M1 Member=R5
+Removed Member From Class: ClassName=M3 Member=R5
+Removed Member From Class: ClassName=U_MZ Member=R5
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R6
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=M4 Member=R6
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R7
+Removed Member From Class: ClassName=Designator Member=R7
+Removed Member From Class: ClassName=ES3 Member=R7
+Removed Member From Class: ClassName=U_MZ Member=R7
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R10
+Removed Member From Class: ClassName=M4 Member=R10
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R10
+Removed Member From Class: ClassName=U_MZ Member=R10
+Removed Member From Class: ClassName=ES2 Member=R14
+Removed Member From Class: ClassName=M4 Member=R14
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R14
+Removed Member From Class: ClassName=USB Member=R14
+Removed Member From Class: ClassName=M1 Member=R27
+Removed Member From Class: ClassName=M3 Member=R27
+Removed Member From Class: ClassName=TR2 Member=R27
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R28
+Removed Member From Class: ClassName=Designator Member=R28
+Removed Member From Class: ClassName=M2 Member=R33
+Removed Member From Class: ClassName=M3 Member=R33
+Removed Member From Class: ClassName=M1 Member=R34
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R35
+Removed Member From Class: ClassName=M3 Member=R35
+Removed Member From Class: ClassName=M2 Member=R41
+Removed Member From Class: ClassName=M3 Member=R41
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R44
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R50
+Removed Member From Class: ClassName=M1 Member=R51
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R51
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R56
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R56
+Removed Member From Class: ClassName=M4 Member=R57
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R57
+Removed Member From Class: ClassName=USB Member=R57
+Removed Member From Class: ClassName=TR2 Member=R59
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R59
+Removed Member From Class: ClassName=M2 Member=R65
+Removed Member From Class: ClassName=TR3 Member=R70
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R70
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R72
+Removed Member From Class: ClassName=M2 Member=R74
+Removed Member From Class: ClassName=USB Member=R76
+Removed Member From Class: ClassName=ES1 Member=R80
+Removed Member From Class: ClassName=M1 Member=R80
+Removed Member From Class: ClassName=USB Member=R80
+Removed Member From Class: ClassName=Designator Member=R86
+Removed Member From Class: ClassName=M3 Member=R86
+Removed Member From Class: ClassName=TR4 Member=R86
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R86
+Removed Member From Class: ClassName=U_MZ Member=R86
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R88
+Removed Member From Class: ClassName=Designator Member=R89
+Removed Member From Class: ClassName=TR1 Member=R89
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R89
+Removed Member From Class: ClassName=U_MZ Member=R89
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R99
+Removed Member From Class: ClassName=Designator Member=R100
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R100
+Removed Member From Class: ClassName=USB Member=R100
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R102
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R107
+Removed Member From Class: ClassName=Designator Member=R107
+Removed Member From Class: ClassName=M4 Member=R107
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R107
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R109
+Removed Member From Class: ClassName=Designator Member=R109
+Removed Member From Class: ClassName=ES2 Member=R109
+Removed Member From Class: ClassName=M2 Member=R109
+Removed Member From Class: ClassName=TR4 Member=R109
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R109
+Removed Member From Class: ClassName=U_MZ Member=R109
+Removed Member From Class: ClassName=USB Member=R110
+Removed Member From Class: ClassName=TR1 Member=R111
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R111
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=R117
+Removed Member From Class: ClassName=Designator Member=R119
+Removed Member From Class: ClassName=Designator Member=R122
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=R123
+Removed Member From Class: ClassName=M3 Member=R123
+Removed Member From Class: ClassName=Designator Member=R126
+Removed Member From Class: ClassName=ES3 Member=R126
+Removed Member From Class: ClassName=ES2 Member=R128
+Removed Member From Class: ClassName=ES3 Member=R128
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=S1
+Removed Member From Class: ClassName=M2 Member=TP6
+Removed Member From Class: ClassName=M3 Member=TP9
+Removed Member From Class: ClassName=M4 Member=TP9
+Removed Member From Class: ClassName=U_MZ Member=TP9
+Removed Member From Class: ClassName=M1 Member=TP12
+Removed Member From Class: ClassName=M3 Member=TP12
+Removed Member From Class: ClassName=U_MZ Member=TP12
+Removed Member From Class: ClassName=M3 Member=TP15
+Removed Member From Class: ClassName=M1 Member=TP20
+Removed Member From Class: ClassName=M2 Member=TP20
+Removed Member From Class: ClassName=U_MZ Member=TP23
+Removed Member From Class: ClassName=U_MZ Member=TP24
+Removed Member From Class: ClassName=M1 Member=TP34
+Removed Member From Class: ClassName=ES1 Member=TP37
+Removed Member From Class: ClassName=M4 Member=TP37
+Removed Member From Class: ClassName=USB Member=TP37
+Removed Member From Class: ClassName=Designator Member=TP40
+Removed Member From Class: ClassName=M1 Member=TP40
+Removed Member From Class: ClassName=M4 Member=TP40
+Removed Member From Class: ClassName=M3 Member=TP42
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP42
+Removed Member From Class: ClassName=U_MZ Member=TP42
+Removed Member From Class: ClassName=M1 Member=TP48
+Removed Member From Class: ClassName=M2 Member=TP48
+Removed Member From Class: ClassName=M4 Member=TP53
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP53
+Removed Member From Class: ClassName=U_MZ Member=TP53
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP61
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP63
+Removed Member From Class: ClassName=M1 Member=TP63
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP64
+Removed Member From Class: ClassName=ES3 Member=TP64
+Removed Member From Class: ClassName=M2 Member=TP64
+Removed Member From Class: ClassName=M4 Member=TP64
+Removed Member From Class: ClassName=U_MZ Member=TP64
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP65
+Removed Member From Class: ClassName=M3 Member=TP67
+Removed Member From Class: ClassName=U_MZ Member=TP67
+Removed Member From Class: ClassName=M2 Member=TP70
+Removed Member From Class: ClassName=M3 Member=TP70
+Removed Member From Class: ClassName=M1 Member=TP71
+Removed Member From Class: ClassName=M4 Member=TP76
+Removed Member From Class: ClassName=U_MZ Member=TP76
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP79
+Removed Member From Class: ClassName=Designator Member=TP79
+Removed Member From Class: ClassName=ES3 Member=TP79
+Removed Member From Class: ClassName=M1 Member=TP79
+Removed Member From Class: ClassName=USB Member=TP79
+Removed Member From Class: ClassName=Designator Member=TP83
+Removed Member From Class: ClassName=USB Member=TP83
+Removed Member From Class: ClassName=M2 Member=TP85
+Removed Member From Class: ClassName=Designator Member=TP86
+Removed Member From Class: ClassName=M3 Member=TP86
+Removed Member From Class: ClassName=Designator Member=TP94
+Removed Member From Class: ClassName=M4 Member=TP94
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP96
+Removed Member From Class: ClassName=ES2 Member=TP96
+Removed Member From Class: ClassName=M1 Member=TP96
+Removed Member From Class: ClassName=TR1 Member=TP96
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP96
+Removed Member From Class: ClassName=Designator Member=TP97
+Removed Member From Class: ClassName=M4 Member=TP97
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP99
+Removed Member From Class: ClassName=M4 Member=TP99
+Removed Member From Class: ClassName=TR3 Member=TP99
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP99
+Removed Member From Class: ClassName=U_MZ Member=TP99
+Removed Member From Class: ClassName=USB Member=TP99
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=TP102
+Removed Member From Class: ClassName=Designator Member=TP102
+Removed Member From Class: ClassName=M3 Member=TP102
+Removed Member From Class: ClassName=M4 Member=TP102
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=TP102
+Removed Member From Class: ClassName=U_MZ Member=TP102
+Removed Member From Class: ClassName=M3 Member=U2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=U3
+Removed Member From Class: ClassName=M4 Member=U3
+Removed Member From Class: ClassName=Designator Member=U6
+Removed Member From Class: ClassName=USB Member=U6
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=U8
+Removed Member From Class: ClassName=U_MZ Member=U9
+Removed Member From Class: ClassName=M2 Member=U11
+Removed Member From Class: ClassName=U_MOSFETs and Driver Member=U11
+Change Net Name : Old Net Name=NetC7A_2 New Net Name=NetC95_2
+Change Net Name : Old Net Name=NetC7B_2 New Net Name=NetC97_2
+Change Net Name : Old Net Name=NetC7C_2 New Net Name=NetC121_2
+Change Net Name : Old Net Name=NetC7D_2 New Net Name=NetC123_2
+Change Net Name : Old Net Name=NetC8A_2 New Net Name=NetC96_2
+Change Net Name : Old Net Name=NetC8B_2 New Net Name=NetC122_2
+Change Net Name : Old Net Name=NetC8C_2 New Net Name=NetC116_2
+Change Net Name : Old Net Name=NetC8D_2 New Net Name=NetC124_2
+Change Net Name : Old Net Name=NetC9A_1 New Net Name=NetC93_1
+Change Net Name : Old Net Name=NetC9B_1 New Net Name=NetC107_1
+Change Net Name : Old Net Name=NetC9C_1 New Net Name=NetC114_1
+Change Net Name : Old Net Name=NetC9D_1 New Net Name=NetC119_1
+Change Net Name : Old Net Name=NetC10A_1 New Net Name=NetC94_1
+Change Net Name : Old Net Name=NetC10A_2 New Net Name=NetC94_2
+Change Net Name : Old Net Name=NetC10B_1 New Net Name=NetC105_1
+Change Net Name : Old Net Name=NetC10B_2 New Net Name=NetC105_2
+Change Net Name : Old Net Name=NetC10C_1 New Net Name=NetC99_1
+Change Net Name : Old Net Name=NetC10C_2 New Net Name=NetC99_2
+Change Net Name : Old Net Name=NetC10D_1 New Net Name=NetC100_1
+Change Net Name : Old Net Name=NetC10D_2 New Net Name=NetC100_2
+Change Net Name : Old Net Name=NetC11A_2 New Net Name=NetC82_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC84_2
+Change Net Name : Old Net Name=NetC11C_2 New Net Name=NetC88_2
+Change Net Name : Old Net Name=NetC11D_2 New Net Name=NetC90_2
+Change Net Name : Old Net Name=NetC12A_1 New Net Name=NetC125_1
+Change Net Name : Old Net Name=NetC12B_1 New Net Name=NetC129_1
+Change Net Name : Old Net Name=NetC12C_1 New Net Name=NetC137_1
+Change Net Name : Old Net Name=NetC12D_1 New Net Name=NetC141_1
+Change Net Name : Old Net Name=NetC13A_1 New Net Name=NetC126_1
+Change Net Name : Old Net Name=NetC13B_1 New Net Name=NetC130_1
+Change Net Name : Old Net Name=NetC13C_1 New Net Name=NetC138_1
+Change Net Name : Old Net Name=NetC13D_1 New Net Name=NetC142_1
+Change Net Name : Old Net Name=NetC14A_1 New Net Name=NetC127_1
+Change Net Name : Old Net Name=NetC14B_1 New Net Name=NetC133_1
+Change Net Name : Old Net Name=NetC14C_1 New Net Name=NetC139_1
+Change Net Name : Old Net Name=NetC14D_1 New Net Name=NetC143_1
+Change Net Name : Old Net Name=NetC15A_2 New Net Name=NetC128_2
+Change Net Name : Old Net Name=NetC15B_2 New Net Name=NetC134_2
+Change Net Name : Old Net Name=NetC15C_2 New Net Name=NetC140_2
+Change Net Name : Old Net Name=NetC15D_2 New Net Name=NetC144_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC117_2
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetC112_2
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC110_1
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC98_1
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC98_2
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC86_2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC132_1
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC131_1
+Change Net Name : Old Net Name=NetC38_1 New Net Name=NetC136_1
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC135_2
+Change Net Name : Old Net Name=NetC73_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC78_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC78_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC82_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC87_1 New Net Name=NetC38_1
+Change Net Name : Old Net Name=NetC88_1 New Net Name=NetC37_1
+Change Net Name : Old Net Name=NetC89_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC92_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC99_2 New Net Name=NetC44_2
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD24_A
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetD25_A
+Change Net Name : Old Net Name=NetD3A_A New Net Name=NetD29_A
+Change Net Name : Old Net Name=NetD3B_A New Net Name=NetD31_A
+Change Net Name : Old Net Name=NetD3C_A New Net Name=NetD33_A
+Change Net Name : Old Net Name=NetD4A_A New Net Name=NetD28_A
+Change Net Name : Old Net Name=NetD4B_A New Net Name=NetD30_A
+Change Net Name : Old Net Name=NetD4C_A New Net Name=NetD32_A
+Change Net Name : Old Net Name=NetD9_A New Net Name=NetD20_A
+Change Net Name : Old Net Name=NetD12_A New Net Name=NetD4_A
+Change Net Name : Old Net Name=NetD15_A New Net Name=NetD6_A
+Change Net Name : Old Net Name=NetD18_A New Net Name=NetD9_A
+Change Net Name : Old Net Name=NetD21_A New Net Name=NetD12_A
+Change Net Name : Old Net Name=NetD24_A New Net Name=NetD15_A
+Change Net Name : Old Net Name=NetD34_A New Net Name=NetD16_A
+Change Net Name : Old Net Name=NetD35_C New Net Name=NetD34_C
+Change Net Name : Old Net Name=NetD39_1 New Net Name=NetD27_1
+Change Net Name : Old Net Name=NetD39_3 New Net Name=NetD27_3
+Change Net Name : Old Net Name=NetD41_A New Net Name=NetD23_A
+Change Net Name : Old Net Name=NetJ14A_1 New Net Name=NetJ15_1
+Change Net Name : Old Net Name=NetJ14B_1 New Net Name=NetJ16_1
+Change Net Name : Old Net Name=NetJ14C_1 New Net Name=NetJ17_1
+Change Net Name : Old Net Name=NetJ14D_1 New Net Name=NetJ18_1
+Change Net Name : Old Net Name=NetL6_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetL6_4 New Net Name=NetL5_4
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR80_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR73_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR81_2
+Change Net Name : Old Net Name=NetR28A_2 New Net Name=NetR109_2
+Change Net Name : Old Net Name=NetR28B_2 New Net Name=NetR114_2
+Change Net Name : Old Net Name=NetR28C_2 New Net Name=NetR120_2
+Change Net Name : Old Net Name=NetR28D_2 New Net Name=NetR126_2
+Change Net Name : Old Net Name=NetR29A_2 New Net Name=NetR108_2
+Change Net Name : Old Net Name=NetR29B_2 New Net Name=NetR113_2
+Change Net Name : Old Net Name=NetR29C_2 New Net Name=NetR119_2
+Change Net Name : Old Net Name=NetR29D_2 New Net Name=NetR123_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR49_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR50_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR52_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR54_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR60_2 New Net Name=NetR125_2
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR117_2
+Change Net Name : Old Net Name=NetR65_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR68_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR81_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR82_1 New Net Name=NetR44_1
+Change Net Name : Old Net Name=NetR83_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR84_1 New Net Name=NetR47_1
+Added Member To Class: ClassName=Designator Member=Component C2 (C77) 4.7uF
+Added Member To Class: ClassName=Designator Member=Component C3 (C80) 1uF
+Added Member To Class: ClassName=Designator Member=Component C4 (C81) 10uF
+Added Member To Class: ClassName=Designator Member=Component C5 (C78) 100nF
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C7 (C21) C0603TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C8 (C24) C0603TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C9 (C26) C0603TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C10 (C28) C0603TBD
+Added Member To Class: ClassName=Designator Member=Component C12 (C82) 1uF
+Added Member To Class: ClassName=Designator Member=Component C13 (C48) 1nF
+Added Member To Class: ClassName=Designator Member=Component C14 (C84) C0402TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C15 (C19) C0603TBD
+Added Member To Class: ClassName=Designator Member=Component C16 (C47) 100nF
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C18 (C22) 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C20 (C25) 0402
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component C21 (C20) 0402
+Added Member To Class: ClassName=USB Member=Component C23 (C98) C0603TBD
+Added Member To Class: ClassName=Designator Member=Component C24 (C76) 10uF
+Added Member To Class: ClassName=USB Member=Component C27 (C93) 1uF
+Added Member To Class: ClassName=USB Member=Component C28 (C97) 100nF
+Added Member To Class: ClassName=USB Member=Component C29 (C94) 100nF
+Added Member To Class: ClassName=Designator Member=Component C30 (C73) 0402
+Added Member To Class: ClassName=USB Member=Component C31 (C96) 100nF
+Added Member To Class: ClassName=USB Member=Component C32 (C95) 100nF
+Added Member To Class: ClassName=USB Member=Component C33 (C100) 100nF
+Added Member To Class: ClassName=USB Member=Component C34 (C92) 10nF
+Added Member To Class: ClassName=USB Member=Component C35 (C86) 0402
+Added Member To Class: ClassName=USB Member=Component C37 (C88) 3pF
+Added Member To Class: ClassName=USB Member=Component C38 (C87) 3pF
+Added Member To Class: ClassName=Designator Member=Component C39 (C50) 0603
+Added Member To Class: ClassName=Designator Member=Component C43 (C56) 1nF
+Added Member To Class: ClassName=USB Member=Component C44 (C99) 4.7nF
+Added Member To Class: ClassName=Designator Member=Component C45 (C59) 100nF
+Added Member To Class: ClassName=Designator Member=Component C46 (C70) 100nF
+Added Member To Class: ClassName=Designator Member=Component C47 (C49) 100nF
+Added Member To Class: ClassName=Designator Member=Component C50 (C65) 0603
+Added Member To Class: ClassName=Designator Member=Component C51 (C62) 100nF
+Added Member To Class: ClassName=Designator Member=Component C53 (C57) 100nF
+Added Member To Class: ClassName=Designator Member=Component C55 (C44) 100nF
+Added Member To Class: ClassName=Designator Member=Component C56 (C43) 0603
+Added Member To Class: ClassName=Designator Member=Component C57 (C58) 0603
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C59 (C2) 100nF
+Added Member To Class: ClassName=Designator Member=Component C60 (C83) C0402TBD
+Added Member To Class: ClassName=ES1 Member=Component C61 (C6) 0402
+Added Member To Class: ClassName=ES1 Member=Component C62 (C5) 0402
+Added Member To Class: ClassName=ES2 Member=Component C63 (C6) 0402
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C64 (C3) 47uF
+Added Member To Class: ClassName=ES2 Member=Component C65 (C5) 0402
+Added Member To Class: ClassName=ES3 Member=Component C69 (C6) 0402
+Added Member To Class: ClassName=ES3 Member=Component C70 (C5) 0402
+Added Member To Class: ClassName=Designator Member=Component C71 (C51) 0603
+Added Member To Class: ClassName=Designator Member=Component C72 (C52) 100nF
+Added Member To Class: ClassName=USB Member=Component C74 (C91) 100nF
+Added Member To Class: ClassName=Designator Member=Component C75 (C61) 100nF
+Added Member To Class: ClassName=TR1 Member=Component C77 (C85) 100nF
+Added Member To Class: ClassName=TR2 Member=Component C78 (C85) 100nF
+Added Member To Class: ClassName=TR3 Member=Component C79 (C85) 100nF
+Added Member To Class: ClassName=TR4 Member=Component C80 (C85) 100nF
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C81 (C1) 100nF
+Added Member To Class: ClassName=M1 Member=Component C82 (C11) 0402
+Added Member To Class: ClassName=M1 Member=Component C83 (C16) EEE-1VA101XP
+Added Member To Class: ClassName=M2 Member=Component C84 (C11) 0402
+Added Member To Class: ClassName=M2 Member=Component C85 (C16) EEE-1VA101XP
+Added Member To Class: ClassName=U_MZ Member=Component C87 (C40) EEE-1VA101XP
+Added Member To Class: ClassName=M3 Member=Component C89 (C16) EEE-1VA101XP
+Added Member To Class: ClassName=M4 Member=Component C91 (C16) EEE-1VA101XP
+Added Member To Class: ClassName=M1 Member=Component C95 (C7) 0402
+Added Member To Class: ClassName=M1 Member=Component C96 (C8) 0402
+Added Member To Class: ClassName=U_MZ Member=Component C98 (C34) 0402
+Added Member To Class: ClassName=M3 Member=Component C99 (C10) 0402
+Added Member To Class: ClassName=Designator Member=Component C101 (C66) 100nF
+Added Member To Class: ClassName=M1 Member=Component C103 (C17) 100nF
+Added Member To Class: ClassName=M1 Member=Component C104 (C18) 100nF
+Added Member To Class: ClassName=M2 Member=Component C105 (C10) 0402
+Added Member To Class: ClassName=M2 Member=Component C107 (C9) 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C109 (C41) 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C110 (C33) 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C112 (C32) 0402
+Added Member To Class: ClassName=M3 Member=Component C114 (C9) 100nF
+Added Member To Class: ClassName=M3 Member=Component C115 (C18) 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C117 (C31) 0402
+Added Member To Class: ClassName=M4 Member=Component C118 (C17) 100nF
+Added Member To Class: ClassName=M4 Member=Component C119 (C9) 100nF
+Added Member To Class: ClassName=M4 Member=Component C120 (C18) 100nF
+Added Member To Class: ClassName=M3 Member=Component C121 (C7) 0402
+Added Member To Class: ClassName=M2 Member=Component C122 (C8) 0402
+Added Member To Class: ClassName=M4 Member=Component C123 (C7) 0402
+Added Member To Class: ClassName=M4 Member=Component C124 (C8) 0402
+Added Member To Class: ClassName=M1 Member=Component C125 (C12) 1nF
+Added Member To Class: ClassName=M1 Member=Component C127 (C14) 1nF
+Added Member To Class: ClassName=M2 Member=Component C129 (C12) 1nF
+Added Member To Class: ClassName=M2 Member=Component C130 (C13) 1nF
+Added Member To Class: ClassName=U_MZ Member=Component C131 (C37) 1nF
+Added Member To Class: ClassName=U_MZ Member=Component C132 (C36) 1nF
+Added Member To Class: ClassName=U_MZ Member=Component C136 (C38) 1nF
+Added Member To Class: ClassName=M3 Member=Component C137 (C12) 1nF
+Added Member To Class: ClassName=M3 Member=Component C138 (C13) 1nF
+Added Member To Class: ClassName=M3 Member=Component C139 (C14) 1nF
+Added Member To Class: ClassName=M3 Member=Component C140 (C15) 1nF
+Added Member To Class: ClassName=M4 Member=Component C141 (C12) 1nF
+Added Member To Class: ClassName=M4 Member=Component C142 (C13) 1nF
+Added Member To Class: ClassName=M4 Member=Component C143 (C14) 1nF
+Added Member To Class: ClassName=M4 Member=Component C144 (C15) 1nF
+Added Member To Class: ClassName=Designator Member=Component D1 (D31) S3A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D2 (D10) B240A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D3 (D14) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D5 (D17) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D6 (D15) 5988140107F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D8 (D20) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D9 (D18) 5988140107F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D11 (D23) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D12 (D21) 5988140107F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D13 (D22) B240A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D14 (D26) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D15 (D24) 5988140107F
+Added Member To Class: ClassName=Designator Member=Component D16 (D34) SK310A-TP
+Added Member To Class: ClassName=Designator Member=Component D17 (D36) RSB39VTE-17
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D19 (D25) B240A-13-F
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component D20 (D9) 5988140107F
+Added Member To Class: ClassName=Designator Member=Component D22 (D32) S3A-13-F
+Added Member To Class: ClassName=Designator Member=Component D23 (D41) 5988170107F
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component D25 (D2) 5988140107F
+Added Member To Class: ClassName=USB Member=Component D26 (D40) RSB39VTE-17
+Added Member To Class: ClassName=USB Member=Component D27 (D39) PRTR5V0U2F
+Added Member To Class: ClassName=ES1 Member=Component D28 (D4) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES1 Member=Component D29 (D3) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES2 Member=Component D30 (D4) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES2 Member=Component D31 (D3) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES3 Member=Component D32 (D4) ESD9B3.3ST5G
+Added Member To Class: ClassName=ES3 Member=Component D33 (D3) ESD9B3.3ST5G
+Added Member To Class: ClassName=TR1 Member=Component D34 (D37) 1N4148WT
+Added Member To Class: ClassName=TR2 Member=Component D36 (D38) 1N4148WT
+Added Member To Class: ClassName=TR3 Member=Component D38 (D37) 1N4148WT
+Added Member To Class: ClassName=TR3 Member=Component D39 (D38) 1N4148WT
+Added Member To Class: ClassName=TR4 Member=Component D41 (D38) 1N4148WT
+Added Member To Class: ClassName=Designator Member=Component D42 (D35) MM3Z2V7T1G
+Added Member To Class: ClassName=Designator Member=Component D43 (D33) S3A-13-F
+Added Member To Class: ClassName=M1 Member=Component D44 (D5) SMAJ30A
+Added Member To Class: ClassName=M1 Member=Component D45 (D7) SMAJ30A
+Added Member To Class: ClassName=M2 Member=Component D46 (D7) SMAJ30A
+Added Member To Class: ClassName=U_MZ Member=Component D48 (D29) SMAJ30A
+Added Member To Class: ClassName=M4 Member=Component D51 (D5) SMAJ30A
+Added Member To Class: ClassName=M4 Member=Component D52 (D7) SMAJ30A
+Added Member To Class: ClassName=M2 Member=Component D53 (D5) SMAJ30A
+Added Member To Class: ClassName=M1 Member=Component D54 (D6) SMAJ30A
+Added Member To Class: ClassName=M1 Member=Component D55 (D8) SMAJ30A
+Added Member To Class: ClassName=M2 Member=Component D57 (D8) SMAJ30A
+Added Member To Class: ClassName=U_MZ Member=Component D58 (D28) SMAJ30A
+Added Member To Class: ClassName=U_MZ Member=Component D59 (D30) SMAJ30A
+Added Member To Class: ClassName=M3 Member=Component D60 (D6) SMAJ30A
+Added Member To Class: ClassName=M3 Member=Component D61 (D8) SMAJ30A
+Added Member To Class: ClassName=M4 Member=Component D62 (D6) SMAJ30A
+Added Member To Class: ClassName=M4 Member=Component D63 (D8) SMAJ30A
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component J1 (J11) Molex 0395311010
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component J2 (J10A) C-GRID-02-70543
+Added Member To Class: ClassName=Designator Member=Component J3 (J16A) MSTBV6
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component J4 (J6) 20021121-00010C4LF
+Added Member To Class: ClassName=USB Member=Component J5 (J15) USB-B
+Added Member To Class: ClassName=ES2 Member=Component J7 Molex 70543-03
+Added Member To Class: ClassName=ES3 Member=Component J8 (J7A) Molex 70543-03
+Added Member To Class: ClassName=ES2 Member=Component J10 (J8A) Molex 70543-03
+Added Member To Class: ClassName=ES3 Member=Component J11 (J8A) Molex 70543-03
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component J13 (J2) Header 5X2
+Added Member To Class: ClassName=TR1 Member=Component J15 (J14A) C-GRID-02-70543
+Added Member To Class: ClassName=TR2 Member=Component J16 (J14A) C-GRID-02-70543
+Added Member To Class: ClassName=TR4 Member=Component J18 (J14A) C-GRID-02-70543
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component J19 (J4) Header 12X2
+Added Member To Class: ClassName=M1 Member=Component J22 (J9A) Molex 0705430003
+Added Member To Class: ClassName=U_MZ Member=Component J24 (J13A) Molex 0705430003
+Added Member To Class: ClassName=M3 Member=Component J26 (J9A) Molex 0705430003
+Added Member To Class: ClassName=M4 Member=Component J27 (J9A) Molex 0705430003
+Added Member To Class: ClassName=USB Member=Component L2 (L5) MPZ1608S221A
+Added Member To Class: ClassName=Designator Member=Component L4 (L1) LQM21FN100M70L
+Added Member To Class: ClassName=USB Member=Component L5 (L6) DLW21HN900SQ2L
+Added Member To Class: ClassName=Designator Member=Component L7 (L2) LQM21FN100M70L
+Added Member To Class: ClassName=Designator Member=Component R1 (R65) 200K
+Added Member To Class: ClassName=Designator Member=Component R2 (R77) R0402TBD
+Added Member To Class: ClassName=Designator Member=Component R3 (R66) 10K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R4 (R36) 1.8K
+Added Member To Class: ClassName=Designator Member=Component R9 (R68) R0603TBD
+Added Member To Class: ClassName=Designator Member=Component R11 (R67) 0.6r
+Added Member To Class: ClassName=Designator Member=Component R12 (R73) R0402TBD
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R13 (R32) 1.8K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R15 (R34) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R16 (R33) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R17 (R37) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R18 (R38) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R19 (R39) 100K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R20 (R42) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R21 (R41) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R22 (R43) 100K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R23 (R46) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R24 (R45) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R25 (R50) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R26 (R51) 100K
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R29 (R49) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R30 (R54) 10R
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component R31 (R52) 10R
+Added Member To Class: ClassName=Designator Member=Component R32 (R78) R0402TBD
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R36 (R13) 1k
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R37 (R16) 1k
+Added Member To Class: ClassName=USB Member=Component R38 (R81) R0402TBD
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R40 (R18) 100K
+Added Member To Class: ClassName=USB Member=Component R42 (R87) 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R43 (R1) 1k
+Added Member To Class: ClassName=USB Member=Component R45 (R86) 24r
+Added Member To Class: ClassName=USB Member=Component R47 (R84) 24r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R48 (R15) 4.7K
+Added Member To Class: ClassName=USB Member=Component R49 (R89) 24r
+Added Member To Class: ClassName=USB Member=Component R52 (R83) 100K
+Added Member To Class: ClassName=ES1 Member=Component R53 (R22) 100K
+Added Member To Class: ClassName=Designator Member=Component R54 (R72) R0402TBD
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R55 (R7) 10K
+Added Member To Class: ClassName=ES2 Member=Component R60 (R23) 1k
+Added Member To Class: ClassName=ES2 Member=Component R61 (R21) 1k
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R62 (R10) 10K
+Added Member To Class: ClassName=ES3 Member=Component R63 (R23) 1k
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R64 (R11) 10K
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R66 (R9) 10K
+Added Member To Class: ClassName=ES2 Member=Component R67 (R20) 100K
+Added Member To Class: ClassName=ES3 Member=Component R68 (R22) 100K
+Added Member To Class: ClassName=ES3 Member=Component R69 (R20) 100K
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R71 (R14) 4.7K
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R72 (R12) 10K
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R73 (R5) 24r
+Added Member To Class: ClassName=TR1 Member=Component R74 (R80) 4.7K
+Added Member To Class: ClassName=TR1 Member=Component R75 (R79) 4.7K
+Added Member To Class: ClassName=TR2 Member=Component R76 (R80) 4.7K
+Added Member To Class: ClassName=TR2 Member=Component R77 (R79) 4.7K
+Added Member To Class: ClassName=TR3 Member=Component R78 (R80) 4.7K
+Added Member To Class: ClassName=TR4 Member=Component R79 (R80) 4.7K
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R81 (R8) 24r
+Added Member To Class: ClassName=TR4 Member=Component R83 (R79) 4.7K
+Added Member To Class: ClassName=Designator Member=Component R84 (R70) 430r
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component R85 (R2) 10K
+Added Member To Class: ClassName=M1 Member=Component R87 (R30) NP
+Added Member To Class: ClassName=M2 Member=Component R88 (R31) NP
+Added Member To Class: ClassName=U_MZ Member=Component R90 (R63) NP
+Added Member To Class: ClassName=U_MZ Member=Component R91 (R62) NP
+Added Member To Class: ClassName=M3 Member=Component R92 (R31) NP
+Added Member To Class: ClassName=M3 Member=Component R93 (R30) NP
+Added Member To Class: ClassName=M4 Member=Component R94 (R31) NP
+Added Member To Class: ClassName=M4 Member=Component R95 (R30) NP
+Added Member To Class: ClassName=Designator Member=Component R96 (R75) R0402TBD
+Added Member To Class: ClassName=M1 Member=Component R97 (R27) 1M
+Added Member To Class: ClassName=M1 Member=Component R98 (R25) 10K
+Added Member To Class: ClassName=U_MZ Member=Component R101 (R59) 1M
+Added Member To Class: ClassName=U_MZ Member=Component R102 (R57) 10K
+Added Member To Class: ClassName=M3 Member=Component R103 (R27) 1M
+Added Member To Class: ClassName=M3 Member=Component R104 (R26) 100K
+Added Member To Class: ClassName=M3 Member=Component R105 (R24) 10K
+Added Member To Class: ClassName=U_MZ Member=Component R107 (R56) 10K
+Added Member To Class: ClassName=M1 Member=Component R108 (R29) 2512
+Added Member To Class: ClassName=M1 Member=Component R111 (R26) 100K
+Added Member To Class: ClassName=M3 Member=Component R112 (R25) 10K
+Added Member To Class: ClassName=M2 Member=Component R113 (R29) 2512
+Added Member To Class: ClassName=M2 Member=Component R114 (R28) 2512
+Added Member To Class: ClassName=M2 Member=Component R115 (R26) 100K
+Added Member To Class: ClassName=M2 Member=Component R116 (R24) 10K
+Added Member To Class: ClassName=U_MZ Member=Component R118 (R58) 100K
+Added Member To Class: ClassName=M3 Member=Component R120 (R28) 2512
+Added Member To Class: ClassName=M4 Member=Component R121 (R27) 1M
+Added Member To Class: ClassName=M4 Member=Component R122 (R24) 10K
+Added Member To Class: ClassName=M4 Member=Component R124 (R26) 100K
+Added Member To Class: ClassName=U_MZ Member=Component R125 (R60) 2512
+Added Member To Class: ClassName=Designator Member=Component R127 (R74) R0402TBD
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component S2 (S1) KSC721JLFS
+Added Member To Class: ClassName=M1 Member=Component TP1 (TP15) TP4
+Added Member To Class: ClassName=M1 Member=Component TP2 (TP24) TP4
+Added Member To Class: ClassName=M1 Member=Component TP3 (TP23) TP4
+Added Member To Class: ClassName=M1 Member=Component TP4 (TP20)
+Added Member To Class: ClassName=M1 Member=Component TP6 (TP21) TP4
+Added Member To Class: ClassName=M2 Member=Component TP8 (TP15) TP4
+Added Member To Class: ClassName=M2 Member=Component TP11 (TP23) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP13 (TP38) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP14 (TP37) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP15 (TP36) TP4
+Added Member To Class: ClassName=M4 Member=Component TP16 (TP23) TP4
+Added Member To Class: ClassName=M4 Member=Component TP17 (TP24) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP18 (TP40) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP19 (TP39) TP4
+Added Member To Class: ClassName=M3 Member=Component TP21 (TP20) TP4
+Added Member To Class: ClassName=M3 Member=Component TP22 (TP21) TP4
+Added Member To Class: ClassName=M3 Member=Component TP24 (TP22) TP4
+Added Member To Class: ClassName=M3 Member=Component TP25 (TP23) TP4
+Added Member To Class: ClassName=M4 Member=Component TP27 (TP20) TP4
+Added Member To Class: ClassName=M4 Member=Component TP28 (TP21) TP4
+Added Member To Class: ClassName=M4 Member=Component TP29 (TP15) TP4
+Added Member To Class: ClassName=M1 Member=Component TP31 (TP14) TP4
+Added Member To Class: ClassName=M2 Member=Component TP32 (TP14) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP33 TP4
+Added Member To Class: ClassName=M4 Member=Component TP35 (TP14) TP4
+Added Member To Class: ClassName=Designator Member=Component TP36 (TP49) TP4
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP38 (TP29) TP4
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP39 (TP28) TP4
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP40 (TP27) TP4
+Added Member To Class: ClassName=Designator Member=Component TP41 (TP43) TP4
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP43 (TP26) TP4
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component TP44 (TP25) TP4
+Added Member To Class: ClassName=Designator Member=Component TP45 (TP46) TP4
+Added Member To Class: ClassName=Designator Member=Component TP46 (TP45) TP4
+Added Member To Class: ClassName=Designator Member=Component TP47 (TP50) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP49 (TP8) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP50 (TP9) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP51 (TP6) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP52 (TP10) TP4
+Added Member To Class: ClassName=USB Member=Component TP54 (TP59) TP4
+Added Member To Class: ClassName=USB Member=Component TP56 (TP55) TP4
+Added Member To Class: ClassName=USB Member=Component TP57 TP4
+Added Member To Class: ClassName=USB Member=Component TP58 (TP56) TP4
+Added Member To Class: ClassName=USB Member=Component TP59 (TP58) TP4
+Added Member To Class: ClassName=ES3 Member=Component TP60 (TP11) TP4
+Added Member To Class: ClassName=ES3 Member=Component TP61 (TP12) TP4
+Added Member To Class: ClassName=ES2 Member=Component TP62 (TP11) TP4
+Added Member To Class: ClassName=ES1 Member=Component TP65 (TP12) TP4
+Added Member To Class: ClassName=Designator Member=Component TP66 (TP52) TP4
+Added Member To Class: ClassName=TR3 Member=Component TP68 (TP53) TP4
+Added Member To Class: ClassName=TR1 Member=Component TP71 (TP53) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP72 (TP4) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP73 (TP3) TP4
+Added Member To Class: ClassName=Designator Member=Component TP74 (TP48) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP75 (TP2) TP4
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component TP77 (TP1) TP4
+Added Member To Class: ClassName=M4 Member=Component TP78 (TP13) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP80 (TP31) TP4
+Added Member To Class: ClassName=M2 Member=Component TP81 (TP13) TP4
+Added Member To Class: ClassName=M1 Member=Component TP82 (TP13) TP4
+Added Member To Class: ClassName=M4 Member=Component TP83 (TP18) TP4
+Added Member To Class: ClassName=M4 Member=Component TP84 (TP16) TP4
+Added Member To Class: ClassName=M4 Member=Component TP85 (TP17) TP4
+Added Member To Class: ClassName=M3 Member=Component TP87 (TP18) TP4
+Added Member To Class: ClassName=M3 Member=Component TP88 (TP16) TP4
+Added Member To Class: ClassName=M3 Member=Component TP89 (TP17) TP4
+Added Member To Class: ClassName=M3 Member=Component TP90 (TP19) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP91 (TP41) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP92 (TP32) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP93 (TP42) TP4
+Added Member To Class: ClassName=U_MZ Member=Component TP94 (TP35) TP4
+Added Member To Class: ClassName=M2 Member=Component TP95 (TP18) TP4
+Added Member To Class: ClassName=M2 Member=Component TP98 (TP19) TP4
+Added Member To Class: ClassName=M1 Member=Component TP100 (TP16) TP4
+Added Member To Class: ClassName=M1 Member=Component TP101 (TP17) TP4
+Added Member To Class: ClassName=Designator Member=Component U1 (U12) LM25011MY/NOPB
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U4 (U6) ZXGD3009E6
+Added Member To Class: ClassName=U_MOSFETs and Driver Member=Component U5 (U7) ZXGD3009E6
+Added Member To Class: ClassName=USB Member=Component U8 (U13) ADuM4160
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component U10 (U1A) ATML-ATSAM3X-LQFP-144
+Added Member To Class: ClassName=M2 Member=Component U13 (U3) DRV8825
+Added Member To Class: ClassName=U_MZ Member=Component U14 (U10) DRV8825
+Added Member To Class: ClassName=M3 Member=Component U15 (U3) DRV8825
+Added Member To Class: ClassName=M4 Member=Component U16 (U3) DRV8825

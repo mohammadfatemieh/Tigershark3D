@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C9
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C10
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C11
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C12
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C13
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C14
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C15
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C16
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C17
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C18
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C19
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C20
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C21
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C22
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C23
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=L1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=L2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=L3
+Added Member To Class: ClassName=Designator Member=Component C9 0603
+Added Member To Class: ClassName=Designator Member=Component C10 100nF
+Added Member To Class: ClassName=Designator Member=Component C11 100nF
+Added Member To Class: ClassName=Designator Member=Component C12 0603
+Added Member To Class: ClassName=Designator Member=Component C13 0603
+Added Member To Class: ClassName=Designator Member=Component C14 100nF
+Added Member To Class: ClassName=Designator Member=Component C15 100nF
+Added Member To Class: ClassName=Designator Member=Component C16 0603
+Added Member To Class: ClassName=Designator Member=Component C17 100nF
+Added Member To Class: ClassName=Designator Member=Component C18 100nF
+Added Member To Class: ClassName=Designator Member=Component C19 100nF
+Added Member To Class: ClassName=Designator Member=Component C20 100nF
+Added Member To Class: ClassName=Designator Member=Component C21 100nF
+Added Member To Class: ClassName=Designator Member=Component C22 0603
+Added Member To Class: ClassName=Designator Member=Component C23 100nF
+Added Member To Class: ClassName=Designator Member=Component L1 LQM21FN100M70L
+Added Member To Class: ClassName=Designator Member=Component L2 LQM21FN100M70L
+Added Member To Class: ClassName=Designator Member=Component L3 LQM21FN100M70L

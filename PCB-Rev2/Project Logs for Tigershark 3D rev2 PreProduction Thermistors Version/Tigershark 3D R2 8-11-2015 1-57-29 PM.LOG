@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C24
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C25
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C26
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C27
+Added Member To Class: ClassName=Designator Member=Component C24 100nF
+Added Member To Class: ClassName=Designator Member=Component C25 100nF
+Added Member To Class: ClassName=Designator Member=Component C26 100nF
+Added Member To Class: ClassName=Designator Member=Component C27 100nF
