@@ -1,0 +1,6 @@
+Added Component: Designator=TP103(TP-2)
+Added Component: Designator=TP104(TP-2)
+Added Pin To Net: NetName=GND Pin=TP103-1
+Added Pin To Net: NetName=GND Pin=TP104-1
+Added Member To Class: ClassName=Designator Member=Component TP103 TP4
+Added Member To Class: ClassName=Designator Member=Component TP104 TP4
