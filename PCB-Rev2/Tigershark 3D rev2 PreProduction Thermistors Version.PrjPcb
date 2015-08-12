@@ -362,14 +362,46 @@ DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 4-23-29 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Tigershark 3D rev2 PreProduction Thermistors Version\Tigershark 3D R2.4 - TR.DRR
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-27-42 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Tigershark 3D rev2 PreProduction Thermistors Version\Tigershark 3D R2.4 - TR.LDP
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-28-14 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-29-07 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-30-00 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-30-34 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 6-31-13 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 9-31-28 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Tigershark 3D R2.4 - TR 8-11-2015 10-09-07 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Tigershark 3D rev2 PreProduction Thermistors Version\Tigershark 3D R2.4 - TR.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Tigershark 3D rev2 PreProduction Thermistors Version\Tigershark 3D R2.4 - TR.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Tigershark 3D rev2 PreProduction Thermistors Version\Tigershark 3D R2.4 - TR.TXT
 DItemRevisionGUID=
 
@@ -580,7 +612,7 @@ OutputDefault3=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=3
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
 OutputDocumentPath1=
@@ -655,7 +687,7 @@ OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Schematic Print
 OutputName13=Schematic Prints
-OutputDocumentPath13=C:\Users\johnny\Documents\GitHub\Tigershark3D\PCB-Rev2\ATSAM3X8E Main Controller - TR R1.1.SchDoc
+OutputDocumentPath13=C:\Users\johnny\Documents\GitHub\Tigershark3D\PCB-Rev2\M.SchDoc
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -1353,9 +1385,9 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component$ChannelAlpha
+PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
-GlobalIndexSortLocation=0
+GlobalIndexSortLocation=1
 UniqueIDPath0=
 DocumentName0=ATSAM3X8E Main Controller - TR R1.1.SchDoc
 IsEnabled0=1
