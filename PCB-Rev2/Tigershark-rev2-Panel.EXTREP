@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Tigershark-rev2-Panel.GBR   7/7/2015  7:29:53 PM
+Gerber File Extension Report For: Tigershark-rev2-Panel.GBR   8/13/2015  3:58:13 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,7 +7,7 @@ Gerber File Extension Report For: Tigershark-rev2-Panel.GBR   7/7/2015  7:29:53 
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GP1                Groun Plane                             
+.GP1                Ground Plane                            
 .GP2                Power Plane                             
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
@@ -16,5 +16,16 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM6                Mechanical 6                            
+.GM8                Mechanical 8                            
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM30               Panel Dimension                         
+.GM31               V-Score                                 
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

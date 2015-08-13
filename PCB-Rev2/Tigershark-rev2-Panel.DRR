@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Tigershark-rev2-Panel.PcbDoc   7/7/2015  7:29:24 PM
+NCDrill File Report For: Tigershark-rev2-Panel.PcbDoc   8/13/2015  4:00:08 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,16 +7,21 @@ ASCII RoundHoles File : Tigershark-rev2-Panel.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        15mil (0.381mm)          Round          2464             254.70 Inch (6469.50 mm)
-T2        35mil (0.889mm)          Round          84               15.75 Inch (399.97 mm)
-T3        38mil (0.9652mm)         Round          8                4.47 Inch (113.42 mm)
-T4        40mil (1.016mm)          Round          120              34.64 Inch (879.80 mm)
-T5        55mil (1.397mm)          Round          32               13.25 Inch (336.51 mm)
-T6        59mil (1.4986mm)         Round          4                4.33 Inch (109.88 mm)
-T7        63mil (1.6002mm)         Round          24               11.29 Inch (286.72 mm)
-T8        87mil (2.2098mm)         Round          4                4.52 Inch (114.89 mm)
-T9        118mil (2.9972mm)        Round          12        NPTH   27.08 Inch (687.85 mm)
+T1        15mil (0.381mm)          Round          2524             249.14 Inch (6328.23 mm)
+T2        20mil (0.508mm)          Round          2                4.05 Inch (102.87 mm)
+T3        22mil (0.5588mm)         Round          4                10.02 Inch (254.50 mm)
+T4        24mil (0.6096mm)         Round          14               5.96 Inch (151.48 mm)
+T5        30mil (0.762mm)          Round          4                4.13 Inch (104.90 mm)
+T6        35.4mil (0.89916mm)      Round          88               13.45 Inch (341.57 mm)
+T7        38mil (0.9652mm)         Round          8                4.61 Inch (116.98 mm)
+T8        40mil (1.016mm)          Round          124              37.38 Inch (949.57 mm)
+T9        55mil (1.397mm)          Round          32               13.24 Inch (336.39 mm)
+T10       59mil (1.4986mm)         Round          4                4.33 Inch (109.88 mm)
+T11       63mil (1.6002mm)         Round          24               11.27 Inch (286.38 mm)
+T12       87mil (2.2098mm)         Round          4                4.52 Inch (114.89 mm)
+T13       118.1mil (2.99974mm)     Round          12        NPTH   27.07 Inch (687.59 mm)
+T14       129.9mil (3.29946mm)     Round          6         NPTH   10.57 Inch (268.35 mm)
 ---------------------------------------------------------------------------
-Totals                                            2752             370.02 Inch (9398.53 mm)
+Totals                                            2850             399.75 Inch (10153.58 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:14

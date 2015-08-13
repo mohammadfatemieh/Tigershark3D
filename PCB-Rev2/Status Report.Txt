@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Free Documents]
-   Generated File[Tigershark-rev2-Panel.GTL]
-   Generated File[Tigershark-rev2-Panel.GP1]
-   Generated File[Tigershark-rev2-Panel.GP2]
-   Generated File[Tigershark-rev2-Panel.GBL]
-   Generated File[Tigershark-rev2-Panel.GTO]
-   Generated File[Tigershark-rev2-Panel.GTP]
-   Generated File[Tigershark-rev2-Panel.GTS]
-   Generated File[Tigershark-rev2-Panel.GBS]
-   Generated File[Tigershark-rev2-Panel.GBP]
-   Generated File[Tigershark-rev2-Panel.GBO]
-   Generated File[Tigershark-rev2-Panel.GKO]
-   Generated File[Tigershark-rev2-Panel.RUL]
-   Generated File[Tigershark-rev2-Panel.EXTREP]
-   Generated File[Tigershark-rev2-Panel.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[AMBIT-panel.TXT]
+   Generated File[AMBIT-panel.LDP]
+   Generated File[AMBIT-panel.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:29:59 PM On 7/7/2015
+Finished Output Generation At 4:52:10 PM On 8/13/2015
